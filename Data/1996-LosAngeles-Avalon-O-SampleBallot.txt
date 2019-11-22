@@ -1,0 +1,23 @@
+﻿* Shall the business license tax ordinance requirement that the City turn over fj all business license taxes to the Chamber of Commerce be changed to	m	YES-*0
+** require that all of these tax revenues go into the City's General Services Fund?	m	N0-*O
+n Shall the business license tax ordinance requirement that the City turn over U all business license taxes to the Chamber of Commerce be changed to split	m	YES-*0
+■ these tax revenues evenly (50/50) between the City’s General Services Fund and the Chamber of Commerce?	m	NO^O
+^ Shall the business license tax ordinance be amended to increase the base Q rate business license tax from $93.75 to $120 and appty the base rate to ^ businesses engaged in the transient rental of rooms and units be adopted?	m	YES^O
+	m	*0-*G
+
+END OF BALLOT
+
+CITY ATTORNEY’S IMPARTIAL ANALYSIS OF PROPOSITION O
+
+In 1956, Avalon voters enacted by initiative an ordinance that requires all business
+license taxes collected by the City to be turned over to the Chamber of Commerce,
+to be used for promotion and marketing. In 1995-96, the Chamber of Commerce
+received $81,585 in business license taxes. The Chamber of Commerce also
+receives 22% of all transient occupancy taxes collected by the City pursuant to
+an ordinance adopted by the City Council in 1994. In 1995-96, the Chamber of
+Commerce received $331,216 from transient occupancy taxes. If Measure O is
+approved, all business license tax revenue will go into the City’s General Services
+fund rather than to the Chamber of Commerce. The Chamber of Commerce
+would continue to receive 22% of transient occupancy taxes. If both Measure O
+and Measure P receive more than 50% “Yes” votes, then the measure receiving
+the most “Yes” votes will be adopted.

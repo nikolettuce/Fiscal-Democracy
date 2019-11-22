@@ -1,0 +1,439 @@
+﻿MEASURE“A”
+
+AN ORDINANCE OF THE PEOPLE OF THE CITY OF GARDENA UPDATING THE
+TELEPHONE/TELECOMMUNICATIONS PROVISIONS OF THE UTILITY USERS
+
+TAX.
+
+THE PEOPLE OF THE CITY OF GARDENA, CALIFORNIA DO HEREBY ORDAIN
+AS FOLLOWS:
+
+Section 1. Section 3.20.010 of Chapter 3.20 of the Gardena Municipal Code is hereby
+amended to read as follows:
+
+3.20.010	Definitions.
+
+For the purposes of this chapter, unless otherwise apparent from the context, certain words and
+phrases used in this chapter are defined as follows:
+
+(a)	“Ancillary Telecommunictions Services” shall mean services that are associated
+with or incidental to the provision, use or enjoyment of telecommunications services, including but
+not limited to the following services:
+
+(1)	“Conference bridging service” means an ancillary service that links two or
+more participants of an audio or video conference call and may include the provision of a
+telephone number. Conference bridging service does not include the telecommunications services
+used to reach the conference bridge.
+
+(2)	“Detailed telecommunications billing service” means an ancillary service of
+separately stating information pertaining to individual calls on a customer’s billing statement.
+
+(3)	“Directory assistance” means an ancillary service of providing telephone
+number information, and/or address information.
+
+(4)	“Vertical service” means an ancillary service that is offered in connection
+with one or more telecommunications services, which offers advanced calling features that allow
+customers to identify callers and to manage multiple calls and call connections, including
+conference bridging services.
+
+(5)	“Voice mail service” means an ancillary service that enables the customer
+to store, send or receive recorded messages. Voice mail service does not include any vertical
+services that the customer may be required to have in order to utilize the voice mail service.
+
+(b)	“Billing Address” shall mean the mailing address of the service user where the
+service supplier submits invoices or bills for payment by the service user.
+
+(c)	“City” shall mean the City of Gardena, California.
+
+(d)	“City Manager” shall mean the City Manager of the City, or his or her authorized
+representative.
+
+(e)	“Communication Services” shall mean telecommunication services and ancillary
+telecommunication services.
+
+(f)	“Cogenerator” shall mean any corporation or person employing cogeneration (as
+defined in Section 218.5 of the California Public Utilities Code) for producing power for the
+
+Page 1 of 3
+
+generation of electricity for self use or sale to others from a qualified cogeneration facility (as
+defined in the federal Public Utility Regulatory Policies Act of 1978 and regulations thereunder).
+
+(g)	“Exempt Wholesale Generator” shall have the same meaning as set forth in the
+Federal Power Act (15 U.S.C. Section 79z-5a) and the regulations thereunder.
+
+(h)	“Gas” shall mean natural or manufactured gas or any alternate hydrocarbon fuel,
+which may be substituted therefor.
+
+(i)	“Mobile Telecommunications Service” shall have the same meaning and usage as
+set forth in the Mobile Telecommunications Sourcing Act (4 U.S.C. Section 124) and the
+regulations thereunder.
+
+(j)	“Month” shall mean a calendar month.
+
+(k)	“Municipal Organization” shall mean an organization or association created by
+statute or by voluntary action, whose purpose is to facilitate the development and dissemination
+of uniform rulings or interpretations regarding the application of utility users taxes to
+communications services in the State of California.
+
+(l)	“Non-Utility Service Supplier” shall mean:
+
+(1)	a service supplier, other than a supplier of electric distribution services to all
+or a significant portion of the City, which generates electricity for sale to others, and shall
+include but is not limited to any publicly-owned electric utility, investor-owned utility,
+cogenerator, distributed generation provider, exempt wholesale generator, municipal utility
+district, federal power marketing agency, electric rural cooperative, or other supplier or seller of
+electricity;
+
+(2)	an electric service provider (ESP), electricity broker, marketer, aggregator,
+pool operator, or other electricity supplier other than a supplier of electric distribution services to
+all or a significant portion of the City, which sells or supplies electricity or supplemental services
+to electricity users within the City;
+
+(3)	a gas service supplier, aggregator, marketer or broker, other than a supplier
+of gas distribution services to all or a significant portion of the City, which sells or supplies gas
+or supplemental services to gas users within the City; or,
+
+(4)	a water service supplier, distributor, wholesaler, marketer, or broker, which
+sells or supplies water to users within the City (other than a supplier of water distribution
+services to all or a significant portion of the City).
+
+(m)	“Person” shall mean, without limitation, any natural individual; firm; trust;
+common law trust; estate; partnership of every kind; association; syndicate; society; club; joint
+stock company; joint venture; limited liability company; corporation (including foreign,
+domestic, and non-profit); municipal corporation (other than the City); municipal district;
+cooperative; or receiver, trustee, guardian or other representative appointed by order of any
+court.
+
+(n)	“Place of Primary Use” shall mean the street address representative of where the
+customer’s use of the communications service primarily occurs, which must be the residential
+street address or the primary business street address of the customer.
+
+(o)	“Post-Paid Telecommunication Service” shall mean the telecommunication service
+obtained by making a payment on a telecommunication-by-telecommunication basis either through
+the use of a credit card or payment mechanism such as a bank card, travel card, credit card, or
+
+Page 2 of 9
+
+debit card, or by charge made to a service number which is not associated with the origination or
+termination of the telecommunication service.
+
+(p)	“Prepaid Telecommunication Service” shall mean the right to access
+telecommunication services, which must be paid for in advance and which enables the origination
+of telecommunications using an access number or authorization code, whether manually or
+electronically dialed, and that is sold in predetermined units or dollars of which the number
+declines with use in a known amount.
+
+(q)	“Private Telecommunication Service” shall mean a telecommunication service that
+entitles the customer to exclusive or priority use of a telecommunications channel or group of
+channels between or among termination points, regardless of the manner in which such channel or
+channels are connected, and includes switching capacity, extension lines, stations, and any other
+associated services that are provided in connection with the use of such channel or channels. A
+telecommunications channel is a physical or virtual path of telecommunications over which signals
+are transmitted between or among customer channel termination points (i.e., the location where the
+customer either inputs or receives the telecommunications).
+
+(r)	“Service Address” means any of the following:
+
+(1)	The location of the service user’s telecommunications equipment from
+which the telecommunication originates or terminates, regardless of where the
+telecommunication is billed or paid; or,
+
+(2)	If the location in subsection (1) of this definition is unknown (e.g., mobile
+telecommunications or VoIP service), the service address means the location of the service user’s
+place of primary use, or
+
+(3)	For prepaid telecommunication service, “service address” means the location
+associated with the service number.
+
+(s)	“Service Supplier” shall mean any entity or person, including the City that provides
+communication, electric, gas or water services to a user of such services within the City. The term
+shall include any entity or person required to collect, or self-collect under Section 3.20.060 of this
+chapter, and remit a tax as imposed by this chapter, including its billing agent in the case of
+communication, electric, gas or water service suppliers.
+
+(t)	“Service User” shall mean a person required to pay a tax imposed by this chapter.
+
+(u)	“State” shall mean the State of California.
+
+(v)	“Streamlined Sales and Use Tax Agreement” shall mean the multi-state agreement
+commonly known and referred to as the Streamlined Sales and Use Tax Agreement, and as it is
+amended from time to time.
+
+(w)	“Tax Administrator” shall mean the Administrative Services Director of the City,
+or his or her authorized representative.
+
+(x)	“Telecommunications Services” shall mean the transmission, conveyance, or
+routing of voice, data, audio, video, or any other information or signals to a point, or between or
+among points, whatever the technology used. The term “telecommunications services” includes
+such transmission, conveyance, or routing in which computer processing applications are used to
+act on the form, code or protocol of the content for purposes of transmission, conveyance or
+routing without regard to whether such services are referred to as voice over internet protocol
+(VoIP) services or are classified by the Federal Communications Commission as enhanced or
+value added, and includes video and/or data services that is functionally integrated with
+
+Page 3 of 9
+
+“telecommunication services”. “Telecommunications services” include, but are not limited to
+the following services, regardless of the manner or basis on which such services are calculated or
+billed: ancillary telecommunication services; mobile telecommunications service; prepaid
+telecommunication service; post-paid telecommunication service; private telecommunication
+service; paging service; 800 service (or any other toll-free numbers designated by the Federal
+Communications Commission); 900 service (or any other similar numbers designated by the
+Federal Communications Commission for services whereby subscribers who call in to pre-
+recorded or live service).
+
+(y)	“VoIP” (voice over internet protocol) shall mean the digital process of making
+and receiving real-time voice transmissions over any Internet Protocol network.
+
+(z)	“800	SERVICE” shall mean a “telecommunications service” that allows a caller
+
+to dial a toll-free number without incurring a charge for the call. The service is typically
+marketed under the name “800”, “855”, “866”, “877”, and “888” toll-free calling, and any
+subsequent numbers designated by the Federal Communications Commission.
+
+(aa)	“900 SERVICE” shall mean an inbound toll “telecommunications service”
+purchased by a subscriber that allows the subscriber’s customers to call in to the subscriber’s
+prerecorded announcement or live service. “900 service” does not include the charge for:
+collection services provided by the seller of the “telecommunications services” to the subscriber,
+or service or product sold by the subscriber to the subscriber’s customer. The service is typically
+marketed under the name “900” service, and any subsequent numbers designated by the Federal
+Communications Commission.
+
+Section 2. Subsection (b) of Section 3.20.020 of Chapter 3.20 of the Gardena Municipal
+Code is hereby amended to read as follows:
+
+3.20.020	Constitutional exemptions.
+
+(b)	Any service user that is exempt from the tax imposed by this subchapter
+pursuant to division (A) shall file an application with the Tax Administrator for an exemption;
+provided, however, this requirement shall not apply to a service user that is a state or federal
+agency or subdivision with a commonly recognized name. Said application shall be made upon a
+form approved by the Tax Administrator and shall state those facts, declared under penalty of
+perjury, which qualify the applicant for an exemption, and shall include the names of all utility
+service suppliers serving that service user. If deemed exempt by the Tax Administrator, such
+service user shall give the Tax Administrator timely written notice of any change in utility
+service suppliers so that the Tax Administrator can properly notify the new utility service
+supplier of the service user's tax exempt status. A service user that fails to comply with this
+section shall not be entitled to a refund of utility users taxes collected and remitted to the Tax
+Administrator from such service user as a result of such non-compliance. Upon request of the
+Tax Administrator, a service supplier or non-utility service supplier, or its billing agent, shall
+provide a list of the names and addresses of those customers which, according to its billing
+records, are deemed exempt from the utility users tax.
+
+Page 4 of 9
+
+Section 3. Section 3.20.030 of Chapter 3.20 of the Gardena Municipal Code is hereby
+amended to read as follows:
+
+3.20.030 Communication users’ tax.
+
+(a)	There is hereby imposed a tax upon every person in the City who uses intrastate
+communication services in the city. The tax imposed by this section shall be at the rate of five
+percent (5%) of all charges made for such services and shall be collected from the service user
+by the service supplier or its billing agent. There is a rebuttable presumption that
+communication services, which services are capable of terminating a call to another person on
+the general telephone network, and which are billed to a billing or service address in the City, are
+used, in whole or in part, within the City’s boundaries, and such services are subject to taxation
+under this chapter. If the billing address of the service user is different from the service address,
+the service address of the service user shall be used for purposes of imposing the tax.
+
+(b)	“Mobile Telecommunications Service” shall be sourced in accordance with the
+sourcing rules set forth in the Mobile Telecommunications Sourcing Act (4 U.S.C. Section 124).
+The Tax Administrator may issue and disseminate to communication service suppliers, which are
+subject to the tax collection requirements of this chapter, sourcing rules for the taxation of other
+communication services, including but not limited to post-paid telecommunication services,
+prepaid telecommunication services, and private telecommunication services, provided that such
+rules are based upon custom and common practice that further administrative efficiency and
+minimize multi-jurisdictional taxation (e.g., Streamlined Sales and Use Tax Agreement).
+
+(c)	As used in this section, the term “charges” shall include the value of any other
+services, credits, property of every kind or nature, or other consideration provided by the service
+user in exchange for the communication services.
+
+(d)	The Tax Administrator, from time to time, may issue and disseminate to
+communication service suppliers that are subject to the tax collection requirements of this
+chapter, an administrative ruling identifying those communication services that are subject to the
+tax of subsection (a) above. This administrative ruling shall not impose a new tax, revise an
+existing tax methodology as stated in this chapter, or increase an existing tax except as allowed
+by California Government Code Section 53750(h)(2), as it may be amended from time to time.
+
+(e)	As used in this section, the term “communication services” shall not include
+“private mobile radio service” [as defined in Part 20.3 of Title 47 of the Code of Federal
+Regulations] or “private mobile service” [as defined in 47 U.S.C.A. Section 332(d)(3)], which is
+not interconnected with the public switched network. As used in this section, the term
+“communications services” shall include, but shall not be limited to charges for: connection,
+reconnection, termination, movement, or change of communications services; late payment fees;
+detailed billing; central office and custom calling features (including but not limited to call
+waiting, call forwarding, caller identification and three-way calling); voice mail and other
+messaging services; directory assistance; access and line charges; universal service charges;
+regulatory, administrative and other cost recovery charges; local number portability charges; and
+text and instant messaging. “Communication services” shall not include digital downloads such
+as, music, ringtones, games, and similar digital products.
+
+(f)	To facilitate the uniform interpretation and application of similar ordinance
+provisions in other local jurisdictions in the state, the Tax Administrator may, prior to issuing
+and disseminating a sourcing rule or an administrative tax ruling, submit his or her proposed
+sourcing rule or administrative tax ruling to a Municipal Organization for review and comment,
+according to the rules and procedures of that Municipal Organization, or its successor
+organization.
+
+(g)	To prevent actual multi-jurisdictional taxation of communication services subject to
+tax under this section, any service user, upon proof to the Tax Administrator that the service user
+has previously paid the same tax in another state or city on such communication services, shall
+be allowed a credit against the tax imposed to the extent of the amount of such tax legally
+imposed in such other state or city; provided, however, the amount of credit shall not exceed the
+tax owed to the City under this section.
+
+(h)	. The tax on communication services imposed by this section shall be collected from
+the service user by the service supplier. The amount of tax collected in one (1) month shall be
+remitted to the Tax Administrator, and must be received by the Tax Administrator on or before
+the thirtieth (30th) day of the following month.
+
+Section 4. Section 3.20.080 of Chapter 3.20 of the Gardena Municipal Code is hereby
+amended to read as follows:
+
+3.20.080	Effect of Bundling Non-Taxable with Taxable Items.
+
+If any nontaxable charges are bundled with and not separately stated from taxable service
+charges on the customer bill or invoice of a service supplier, the combined charge is subject to
+tax unless the service supplier identifies, by reasonable and verifiable standards, the portions of
+the combined charge that are nontaxable and taxable through the service supplier's books and
+records kept in the regular course of business, and in accordance with generally accepted
+accounting principles, and not created and maintained for tax purposes. The service supplier has
+the burden of proving the proper apportionment of taxable and non-taxable charges. If the
+service supplier offers a combination of taxable and non-taxable services, and the charges are
+separately stated, then for taxation purposes, the values assigned the taxable and non-taxable
+services shall be based on its books and records kept in the regular course of business and in
+accordance with generally accepted accounting principles, and not created and maintained for tax
+purposes. The service supplier has the burden of proving the proper valuation of the taxable and
+non-taxable services.
+
+Section 5. Section 3.20.090 of Chapter 3.20 of the Gardena Municipal Code is hereby
+amended to read as follows:
+
+3.20.090	Substantial Nexus / Minimum Contacts
+
+For purposes of imposing a tax or establishing a duty to collect and remit a tax under this
+chapter, “substantial nexus” and “minimum contacts” shall be construed broadly in favor of the
+imposition, collection and/or remittance of the utility users tax to the fullest extent permitted by
+state and federal law, and as it may change from time to time by judicial interpretation or by
+
+statutory enactment. A service supplier shall be deemed to have sufficient activity in the City for
+tax collection and remittance purposes if its activities include, but are not limited to, any of the
+following: maintains or has within the City, directly or through an agent or subsidiary, a place of
+business of any nature; solicits business in the City by employees, independent contractors,
+resellers, agents or other representatives; solicits business in the City on a continuous, regular,
+seasonal or systematic basis by means of advertising that is broadcast or relayed from a
+transmitter with the City or distributed from a location within the City; or advertises in
+newspapers or other periodicals printed and published within the City or through materials
+distributed in the City by means other than the United States mail; or if there are activities
+performed in the City on behalf of the service supplier that are significantly associated with the
+service supplier's ability to establish and maintain a market in the City for the provision of
+services that are subject to a tax under this Chapter.
+
+Section 6. Subsection (b) of Section 3.20.160 of Chapter 3.20 of the Gardena Municipal
+Code is hereby amended to read as follows:
+
+3.20.160	Additional Powers and Duties of the Tax Administrator.
+
+(b)	The Tax Administrator may adopt administrative rules and regulations not
+inconsistent with provisions of this chapter for the purpose of interpreting, clarifying, carrying
+out and enforcing the payment, collection and remittance of the taxes herein imposed. A copy of
+such administrative rules and regulations shall be on file in the Tax Administrator’s office. To
+the extent that the Tax Administrator determines that the tax imposed under this chapter shall not
+be collected in full for any period of time from any particular service supplier or service user,
+that determination shall be considered an exercise of the Tax Administrator's discretion to settle
+disputes and shall not constitute a change in taxing methodology for purposes of Government
+Code Section 53750 or otherwise. The Tax Administrator is not authorized to amend the City's
+methodology for purposes of Government Code Section 53750 and the City does not waive or
+abrogate its ability to impose the communication users’ tax in full as a result of promulgating
+administrative rulings or entering into agreements.
+
+Section 7. Section 3.20.230 of Chapter 3.20 of the Gardena Municipal Code is hereby
+amended to read as follows:
+
+3.20.230	Future Amendment to Cited Statute.
+
+Unless specifically provided otherwise, any reference to a state or federal statute in this
+chapter shall mean such statute as it may be amended from time to time, provided that such
+reference to a statute herein shall not include any subsequent amendment thereto, or to any
+subsequent change of interpretation thereto by a state or federal agency or court of law with the
+duty to interpret such law, to the extent that such amendment or change of interpretation would
+require voter approval under California law, or to the extent that such change would result in a
+tax decrease (as a result of excluding all or a part of any utility service, or charge therefor, from
+
+Page 7 of 9
+
+taxation). Only to the extent voter approval would otherwise be required or a tax decrease would
+result, the prior version of the statute (or interpretation) shall remain applicable; for any
+application or situation that would not require voter approval or result in a decrease of a tax,
+provisions of the amended statute (or new interpretation) shall be applicable to the maximum
+possible extent.
+
+To the extent that the City’s authorization to collect or impose any tax imposed under this
+chapter is expanded or limited as a result of changes in state or federal law, no amendment or
+modification of this chapter shall be required to conform the tax to those changes, and the tax
+shall be imposed and collected to the full extent of the authorization up to the full amount of the
+tax imposed under this chapter.
+
+Section 8. Section 3.20.250 of Chapter 3.20 of the Gardena Municipal Code is hereby
+amended to read as follows:
+
+3.20.250 Operative Date.
+
+The amendments to this chapter shall become effective immediately upon the date that
+this Ordinance is confirmed and approved by the voters of Gardena at the Municipal General
+Election of March 3, 2009.
+
+Section 9. Section 3.20.260 of Chapter 3.20 of the Gardena Municipal Code is hereby
+amended to read as follows:
+
+3.20.260 Temporary Adjustments to Amount to be Collected.
+
+The tax rate imposed upon every telephone user, electricity user, gas user, and water user
+shall be a maximum of five percent (5%), except where any service user or service supplier is
+made expressly exempt from the utility users’ tax by this chapter. However, beginning on
+December 1, 1987, the amount to be collected from every telephone user, electricity user, gas
+user and water user in the city shall be calculated at the rate of four percent (4%) of the charges
+made for such service and shall be paid by the person paying for such service The utility users
+tax shall be reviewed annually by the City Council, in consultation with the Finance Committee,
+and the City Council may, by ordinance or resolution, adjust the rate or temporarily suspend all
+or a portion of the tax, as appropriate to the financial condition of the city. No adjustment to the
+rate or temporary suspension of the tax shall constitute a decrease in a tax, or an increase in a tax
+requiring voter approval under California Constitution Article XIIIC (Proposition 218); provided
+the City Council’s action does not increase the tax beyond the maximum rate or methodology set
+forth in this voter-approved ordinance. To the extent that any aspect of a rate adjustment or
+temporary tax suspension is found to invoke such a requirement under Proposition 218, the entire
+City Council action shall be deemed null and void ab initio, and there shall be no entitlement to
+adjustment or suspension for any service user.
+
+Section 10. Effective Date. This ordinance is subject to a vote of the citizens of
+Gardena and shall take effect, if approved by a majority of the voters voting at such election,
+immediately upon certification of the election by the City Clerk.
+
+Section 11. Severability. If any section, sentence, clause or phrase of this ordinance is
+for any reason held to be invalid or unconstitutional by a decision of any court of competent
+jurisdiction, such decision shall not affect the validity of the remaining provisions of this
+ordinance. The People of the City of Gardena hereby declare that they would have adopted this
+ordinance and each section, sentence, clause or phrase thereof, irrespective of the fact that any
+one or more section, subsections, sentences, clauses or phrases be declared invalid or
+unconstitutional.
+
+Section 12. Certification/Summary. Following the City Clerk’s certification that the
+citizens of Gardena have approved this Ordinance, the Mayor shall sign this Ordinance and the
+City Clerk shall cause the same to be entered in the book of original ordinances of said City; and
+shall cause the same, or a summary thereof, to be published as required by law.
+
+PASSED, APPROVED AND ADOPTED, this 3rd day of March, 2009.
+
+ATTEST:
+
+PAUL K. TANAKA, Mayor
+
+TASHA CERDA, City Clerk
+APPROVED AS TO FORM:
+
+PETER L. WALLIN, City Attorney
+
+Page 9 of 9

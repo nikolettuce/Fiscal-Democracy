@@ -1,0 +1,1032 @@
+﻿ORDINANCE NO. 2008-07
+
+AN ORDINANCE OF THE CITY OF WINTERS ADDING CHAPTER 3.22 TO TITLE
+3 OF THE WINTERS MUNICIPAL CODE WITH RESPECT TO THE UTILITY
+USER’S TAX MODERNIZATION ACT AND AMENDING CHAPTER 3.20 OF
+
+SAID CODE
+
+THE PEOPLE OF THE CITY OF WINTERS DO ORDAIN AS FOLLOWS:
+
+SECTION 1: Chapter 3.22 of the Municipal Code is hereby added to Title 3 of the
+Winters Municipal Code and shall read as follows:
+
+CHAPTER 3.22
+
+UTILITY USER’S TAX MODERNIZATION ACT
+
+3.22.010	Short Title.
+
+3.22.020	Definitions.
+
+3.22.030	Constitutional, Statutory, and Other Exemptions.
+
+3.22.040	Communication User’s Tax
+
+3.22.050	Bundling Taxable Items with Non-taxable Items
+
+3.22.060	Substantial Nexus 1 Minimum Contacts.
+
+3.22.070	Duty to Collect—Procedures.
+
+3.22.080	Collection Penalties - Utility Suppliers.
+
+3.22.090	Actions to Collect.
+
+3.22.100	Deficiency Determination and Assessment - Tax Application Errors.
+
+3.22.110	Administrative Remedy - Non-Paying Utility Users.
+
+3.22.120	Additional Powers and Duties of the Tax Administrator.
+
+3.22.130	Records.
+
+3.22.140	Refunds.
+
+3.22.150	Appeals.
+
+3.22.160	Notice - No Injunction/Writ of Mandate.
+
+3.22.170	Notice of Changes to Ordinance.
+
+3.22.180	Future Amendment to Cited Statute.
+
+3.22.190	Independent Audit of Tax Collection, Exemption, Remittance, and
+
+Expenditure.
+
+3.22.200	No Increase in Tax Percentage or Change in Methodology Without
+
+Voter Approval
+3.22.210	Remedies Cumulative.
+
+3.22.220	Interaction with Prior Tax.
+
+3.22.230	Violation - Penalty.
+
+3.22.010	Short Title.
+
+This Chapter shall be known as the “Utility User’s Tax Modernization Act” of The City of
+Winters.
+
+3.22.020	Definitions.
+
+The following words and phrases whenever used in this Chapter shall be construed as
+
+1
+
+defined in this section.
+
+A.	“Ancillary telecommunication services” means services that are associated with
+or	incidental
+
+to the provision, use or enjoyment of telecommunications services, including but
+not limited to the following services:
+
+1.	“conference bridging service” means an ancillary service that links two or
+more participants of an audio or video conference call and may include the
+provision of a telephone number. Conference bridging service does not
+include the telecommunications services used to reach the conference
+bridge;
+
+2.	“detailed telecommunications billing service” means an ancillary service of
+separately stating information pertaining to individual calls on a customer’s
+billing statement;
+
+3.	“directory assistance” means an ancillary service of providing telephone
+number information, and/or address information;
+
+4.	“vertical service” means an ancillary service that is offered in connection
+with one or more telecommunications services, which offers advanced
+calling features that allow customers to identify callers and to manage
+multiple calls and call connections, including conference bridging services;
+
+5.	“voice mail service” means an ancillary service that enables the customer
+to store, send or receive recorded messages. Voice mail service does not
+include any vertical services that the customer may be required to have in
+order to utilize the voice mail service.
+
+B.	“Ancillary video services” means services that are associated with or incidental
+to the provision or delivery of video services, including but not limited to
+electronic program guide services, search functions, or other interactive services or
+communications that are associated with or incidental to the provision, use or
+enjoyment of video programming.
+
+C.	“Billing address” shall mean the mailing address of the Utility user where the
+Utility supplier submits invoices or bills for payment by the customer.
+
+D.	“City” shall mean the City of Winters.
+
+E.	“Communication services” means: “telecommunication services”, “ancillary
+telecommunication services", “video services”, and “ancillary video services”.
+
+F.	“Mobile telecommunications service” has the same meaning and usage as set
+forth in the Mobile Telecommunications Sourcing Act (4 U.S.C. Section 124) and
+the regulations thereunder, as the same exists or may be amended from time to
+time.
+
+G.	“Month” shall mean a calendar month.
+
+H.	“Paging service” means a “telecommunications service” that provides
+transmission of coded radio signals for the purpose of activating specific pagers;
+such transmissions may include messages and/or sounds.
+
+I.	“Person” shall mean, without limitation, any natural individual, firm, trust, common
+law trust, estate, partnership of any kind, association, syndicate, club, joint stock
+company, joint venture, limited liability company, corporation (including foreign,
+domestic, and non-profit), municipal district or municipal corporation, cooperative,
+receiver, trustee, guardian, or other representative appointed by order of any
+
+2
+
+court.
+
+J.	“Place of primary use” means the street address representative of where the
+customer’s use of the communications service primarily occurs, which must be
+the residential street address or the primary business street address of the
+customer.
+
+K.	“Post-paid telecommunication service" means the telecommunication service
+obtained by making a payment on a communication-by-communication basis
+either through the use of a credit card or payment mechanism such as a bank
+card, travel card, credit card, or debit card, or by charge made to a service
+number which is not associated with the origination or termination of the
+telecommunication service.
+
+L.	“Prepaid telecommunication service" means the right to access
+telecommunication services, which must be paid for in advance and which
+enables the origination of communications using an access number or
+authorization code, whether manually or electronically dialed, and that is sold in
+predetermined units or dollars of which the number declines with use in a known
+amount.
+
+M.	“Private telecommunication service” means a telecommunication service that
+entitles the customer to exclusive or priority use of a communications channel or
+group of channels between or among termination points, regardless of the
+manner in which such channel or channels are connected, and includes switching
+capacity, extension lines, stations, and any other associated services that are
+provided in connection with the use of such channel or channels. A
+communications channel is a physical or virtual path of communications over
+which signals are transmitted between or among customer channel termination
+points (i.e., the location where the customer either inputs or receives the
+communications).
+
+N.	“Service address” means either:
+
+(1)	the location of the Utility user’s communication equipment from which the
+communication originates or terminates, regardless of where the
+communication is billed or paid; or,
+
+(2)	if the location in subsection (1) of this definition is unknown (e.g., mobile
+telecommunications service or VOIP service), the service address means
+the location of the service user’s place of primary use; and
+
+(3)	for prepaid telecommunication service, "service address" means the
+location associated with the service number.
+
+O.	“Service supplier” or “Utility Supplier" shall mean any entity or person, including
+the City that provides communication service to a user of such service within the
+City.
+
+P.	“Service user” or “Utility User” shall mean a person required to pay a tax
+imposed under the provisions of this Chapter.
+
+Q.	“Service Users’s Tax” or “Utility User’s Tax" means the tax imposed by this
+Chapter 3.22.
+
+R.	“State” shall mean the State of California.
+
+S.	“Streamlined sales and use tax agreement” means the multi-state agreement
+commonly known and referred to as the Streamlined Sales and Use Tax
+
+Agreement, and as it is amended from time to time.
+
+T.	“Tax Administrator” means the Director of Finance of the City of Winters or his or
+her designee.
+
+U.	“Telecommunications services” means the transmission, conveyance, or routing
+
+of voice, data, audio, video, or any other information or signals to a point, or
+between or among points, whatever the technology used. The term
+“telecommunications services” includes such transmission, conveyance, or
+routing in which computer processing applications are used to act on the form,
+code or protocol of the content for purposes of transmission, conveyance or
+routing without regard to whether such services are referred to as voice over
+internet protocol (VoIP) services or are classified by the Federal Communications
+Commission as enhanced or value added, and includes video and/or data
+services that is functionally integrated with “telecommunication services”.
+“Telecommunications services” include, but are not limited to the following
+services, regardless of the manner or basis on which such services are
+calculated or billed:	ancillary telecommunication services; mobile
+
+telecommunications service; prepaid telecommunication service (to the extent
+that it is practicable for the service supplier to collect the correct tax imposed
+under this Chapter from the service supplier); post-paid telecommunication
+service; private telecommunication service; paging service; 800 service (or any
+other toll-free numbers designated by the Federal Communications
+Commission); and 900 service (or any other similar numbers designated by the
+Federal Communications Commission for services whereby subscribers who call
+in to pre-recorded or live service).
+
+V.	“Video programming” means those programming services commonly provided to
+subscribers by a “video service supplier" including but not limited to basic
+services, premium services, audio services, video games, pay-per-view services,
+video on demand, origination programming, or any other similar services,
+regardless of the content of such video programming, or the technology used to
+deliver such services, and regardless of the manner or basis on which such
+services are calculated or billed.
+
+W.	“Video services” means any and all services related to the providing, storing or
+delivering of “video programming” (including origination programming and
+programming using Internet Protocol, e.g., IP-TV and IP-Video) using one or
+more channels by a “video service supplier", regardless of the technology used to
+deliver, store or provide such services, and regardless of the manner or basis on
+which such services are calculated or billed, and includes data services,
+“telecommunication services", or interactive communication services that are
+functionally integrated with “video services”.
+
+X.	"Video service supplier” means any person, company, or service which provides
+or sells one or more channels of video programming, or provides or sells the
+capability to receive one or more channels of video programming, including any
+communications that are ancillary, necessary or common to the provision, use or
+enjoyment of the video programming, to or from a business or residential address
+in the City, where some fee is paid, whether directly or included in dues or rental
+charges for that service, whether or not public rights-of-way are utilized in the
+
+4
+
+delivery of the video programming or communications. A “video service supplier"
+includes, but is not limited to, multichannel video programming distributors (as
+defined in 47 U.S.C. Section 522(13)); open video systems (OVS) suppliers; and
+suppliers of cable television; master antenna television; satellite master antenna
+television; multichannel multipoint distribution services (MNDS); video services
+using internet protocol (e.g., IP-TV and IP-Video, which provide, among other
+things, broadcasting and video on demand), direct broadcast satellite to the
+extent federal law permits taxation of its video services, now or in the future; and
+other suppliers of video programming or communications (including two-way
+communications), whatever their technology.
+
+Y.	“VOIP (voice over internet protocol)” means the digital process of making and
+receiving real-time voice transmissions over any Internet Protocol network.
+
+Z.	“800 service” means a “telecommunications service” that allows a caller to dial a
+toll-free number without incurring a charge for the call. The service is typically
+marketed under the name *800”, “855”, “866”, “877”, and “888” toll-free calling,
+and any subsequent numbers designated by the Federal Communications
+Commission.
+
+AA. “900 service” means an inbound toll “telecommunications service” purchased by
+a subscriber that allows the subscriber’s customers to call in to the subscriber’s
+prerecorded announcement or live service. 900 service” does not include the
+charge for: collection services provided by the seller of the “telecommunications
+services” to the subscriber, or service or product sold by the subscriber to the
+subscriber’s customer. The service is typically marketed under the name “900”
+service, and any subsequent numbers designated by the Federal
+Communications Commission.
+
+3.22.030 Constitutional, Statutory, and Other Exemptions.
+
+A.	Nothing in this Chapter shall be construed as imposing a tax upon any person or
+service when the imposition of such tax upon such person or service would be in
+violation of a federal or state statute, the Constitution of the United States or the
+Constitution of the State of California.
+
+B.	Due to the status of the Winters Joint Unified School District and due to the
+strong public policy in favor of encouraging and assisting the provision of public
+education, public schools are hereby exempted from the imposition of the Utility
+Users Tax.
+
+C.	Any service user that is exempt from the tax imposed by this Chapter pursuant
+to subsection A of this section shall file an application with the Tax Administrator
+for an exemption; provided, however, this requirement shall not apply to a service
+user that is a state or federal agency or subdivision with a commonly recognized
+name for such service. Said application shall be made upon a form approved by
+the Tax Administrator and shall state those facts, declared under penalty of
+perjury, which qualify the applicant for an exemption, and shall include the names
+of all communication service suppliers serving that service user. If deemed exempt
+by the Tax Administrator, such service user shall give the Tax Administrator timely
+written notice of any change in utility service suppliers so that the Tax
+Administrator can properly notify the new communication servjce supplier of the
+
+5
+
+service user's tax exempt status. A service user that fails to comply with this
+section shall not be entitled to a refund of such taxes collected and remitted to
+the Tax Administrator from such service user as a result of such noncompliance.
+Upon request of the Tax Administrator, a service supplier or its billing agent shall
+provide a list of the names and addresses of those customers which, according to
+its billing records, are deemed exempt from the Communication Users Tax.
+
+The decision of the Tax Administrator may be appealed by filing an application
+with the Tax Administrator and appeal to the City Manager. The City Manager
+shall give notice of, and conduct an informed hearing and shall render a decision
+in writing. Such hearing is a prerequisite to a suit herein.
+
+3.22.040 Communication User’s Tax.
+
+A.	There is hereby imposed a tax upon every person in the City using
+communication services. The maximum tax imposed by this section shall be at
+the rate of 4.75 percent of the charges made for such services and shall be
+collected from the service user by the communication services supplier or its
+billing agent. There is a rebuttable presumption that communication services,
+which are billed to a billing or service address in the City, are used, in whole or in
+part, within the boundaries of the City, and such services are subject to taxation
+under this Chapter. If the billing address of the service user is different from the
+service address, the service address of the service user shall be used for
+purposes of imposing the tax. As used in this Section, the term “charges” shall
+include the value of any other services, credits, property of every kind or nature,
+or other consideration provided by the service user in exchange for the
+communication services.
+
+B.	“Mobile telecommunications service” shall be sourced in accordance with the
+sourcing rules set forth in the Mobile Telecommunications Sourcing Act (4 U.S.C.
+Section 116 et. seq.) as the same exists or may be amended from time to time.
+The Tax Administrator may issue and disseminate to communication service
+suppliers, which are subject to the tax collection requirements of this Chapter,
+sourcing rules for the taxation of other communication services, including but not
+limited to post-paid communication services, prepaid communication services,
+and private communication services, provided that such rules are based upon
+custom and common practice that further administrative efficiency and minimize
+multi jurisdictional taxation (e.g., Streamlined Sales and Use Tax Agreement).
+
+C.	The Tax Administrator may issue and disseminate to communication service
+suppliers, which are subject to the tax collection requirements of this Chapter, an
+administrative ruling identifying those communication services, or charges
+therefore, that are subject to or not subject to the tax of subsection A above.
+
+D.	As used in this section, the term “telecommunication services” shall include, but
+are not limited to charges for: connection, reconnection, termination, movement,
+or change of telecommunication services; detailed billing; central office and
+custom calling features (including but not limited to call waiting, call forwarding,
+caller identification and three-way calling); voice mail and other messaging
+services; directory assistance; access and line charges; universal service charges;
+regulatory, administrative and other cost recovery charges; local number portability
+charges; and text and instant messaging. “Telecommunication services” shall not
+include digital downloads that are not “ancillary telecommunications services”,
+
+6
+
+such as books, music, ringtones, games, and similar digital products.
+
+E.	Charges for communication services (video) shall include, but are not limited to,
+charges for the following:
+
+1 regulatory fees and surcharges and access fees (PEG);
+
+2.	initial installation of equipment necessary for provision and receipt of
+communication services;
+
+3.	activation fees, reactivation fees, and reconnection fees;
+
+4.	all video programming services (e.g., basic services, premium services, audio
+services, video games, pay-per-view services, or on demand programming);
+
+5.	ancillary programming services (e.g., electronic program guide services,
+search functions, or other interactive services or communications that are
+ancillary, necessary or common to the use or enjoyment of the video
+programming);
+
+6.	equipment leases (e.g., converters, remote devices);
+
+7.	service calls, service protection plans, name changes, changes of services,
+and special services.
+
+F.	To prevent actual multi jurisdictional taxation of communication services subject
+to tax under this section, any service user, upon proof to the Tax Administrator
+that the service user has previously paid the same tax in another state or local
+jurisdiction on such communication services, shall be allowed a credit against
+the tax imposed to the extent of the amount of such tax legally imposed in such
+other state or local jurisdiction; provided, however, the amount of credit shall not
+exceed the tax owed to the City under this section.
+
+G.	The tax on communication services imposed by this section shall be collected
+from the service user by the service supplier. The amount of tax collected in one
+
+(1)	month shall be remitted to the Tax Administrator, and must be received by
+the Tax Administrator on or before the twentieth (20th) day of the following
+month.
+
+3.22.050 Bundling Taxable items with Non-Taxable Items.
+
+Except as otherwise provided by applicable federal or state law, if any nontaxable
+charges are combined with and not separately stated from taxable service charges on
+the customer bill or invoice of a service supplier, the combined charge is subject to tax
+unless the service supplier identifies, by reasonable and verifiable standards, the
+portions of the combined charge that are nontaxable and taxable through the service
+supplier’s books and records kept in the regular course of business, and in accordance
+with generally accepted accounting principles, and not created and maintained for tax
+purposes. The service supplier has the burden of proving the proper apportionment of
+taxable and non-taxable charges. If the service supplier offers a combination of services
+that include taxable and non-taxable services or products, and the charges are
+separately stated, then for taxation purposes, the values assigned the taxable and non-
+taxable services or products shall be based on its books and records kept in the regular
+course of business and in accordance with generally accepted accounting principles,
+and not created and maintained for tax purposes. The service supplier has the burden
+of proving the proper valuation and apportionment of taxable and non-taxable charges.
+
+7
+
+3.22.060 Substantial Nexus / Minimum Contacts.
+
+For purposes of imposing a tax or establishing a duty to collect and remit a tax under
+this Chapter, “substantial nexus” and “minimum contacts" shall be construed broadly in
+favor of the imposition, collection and/or remittance of the service user’s tax to the
+fullest extent permitted by state and federal law, and as it may change from time to time by
+judicial interpretation or by statutory enactment. Any communication service (including
+VOIP) used by a person with a service address in the City, which service is capable of
+terminating a call to another person on the general telephone network, shall be subject to
+a rebuttable presumption that “substantial nexus/minimum contacts” exists for purposes
+of imposing a tax, or establishing a duty to collect and remit a tax, under this Chapter. A
+service supplier shall be deemed to have sufficient activity in the City for tax collection
+and remittance purposes if its activities include, but are not limited to, any of the
+following: maintains or has within the City, directly or through an agent or subsidiary, a
+place of business of any nature; solicits business in the City by employees, independent
+contractors, resellers, agents or other representatives; solicits business in the City on a
+continuous, regular, seasonal or systematic basis by means of advertising that is
+broadcast or relayed from a transmitter within the City or distributed from a location
+within the City, or advertises in newspapers or other periodicals printed and published
+within the City or through materials distributed in the City by means other than the United
+States mail.
+
+3.22.070 Duty to Collect—Procedures.
+
+A.	Collection by Service Suppliers. The duty of service suppliers to collect and remit
+the taxes imposed by the provisions of this Chapter shall be performed as
+follows:
+
+(1)	the tax shall be collected by service suppliers insofar as practicable at the
+same time as, and along with, the collection of the charges made in
+accordance with the regular billing practice of the service supplier. Where
+the amount paid by a service user to a service supplier is less than the full
+amount of the charge and tax which was accrued for the billing period, a
+proportionate share of both the charge and the tax shall be deemed to
+have been paid. In those cases where a service user has notified the
+service supplier of refusal to pay the tax imposed on said charges, Section
+
+3.22.090	of this Chapter shall apply,
+
+(2)	the duty of a service supplier to collect the tax from a service user shall
+commence with the beginning of the first regular billing period applicable
+to the service user where all charges normally included in such regular
+billing are subject to the provisions of this Chapter. Where a service user
+receives more than one billing, one or more being for different periods than
+another, the duty to collect shall arise separately for each billing period.
+
+B.	Filing Return and Payment. Each person required by this Chapter to remit a tax
+shall file a return to the Tax Administrator, on forms approved by the Tax
+Administrator, on or before the due date. The full amount of the tax collected shall
+be included with the return and filed with the Tax Administrator. The Tax
+Administrator is authorized to require such additional information as he or she
+deems necessary to determine if the tax is being levied, collected, and remitted in
+
+8
+
+accordance with this Chapter. Returns are due immediately upon cessation of
+business for any reason. Pursuant to Revenue and Taxation Code Section 7284.6,
+the Tax Administrator, and its agents, shall maintain such filing returns as
+confidential information that is exempt from the disclosure provisions of the Public
+Records Act of the State of California. (Government Code Section 6500 et seq.)
+
+3.22.080 Collection Penalties - Service Suppliers.
+
+A.	Taxes collected from a service user are delinquent if not received by the Tax
+Administrator on or before the due date. Should the due date occur on a weekend
+or legal holiday, the return must be received by the Tax Administrator on the first
+regular working day following the weekend or legal holiday. A direct deposit,
+including electronic fund transfers and other similar methods of electronically
+exchanging monies between financial accounts, made by a service supplier in
+satisfaction of its obligations under this subsection shall be considered timely if the
+transfer is initiated on or before the due date, and the transfer settles into the
+City’s account on the following business day.
+
+B.	If the person required to collect and/or remit the service user’s tax fails to collect
+the tax (by failing to properly assess the tax on one or more services or charges on
+the customer’s billing) or fails to remit the tax collected on or before the due date,
+the Tax Administrator shall attach a penalty for such delinquencies or deficiencies
+at the rate of fifteen (15%) percent of the total tax that is delinquent or deficient in
+the remittance, and shall pay interest at the rate of and 75/100ths (0.75%) percent
+per month, or any fraction thereof, on the amount of the tax, exclusive of penalties,
+from the date on which the remittance first became delinquent, until paid.
+
+C.	The Tax Administrator shall have the power to impose additional penalties upon
+persons required to collect and remit taxes pursuant to the provisions of this
+Chapter for fraud or gross negligence in reporting or remitting at the rate of fifteen
+(15%) percent of the amount of the tax collected and/or required to be remitted, or
+as recomputed by the Tax Administrator.
+
+D.	For collection purposes only, every penalty imposed and such interest that is
+accrued under the provisions of this section shall become a part of the tax herein
+required to be paid.
+
+E.	Notwithstanding the foregoing, the Tax Administrator may, in his or her
+discretion, modify the due dates of this Chapter to be consistent with any uniform
+standards or procedures that are mutually agreed upon by other public agencies
+imposing a service user’s tax, or otherwise legally established, to create a central
+payment location or mechanism.
+
+3.22.090	Actions to Collect.
+
+Any tax required to be paid by a service user under the provisions of this Chapter shall
+be deemed a debt owed by the service user to the City. Any such tax collected from a
+service user which has not been remitted to the Tax Administrator shall be deemed a
+debt owed to the City by the person required to collect and remit and shall no longer be
+a debt of the service user. Any person owing money to the City under the provisions of
+this Chapter shall be liable in an action brought in the name of the City for the recovery
+of such amount, including penalties and interest as provided for in this Chapter, along
+
+with any collection costs incurred by the City as a result of the person’s noncompliance
+with this Chapter, including, but not limited to, reasonable attorneys fees. Any tax
+required to be collected by a service supplier or owed by a service user is an
+unsecured priority excise tax obligation pursuant to 11 U.S.C. Section 507(a)(8)(C).
+
+3.22.100 Deficiency Determination and Assessment - Tax Application Errors.
+
+A.	The Tax Administrator shall make a deficiency determination if he or she
+determines that any service supplier or service user required to pay, collect,
+and/or remit taxes pursuant to the provisions of this Chapter has failed to pay,
+collect, and/or remit the proper amount of tax by improperly or failing to apply the
+tax to one or more taxable services or charges. Nothing herein shall require that
+the Tax Administrator institute proceedings under this Section 3.22. 100 if, in the
+opinion of the Tax Administrator, the cost of collection or enforcement likely
+outweighs the tax benefit.
+
+B The Tax Administrator shall mail a notice of such deficiency determination to the
+person or entity allegedly owing the tax, which notice shall refer briefly to the
+amount of the taxes owed, plus interest at the rate of 75/100ths (0.75%) percent
+per month, or any fraction thereof, on the amount of the tax from the date on
+which the tax should have been received by the City. Within fourteen (14)
+calendar days after the date of service of such notice, the person or entity
+allegedly owing the tax may request in writing to the Tax Administrator for a
+hearing on the matter.
+
+C.	If the person or entity allegedly owing the tax fails to request a hearing within
+the prescribed time period, the amount of the deficiency determination shall
+become final assessment, and shall immediately be due and owing to the City. If
+the person requests a hearing, the Tax Administrator shall cause the matter to be
+set for hearing, which shall be scheduled within thirty (30) days after receipt of the
+written request for hearing. Notice of the time and place of the hearing shall be
+mailed by the Tax Administrator to such person or entity at least ten (10) calendar
+days prior to the hearing, and, if the Tax Administrator desires said person or entity
+to produce specific records at such hearing, such notice may designate the
+records requested to be produced.
+
+D.	At the time fixed for the hearing, the Tax Administrator shall hear all relevant testimony
+and evidence, including that of any other interested parties. At the discretion of the
+Tax Administrator, the hearing may be continued from time to time for the purpose of
+allowing the presentation of additional evidence. Within a reasonable time following
+the conclusion of the hearing, the Tax Administrator shall issue a final assessment
+(or non-assessment), thereafter, by confirming, modifying or rejecting the original
+deficiency determination, and shall mail a copy of such final assessment to person or
+entity owing the tax. The decision of the Tax Administrator may be appealed
+pursuant to Section 3.22.150 of this Chapter. Filing an application with the Tax
+Administrator and appeal to the City Manager is a prerequisite to a suit thereon.
+
+E.	Payment of the final assessment shall become delinquent if not received by the
+Tax Administrator on or before the thirtieth (30th) day following the date of receipt
+of the notice of final assessment. The penalty for delinquency shall be fifteen
+percent (15°1.) on the total amount of the assessment, along with interest at the
+
+10
+
+rate of 75/100ths (0.75%) percent per month, or any fraction thereof, on the
+amount of the tax, exclusive of penalties, from the date of delinquency, until paid.
+The applicable statute of limitations regarding a claim by the City seeking payment
+of a tax assessed under this Chapter shall commence from the date of
+delinquency as provided in this subsection E.
+
+F.	All notices under this section may be sent by regular mail; postage prepaid, and
+shall be deemed received on the third calendar day following the date of mailing,
+as established by a proof of mailing.
+
+3.22.110 Administrative Remedy - Non-Paying Service Users.
+
+A.	Whenever the Tax Administrator determines that a service user has deliberately
+withheld the amount of the tax owed by the service user from the amounts
+remitted to a person required to collect the tax, or whenever the Tax Administrator
+deems it in the best interest of the City, he or she may relieve such person of the
+obligation to collect the taxes due under this Chapter from certain named service
+users for specific billing periods. To the extent the service user has failed to pay
+the amount of tax owed for a period of two (2) or more billing periods, the service
+supplier may, in the discretion of the Tax Administrator, be relieved of the
+obligation to collect taxes due. The service supplier shall provide the City with the
+names and addresses of such service users and the amounts of taxes owed
+under the provisions of this Chapter if it is determined by the Tax Administrator to
+relieve the person required to collect the tax. Nothing herein shall require that
+the Tax Administrator institute proceedings under this Section 3.22.110 if, in the
+opinion of the Tax Administrator, the cost of collection or enforcement likely
+outweighs the tax benefit.
+
+B.	In addition to the tax owed, the service user shall pay a delinquency penalty at
+the rate of fifteen percent (15%) of the total tax that is owed, and shall pay
+interest at the rate of 75/100ths (0.75%) percent per month, or any fraction
+thereof, on the amount of the tax, exclusive of penalties, from the due date, until
+paid.
+
+C.	The Tax Administrator shall notify the non-paying service user that the Tax
+Administrator has assumed the responsibility to collect the taxes due for the
+stated periods and demand payment of such taxes, including penalties and
+interest. The notice shall be served on the service user by personal delivery or
+by deposit of the notice in the United States mail, postage prepaid, addressed to
+the service user at the address to which billing was made by the person required
+to collect the tax; or, should the service user have a change of address, to his or
+her last known address.
+
+D.	If the service user fails to remit the tax to the Tax Administrator within thirty (30)
+days from the date of the service of the notice upon him or her, the Tax
+Administrator may impose an additional penalty of fifteen percent (15%) of the
+amount of the total tax that is owed.
+
+3.22.120 Additional Powers and Duties of the Tax Administrator.
+
+A.	The Tax Administrator shall have the power and duty, and is hereby directed, to
+enforce each and all of the provisions of this Chapter.
+
+B.	The Tax Administrator may adopt administrative rules and regulations consistent
+with provisions of this Chapter for the purpose of interpreting, clarifying, carrying
+out and enforcing the payment, collection and remittance of the taxes herein
+imposed. A copy of such administrative rules and regulations shall be on file in
+the Tax Administrator’s office.
+
+C.	Upon a proper showing of good cause, the Tax Administrator may make
+administrative agreements approved by the City Attorney, with appropriate
+conditions, to vary from the strict requirements of this Chapter and thereby: (1)
+conform to the billing procedures of a particular service supplier so long as said
+agreements result in the collection of the tax in conformance with the general
+purpose and scope of this Chapter; or, (2) to avoid a hardship where the
+administrative costs of collection and remittance greatly outweigh the tax benefit.
+
+D.	The Tax Administrator may conduct an audit, to ensure proper compliance with
+the requirements of this Chapter, of any person required to collect and/or remit a
+tax pursuant to this Chapter. The Tax Administrator shall notify said person of the
+initiation of an audit in writing. In the absence of fraud or other intentional
+misconduct, the audit period of review shall not exceed a period of three (3) years
+next preceding the date of receipt of the written notice by said person from the
+Tax Administrator. Upon completion of the audit, the Tax Administrator may
+make a deficiency determination pursuant to Section 3.22.100 of this Chapter for
+all taxes (and applicable penalties and interest) owed and not paid, as evidenced
+by information provided by such person to the Tax Administrator. If said person is
+unable or unwilling to provide sufficient records to enable the Tax Administrator
+to verify compliance with this Chapter, the Tax Administrator is authorized to
+make a reasonable estimate of the deficiency. Said reasonable estimate shall be
+entitled to a rebuttable presumption of correctness.
+
+E.	Upon receipt of a written request of a taxpayer, and for good cause, the Tax
+Administrator may extend the time for filing any statement required pursuant to
+this Chapter for a period of not to exceed forty-five (45) days, provided that the
+time for filing the required statement has not already passed when the request is
+received. No penalty for delinquent payment shall accrue by reason of such
+extension. Interest shall accrue during said extension at the rate of 75/100ths
+(0.75%) percent per month, prorated for any portion thereof.
+
+F.	The Tax Administrator shall determine the eligibility of any person who asserts a
+right to exemption from, or a refund of, the tax imposed by this Chapter.
+
+G.	Notwithstanding any provision in this Chapter to the contrary, the Tax
+Administrator with the approval of the City Council may waive any penalty or
+interest imposed upon a person required to collect and/or remit for failure to
+collect the tax imposed by this Chapter if the non-collection occurred in good
+faith. In determining whether the non-collection was in good faith, the Tax
+Administrator shall take into consideration industry practice or other precedence.
+
+3.22.130 Records.
+
+A.	It shall be the duty of every person required to collect and/or remit to the City any
+tax imposed by this Chapter to keep and preserve, for a period of at least three
+
+(3)	years, all records as may be necessary to determine the amount of such tax
+
+as he/she may have been liable for the collection of and remittance to the Tax
+Administrator, which records the Tax Administrator shall have the right to inspect
+at a reasonable time.
+
+B.	The City may issue an administrative subpoena to compel a person to deliver, to
+the Tax Administrator, copies of all records deemed necessary by the Tax
+Administrator to establish compliance with this Chapter, including the delivery of
+records in a common electronic format on readily available media if such records
+are kept electronically by the person in the usual and ordinary course of business.
+As an alternative to delivering the subpoenaed records to the Tax Administrator
+on or before the due date provided in the administrative subpoena, such person
+may provide access to such records outside the City on or before the due date,
+provided that such person shall reimburse the City for all reasonable travel
+expenses incurred by the City to inspect those records, including travel, lodging,
+meals, and other similar expenses, but excluding the normal salary or hourly
+wages of those persons designated by the City to conduct the inspection.
+
+C.	The Tax Administrator is authorized to execute a non-disclosure agreement
+approved by the City Attorney to protect the confidentiality of customer
+information pursuant to California Revenue and Taxation Code Sections 7284.6
+and 7284.7.
+
+D.	If a service supplier uses a billing agent or billing aggregator to bill, collect,
+and/or remit the tax, the service supplier shall: i) provide to the Tax Administrator
+the name, address and telephone number of each billing agent and billing
+aggregator currently authorized by the service supplier to bill, collect, and/or remit
+the tax to the City; and, ii) upon request of the Tax Administrator, deliver, or effect
+the delivery of, any information or records in the possession of such billing agent
+or billing aggregator that, in the opinion of the Tax Administrator, is necessary to
+verify the proper application, calculation, collection and/or remittance of such tax
+to the City.
+
+E.	If any person subject to record-keeping under this section unreasonably denies
+the Tax Administrator access to such records, or fails to produce the information
+requested in an administrative subpoena within the time specified, then the Tax
+Administrator may impose a penalty of $500 on such person for each day
+following: i) the initial date that the person refuses to provide such access; or, ii)
+the due date for production of records as set forth in the administrative subpoena.
+This penalty shall be in addition to any other penalty imposed under this
+Chapter.
+
+3.22.140 Refunds.
+
+Whenever the amount of any tax has been overpaid or paid more than once or has
+
+been erroneously or illegally collected or received by the Tax Administrator under this
+
+Chapter from a service user or service supplier, it may be refunded as provided in this
+
+section:
+
+A.	The Tax Administrator may refund any tax that has been overpaid or paid more
+than once or has been erroneously or illegally collected or received by the Tax
+Administrator under this Chapter from a service user or service supplier, provided
+that no refund shall be paid under the provisions of this section unless the
+
+claimant or his or her guardian, conservator, executor, or administrator has
+submitted a written claim to the Tax Administrator within one year of the
+overpayment or erroneous or illegal collection of said tax. Such claim must
+clearly establish claimant’s right to the refund by written records showing
+entitlement thereto. Nothing herein shall permit the filing of a claim on behalf of a
+class or group of taxpayers unless each member of the class has submitted a
+written claim under penalty of perjury as provided by this subsection.
+
+B.	The filing of a written claim pursuant to Government Code Section 935 is a
+prerequisite to any suit thereon. Any action brought against the City pursuant to
+this section shall be subject to the provisions of Government Code sections
+945.6 and 946. The City Council shall act upon the refund claim within the time
+period set forth in Government Code Section 912.4. If the City Council fails or
+refuses to act on a refund claim within the time prescribed by Government Code
+Section 912.4, the claim shall be deemed to have been rejected by the City
+Council on the last day of the period within which the City Manager/City Council
+was required to act upon the claim as provided in Government Code Section
+912.4. The City Clerk shall give notice of the action in a form which substantially
+complies with that set forth in Government Code Section 913.
+
+C.	Notwithstanding the notice provisions of subsection A of this section, a service
+supplier that has collected any amount of tax in excess of the amount of tax
+imposed by this Chapter and actually due from a service user (whether due to
+overpayment or erroneous or illegal collection of said tax), may refund such
+amount to the service user, or credit to charges subsequently payable by the
+service user to the service supplier, and claim credit for such overpayment
+against the amount of tax which is due upon any other monthly returns to the Tax
+Administrator, provided such credit is claimed in a return dated no later than one
+year from the date of overpayment or erroneous or illegal collection of said tax,
+and provided that the Tax Administrator shall first determine the validity of the
+service user’s claim of credit and the underlying basis for such claim.
+
+D.	Notwithstanding subsections A through C above, a service supplier shall be
+entitled to take any overpayment as a credit against an underpayment whenever
+such overpayment has been received by the City within the three (3) years next
+preceding a deficiency determination or assessment by the Tax Administrator in
+connection with an audit instituted by the Tax Administrator pursuant to Section
+3.22.120D. A service supplier shall not be entitled to said credit unless it clearly
+establishes the right to the credit by written records showing entitlement thereto.
+Under no circumstances shall an overpayment taken as a credit against an
+underpayment pursuant to this subsection qualify a service supplier for a refund to
+which it would not otherwise be entitled under the one-year written claim
+requirement of this section.
+
+3.22.150 Appeals
+
+A. The provisions of this section apply to any decision (other than a decision relating
+to a refund pursuant to Section 3.22.140 of this Chapter), deficiency
+determination, assessment, or administrative ruling of the Tax Administrator. Any
+person aggrieved by any decision (other than a decision relating to a refund
+
+pursuant to Section 3.22.140 of this Chapter), deficiency determination,
+assessment, or administrative ruling of the Tax Administrator, shall be required to
+comply with the appeals procedure of this section. Compliance with this section
+shall be a prerequisite to a suit thereon. Nothing herein shall permit the filing of a
+claim or action on behalf of a class or group of taxpayers.
+
+B.	If any person is aggrieved by any decision (other than a decision relating to a
+refund pursuant to Section 3.22.140 of this Chapter), deficiency determination,
+assessment, or administrative ruling of the Tax Administrator; he or she may
+appeal to the City Manager by filing a notice of appeal with the City Clerk within
+fourteen (14) days of the date of the decision, deficiency determination,
+assessment, administrative ruling of the Tax Administrator which aggrieved the
+service user or service supplier.
+
+C.	The matter shall be scheduled for hearing before an independent hearing officer
+selected by the City Manager, no more than forty-five (45) days from the receipt
+of the appeal. The appellant shall be served with notice of the time and place of
+the hearing, as well as any relevant materials, at least five (5) calendar days prior
+to the hearing. The hearing may be continued from time to time upon mutual
+consent. At the time of the hearing, the appealing party, the Tax Administrator,
+and any other interested person may present such relevant evidence as he or
+she may have relating to the determination from which the appeal is taken.
+
+D.	Based upon the submission of such evidence and the review of the City’s files,
+the hearing officer shall issue a written notice and order upholding, modifying or
+reversing the determination from which the appeal is taken. The notice shall be
+given within fourteen (14) days after the conclusion of the hearing and shall state
+the reasons for the decision. The notice shall specify that the decision is final and
+that any petition for judicial review shall be filed within ninety (90) days from the
+date of the decision in accordance with Code of Civil Procedure Section 1094.6.
+
+E.	All notices under this section may be sent by regular mail; postage prepaid, and
+shall be deemed received on the third calendar day following the date of mailing,
+as established by a proof of mailing.
+
+3.22.160 No Injunction/Writ of Mandate.
+
+No injunction or writ of mandate or other legal or equitable process shall issue in any
+suit, action, or proceeding in any court against this City or against any officer of the City
+to prevent or enjoin the collection under this Chapter of any tax or any amount of tax
+required to be collected and/or remitted.
+
+3.22.170 Notice of Changes to Ordinance.
+
+If a tax under this Chapter is added repealed, increased by voter approval, reduced, or the
+tax base is changed, the Tax Administrator shall follow the notice requirements of
+California Public Utilities Code Section 799.
+
+3.22.180 Future Amendment to Cited Statute.
+
+Unless specifically provided otherwise, any reference to a state or federal statute in this
+Chapter shall mean such statute as it may be amended from time to time.
+
+15
+
+3.22.190 Independent Audit of Tax Collection, Exemption, Remittance, and
+Expenditure.
+
+The City shall annually verify that the taxes owed under this Chapter have been
+properly applied, exempted, collected, and remitted in accordance with this Chapter, and
+properly expended according to applicable municipal law. The annual verification shall
+be performed by a qualified independent third party and the review shall employ
+reasonable, cost-effective steps to assure compliance, including the use of sampling
+audits. The verification shall not be required of tax remitters where the cost of the
+verification may exceed the tax revenues to be reviewed.
+
+3.22.200 No Increase in Tax Percentage or Change in Methodology Without Voter
+Approval.
+
+A.	Regarding Section 3.22.040 of this Chapter, the City may not increase the tax
+
+percentage or change a methodology for calculating the tax so as to result in an
+
+increase in a tax imposed on a person, without voter approval.
+
+B.	Notwithstanding subsection A, pursuant to Government Code Section 53750,
+
+the City may make the following changes without voter approval:
+
+(1)	reduce the percentage rate, and at any time thereafter increase such
+percentage rate, so long as the subsequent increase does not exceed the
+rate previously approved by the voters in the enactment of this Chapter;
+
+(2)	change the methodology so as to reduce the amount of the tax being
+levied, and at any time thereafter change the methodology, so long as the
+subsequent change in methodology does not result in an increase in the
+amount being levied under the methodology previously approved by the
+voters in the enactment of this Chapter;
+
+(3)	change a methodology or definition so as to avoid or eliminate a
+discriminatory tax on taxpayers that are similarly situated, so long as the
+change does not result in an increase in the amount levied on such class
+of similarly situated taxpayers under the methodology or definition
+previously approved by the voters in the enactment of this Chapter;
+
+(4)	establish a class of persons that is exempt or excepted from one or more
+taxes hereunder, and at any time thereafter, discontinue such exemption
+or exception;
+
+(5)	decide that all or a part of a tax imposed under Section 3.22.040 of this
+Chapter should not be enforced for administrative reasons, and at any
+time thereafter, decide to enforce the full amount of such tax as
+previously approved by the voters in the enactment of this Chapter;
+
+(6)	establish, and at any time thereafter change, the value and/or
+apportionment (including a “safe harbor” percentage) of taxable and
+nontaxable services that are bundled or packaged under a combined
+charge, in response to changes in the marketing of combined services
+and the components thereof, or in reevaluating the values thereof; or
+
+(7)	establish exemptions or lower rate percentages for industrial or
+economic development zones or for classes of customers therein,
+establish rebate programs for the purposes of encouraging economic
+development, and at any time thereafter, discontinue such exemptions or
+
+16
+
+lower rate percentages.
+
+3.22.210 Remedies Cumulative.
+
+All remedies and penalties prescribed by this Chapter or which are available under any
+other provision of law or equity, including but not limited to the California False Claims
+Act (Government Code Section 12650 et seq.) and the California Unfair Practices Act
+(Business and Professions Code Section 17070 et seq.), are cumulative. The use of
+one or more remedies by the City shall not bar the use of any other remedy for the
+purpose of enforcing the provisions of this Chapter.
+
+3.22.220 Interaction with Prior Tax.
+
+A.	Collection of Tax by Service Providers. Service providers shall begin to collect
+the tax imposed by this Chapter 3.22 as soon as feasible after the effective date
+of this Chapter, but in no event later than permitted by Section 799 of the
+California Public Utilities Code.
+
+B.	Satisfaction of Tax Obligation by Service Users. Any person who pays the tax
+levied pursuant to Chapter 3.22 with respect to any charge for a communication
+service shall be deemed to have satisfied his or her obligation to pay the tax
+levied pursuant to Chapter 3.20 of this Code with respect to that charge.
+Likewise, prior to August 1, 2008, any person who pays the tax levied pursuant
+to Chapter 3.20 of this Code with respect to any charge for a service subject to
+taxation pursuant to this Chapter shall be deemed to have satisfied his or her
+obligation to pay the tax levied pursuant to Section 3.22.040 of this Chapter with
+respect to that charge. The intent of this paragraph is to prevent the imposition
+of multiple taxes upon a single utility charge during the transition period from
+the prior telephone and video users’ tax to the new Utility users’ tax (which
+transition period ends August 1, 2008) and to permit communications service
+providers, during that transition period to satisfy their collection obligations by
+collecting either tax.
+
+3.22.230 Violation - Penalty.
+
+Any person violating any provision of this Chapter is guilty of an infraction, which upon
+conviction thereof is punishable in accordance with the provisions of Section 1.16.010 of
+this Code.
+
+SECTION 2. All sections of Chapter 3.20 that conflict with this ordinance are
+hereby amended to reflect the provisions of this ordinance. Sections of Chapter 3.20,
+dealing with refunds for overpayment, are amended in their entirety to include the
+language in 3.22.140 prescribing refund claim compliance with the City’s claims
+ordinance. The combined taxes for all services, including electricity, gas,
+telecommunications and video services shall not exceed $300.00 annually for any
+residential unit. References to a five percent (5%) tax rate which appear at various
+locations under Chapter 3.20 are hereby amended to state a tax rate of 4.75 percent
+(4.75%) wherever appearing. These amendments include, but are not limited to, the
+following:
+
+17
+
+A.	The reference to "....five percent (5%)...." Appearing in the second s
+sentence of Paragraph A of Section 3.22.050 (Electricity User’s Tax) is
+amended and replaced with "....4.75 percent (4.75%)....”
+
+B.	The reference to "....five percent (5%)..Appearing in the second
+sentence of Paragraph A of Section 3.22.060 (Gas User’s Tax) is
+amended and replaced with “....4.75 percent (4.75%)....”
+
+SECTION 3. EXISTING CABLE TV FRANCHISE. The City of Winters currently
+holds a Franchise Agreement with its existing Cable TV Provider. The franchise fee by
+agreement takes account of the Utility Users Tax and, subject to future action by the
+Winters City Council, no utility tax will be levied on Cable TV users by the adoption of
+this ordinance.
+
+SECTION 4. This ordinance will be applied to satellite and other audio and
+video telecommunications, not covered by the existing Utility User’s Tax.
+
+SECTION 5. Effective Date. This chapter shall become effective 10 days after
+the date that this Ordinance is adopted by the voters of the City of Winters at the City’s
+Consolidated Municipal Election to be held on June 3, 2008.
+
+SECTION 6. Severability. If any section, subsection, sentence, clause, phrase,
+or portion of this Chapter is for any reason held to be invalid or unenforceable by a
+court of competent jurisdiction, the remaining portions of this Chapter shall nonetheless
+remain in full force and effect. The people hereby declare that they would have adopted
+each section, subsection, sentence, clause, phrase, or portion of this Chapter,
+irrespective of the fact that any one or more sections, subsections, sentences, clauses,
+phrases, or portions of this Chapter be declared invalid or unenforceable.
+
+SECTION 7. Ratification of Prior Tax. The voters of the City of Winters hereby
+ratify and approve the past collection of the Utility User’s Tax under Chapter 3.20 of the
+Municipal Code as it existed prior to the effective date of this Ordinance.
+
+SECTION 8. Execution. The Mayor is hereby authorized to attest to the
+adoption of this Ordinance by the voters of the City by signing where indicated below.
+
+THE RESOLUTION SUBMITTING THIS ORDINANCE TO THE VOTERS OF
+THE CITY OF WINTERS FOR ADOPTION WAS INTRODUCED at a regular meeting
+on March 4, 2008, and after amendment, ADOPTED at a special meeting of the Winters
+City Council, County of Yolo, State of California, on the 11th day of March, 2008, by the
+following roll call vote:
+
+AYES:	Council	Members	Aguiar-Curry,	Anderson, Martin, Stone and Mayor Fridae
+
+NOES:	None
+
+ABSTAIN:	None
+
+ABSENT:	None
+
+18
+
+jJLU
+
+erk
+
+Woody Fridae, Mayor
+
+19

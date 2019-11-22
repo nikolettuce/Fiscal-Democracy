@@ -1,0 +1,452 @@
+﻿ORDINANCE NO. 7133
+
+AN ORDINANCE OF THE CITY OF PASADENA,
+CALIFORNIA AMENDING CHAPTER 4.56 OF THE
+PASADENA MUNICIPAL CODE TO MODERNIZE THE
+APPLICATION OF THE UTILITY USERS TAX
+
+THE PEOPLE OF THE CITY OF PASADENA DO ORDAIN AS FOLLOWS:
+
+Section 1. Code Amendment. Section 4.56.020 of the Pasadena Municipal
+Code is hereby amended to read as follows:
+
+4.56.020	Definitions.
+
+Except where the context otherwise requires, the definitions given in this
+section govern the construction of this chapter.
+
+A.	“Ancillary Telecommunications Services” means services that
+are associated with or incidental to the provision, use or enjoyment of
+telecommunications services including, but not limited to, the following:
+
+(1)	Services that link two or more participants of an audio or video
+conference call, including the provision of a telephone number.
+
+(2)	Services that separately state information pertaining to individual calls
+on a customer’s billing statement.
+
+(3)	Services that provide telephone number information, and/or address
+information.
+
+(4)	Services offered in connection with one or more telecommunications
+services, which offer advanced calling features that allow customers to
+identify callers and to manage multiple calls and call connections.
+
+(5)	Services that enable customers to store, send or receive recorded
+messages.
+
+B.	“Billing address” means the mailing address of the service user where
+the service supplier submits invoices or bills for payment by the customer.
+
+C.	“City” means the city of Pasadena.
+
+-1 -
+
+83092.14
+
+D.	“City administrator” means the city manager, or his or her authorized
+representative.
+
+E.	“Exempt wholesale generator” has the same meaning as set forth in the
+Federal Power Act (15 U.S.C. Section 79z-5a) and regulations thereunder.
+
+F.	“Gas” means natural or manufactured gas or any alternate hydrocarbon
+fuel that may be substituted therefor.
+
+G.	“Gross annual income” means all income regardless of source and
+includes, but is not limited to, income subject to federal and state income taxation,
+social security payments, pensions, welfare payments, interest on tax-exempt
+investments, gifts and inheritances.
+
+H.	“Month” means a calendar month.
+
+I.	“Nonutility service supplier” means:
+
+1.	A service supplier, other than a supplier of electric distribution
+services to all or a significant portion of the city, which generates electricity
+for sale to others, and shall include but is not limited to any publicly-owned
+electric utility, investor-owned utility, cogenerator, distributed generation
+provider, exempt wholesale generator, municipal utility district, federal
+power marketing agency, electric rural cooperative, or other supplier or
+seller of electricity;
+
+2.	An electric service provider (ESP) , electricity broker, marketer,
+aggregator, pool operator, or other electricity supplier other than a supplier
+of electric distribution services to all or a significant portion of the city, which
+sells or supplies electricity or supplemental services to electricity users
+within the city; and
+
+3.	A gas service supplier, aggregator, marketer or broker, other than
+a supplier of gas distribution services to all or a significant portion of the
+city, which sells or supplies gas or supplemental services to gas users
+within the city.
+
+J.	“Person” means, without limitation, any domestic, nonprofit or foreign
+corporation; firm; trust; estate; association; syndicate; joint stock company; limited
+liability company; partnership of any kind; joint venture; club; Massachusetts
+business or common-law trust; society; any natural individual; cooperative;
+receiver, trustee, guardian or other representative appointed by order of any court;
+municipal district; or municipal corporation (other than the city).
+
+83092 14
+
+-2 -
+
+K.	“Service address” means the residential street address or the business
+street address of the service user’s primary place of usage.
+
+L.	“Service supplier” means any entity or person that provides telephone
+communication, electric, gas, water or video service to a user of such services
+within the city. The term includes any entity or person required to collect, or self-
+collect under Section 4.56.055, and to remit a tax imposed by this chapter,
+including the billing agent of such an entity or person in the case of electric, gas,
+water or video service suppliers.
+
+M.	“Service user” means a person required to pay a tax imposed by this
+chapter.
+
+N.	“Tax administrator” means the revenue administrator of the city of
+Pasadena.
+
+O.	“Telephone communication services” includes the transmission,
+conveyance, or routing of voice, data, audio, video, or any other information or
+signals to a point, or between or among points, whether or not such information is
+transmitted through interconnected service with the public switched network,
+whatever the technology used, whether such transmission, conveyance or routing
+occurs by wire, cable, fiber-optic, light wave, laser, microwave, radio wave
+(including, but not limited to, cellular service, commercial mobile service, personal
+communications service (PCS), specialized mobile radio (SMR), and other types
+of personal wireless service - see 47 USCA Section 332(c) (7) (C) (i) - regardless
+of radio spectrum used), switching facilities, satellite or any other technology now
+existing or developed after the adoption of this ordinance, and includes, without
+limitation, fiber optic, coaxial cable, and wireless. The term “telephone
+communication services” includes such transmission, conveyance, or routing in
+which computer processing applications are used to act on the form, code or
+protocol of the content for purposes of transmission, conveyance or routing without
+regard to whether such services are referred to as voice over internet protocol
+(VoIP) services or are classified by the Federal Communications Commission as
+enhanced or value added, and includes video and/or data services that are
+functionally integrated with telecommunications services. “Telephone
+communication services” include, but are not limited to, the following services,
+regardless of the manner or basis on which such services are calculated or billed:
+central office and custom calling features (including but not limited to call waiting,
+call forwarding, caller identification and three-way calling), local number portability,
+text messaging, ancillary telecommunication services, prepaid and post-paid
+telecommunications services (including but not limited to prepaid calling cards);
+mobile telecommunications service; private telecommunication service; paging
+service; 800 service (or any other toll-free numbers designated by the Federal
+Communications Commission); and value-added non-voice data service. For
+purposes of this section, “private telecommunication service” means any dedicated
+telephone communications service that entitle a user to exclusive or priority use of
+communications channels.
+
+83092.14
+
+-3-
+
+P.	“Telephone corporation,” “electrical corporation,” “gas corporation,” and
+“water corporation” have the same meanings as defined in Sections 234, 218, 222,
+and 241, respectively, of the Public Utilities Code of the state of California, as said
+sections existed on January 1, 1969. “Electrical corporation” and “water
+corporation” shall be construed to include any municipality or franchised agency
+engaged in the selling or supplying of electrical power or water to a service user.
+
+Q.	“Video service supplier” means any person, company, or service which
+provides one or more channels of video programming, including any
+communications that are ancillary, necessary or common to the use and
+enjoyment of the video programming, to or from an address in the city, including to
+or from a business, home, condominium, or apartment, where some fee is paid,
+whether directly or included in dues or rental charges for that service, whether or
+not public rights-of-way are utilized in the delivery of the video programming or
+communications. A “video service supplier” includes, but is not limited to,
+multichannel video programming distributors (as defined in 47 USCA Section
+522(13)), open video systems (OVS) suppliers, suppliers of cable television,
+master antenna television, satellite master antenna television, multichannel
+multipoint distribution services (MMDS), direct broadcast satellite (to the extent
+allowed by federal law), and other suppliers of video programming or
+communications (including two-way communications), whatever their technology.
+
+R.	“Video services” means any and all services related to the providing of
+video programming (including origination programming), including any
+communications that are ancillary, necessary or common to the use or enjoyment
+of the video programming, regardless of the content of such video programming or
+communications. “Video services” does not include services for which a tax is paid
+under Section 4.56.030.
+
+Section 2. Code Amendment. Section 4.56.030 of the Pasadena Municipal
+Code is hereby amended to read as follows:
+
+4.56.030	Telephone tax.
+
+A.	There is imposed a tax upon every person, other than a telephone
+corporation, who uses telephone communication services in the city, including
+intrastate, interstate, and international telephone communication services, to the
+extent permitted by federal and state law. The telephone users tax is intended to,
+and does, apply to all charges within the city’s tax jurisdiction, such as charges
+billed to a telephone account having a situs in the city as permitted by the Mobile
+Telecommunications Sourcing Act of 2000, 4 U.S.C. § 116 et seq. The tax
+imposed by this section shall be at the rate established under Section 4.56.180(A).
+The tax shall apply to all charges made for such telephone communication
+services and shall be collected from the service user by the telephone
+communication services supplier or its billing agent. There is a rebuttable
+
+83092.14
+
+-4 -
+
+presumption that telephone communication services billed to a billing or service
+address in the city are used, in whole or in part, within the city’s boundaries, and
+that such services are subject to taxation under this chapter. There is also a
+rebuttable presumption that telephone communication services sold within the city
+that are not billed to a billing address or provided to a primary physical location are
+used, in whole or in part, within the city’s boundaries and that such services are
+subject to taxation under this chapter.
+
+B.	As used in this section, the term ‘charges’ shall include the value of any
+other services, credits, property of every kind or nature, or other consideration
+provided by the service user in exchange for the telephone communication
+services.
+
+C.	The tax administrator may, from time to time, issue and disseminate to
+telecommunication service suppliers which are subject to the tax collection
+requirements of this chapter administrative rulings identifying those
+telecommunication services that are subject to the tax of subsection A of this
+section. Such administrative rulings shall be consistent with legal nexus and laws
+pertaining to telephone communications services and shall not impose a new tax,
+revise an existing tax methodology, or increase an existing tax, except as allowed
+by California Government Code Section 53750(h) (2) and (3) or other law. The tax
+administrator may consider state-wide interpretive rules and guidelines
+promulgated by any government agency or association of government agencies as
+a factor in determining the intent of voters adopting this section. To the extent that
+the tax administrator determines that the tax imposed under this section shall not
+be collected in full for any period of time, such an administrative ruling falls within
+the tax administrator’s discretion to settle disputes. The tax administrator’s
+exercise of prosecutorial forbearance under this Chapter does not constitute a
+change in taxing methodology for purposes of Government Code section
+53750(h), and the city does not waive or abrogate its ability to impose the
+telephone users’ tax in full as a result of issuing such administrative rulings and
+may suspend such rulings and recommence collection of the tax without additional
+voter approval.
+
+D.	The following shall be exempt from the tax imposed by this section:
+
+(1)	Charges paid for by inserting coins in coin-operated telephones
+available to the public with respect to local telephone service, or with respect to
+long distance telephone service if the charge for such long distance telephone
+service is less than 25 cents; except that where such coin-operated telephone
+service is furnished for a guaranteed amount, the amounts paid under such
+guarantee plus any fixed monthly or other periodic charge shall be subject to the
+tax.
+
+(2)	Except with respect to local telephone service, on any charges for
+services used in the collection of news for the public press, or a news ticker
+
+83092.14
+
+- 5 -
+
+service furnishing a general news service similar to that of the public press, or
+radio broadcasting, or in the dissemination of news through the public press, or a
+news ticker service furnishing a general news service similar to that of the public
+press, or by means of radio broadcasting, if the charge for such service is billed in
+writing to such person.
+
+(3)	Charges for services furnished to an international organization
+designated under the International Organizations Immunities Act and defined in 22
+USCA 288 or to the American National Red Cross.
+
+(4)	Charges for any long distance telephone service which originates within
+a combat zone, as defined in section 112 of the Internal Revenue Code, from a
+member of the Armed Forces of the United States performing service in such
+combat zone, as determined under such section, provided a certificate, setting
+forth such facts as the Secretary of the U.S. Treasury may by regulations
+prescribe, is furnished to the person receiving such payment.
+
+(5)	Charges for any long distance telephone service to the extent that the
+amount so paid is for use by a common carrier, telephone or telegraph company,
+or radio broadcasting station or network in the conduct of its business as such.
+
+(6)	Amounts paid by a nonprofit hospital for services furnished to such
+organization. For purposes of this subsection, the term “nonprofit hospital” means
+a hospital referred to in Internal Revenue Code section 170(b)(1)(A)(iii) which is
+exempt from income tax under Internal Revenue Code section 501(a).
+
+(7)	Charges for services or facilities furnished to the government of any
+State, or any political subdivision thereof, or the District of Columbia.
+
+(8)	Charges paid by a nonprofit educational organization for services or
+facilities furnished to such organization. For purposes of this subsection, the term
+“nonprofit educational organization” means an educational organization described
+in Internal Revenue Code section 170(b)(1)(A)(ii) which is exempt from income tax
+under Internal Revenue Code section 501(a). The term also includes a school
+operated as an activity of an organization described in Internal Revenue Code
+section 501(c)(3) which is exempt from income tax under Internal Revenue Code
+section 501(a), if such school normally maintains a regular faculty and curriculum
+and normally has a regularly enrolled body of pupils or students in attendance at
+the place where its educational activities are regularly carried on.
+
+(9)	Charges for telephone channel facilities used by a cable television
+corporation in supplying cable television service to its customers
+
+(10)	Charges for “private mobile radio service” (as defined in Part 20 of Title
+47 of the Code of Federal Regulations) or “private mobile service” (as defined in
+
+83092 14
+
+-6-
+
+47 USCA Section 332(d)) which is not interconnected to the public switched
+network.
+
+E.	To prevent actual multi-jurisdictional taxation of telephone
+communication services subject to tax under this section, any service user, upon
+proof to the tax administrator that the service user has previously paid the same
+tax in another American jurisdiction on such telephone communication services,
+shall be allowed a credit against the tax imposed to the extent of the amount of
+such tax legally imposed in such other jurisdiction; provided, however, the amount
+of credit shall not exceed the tax owed to the city under this section. This
+ordinance shall be construed broadly in favor of the imposition and collection of
+the utility users tax to the fullest extent permitted by California and federal law, and
+as it may change from time to time.
+
+F.	The tax on telephone communication services imposed by this section
+shall be collected from the service user by the service supplier. The amount of tax
+collected in one (1) month shall be remitted to the tax administrator, and must be
+received by the tax administrator on or before the twentieth (20th) day of the
+following month.
+
+G.	For purposes of imposing a tax or establishing a duty to collect and remit
+a tax under this subchapter, “substantial nexus” and “minimum contacts” shall be
+construed broadly in favor of the imposition, collection and/or remittance of the
+utility users tax to the fullest extent permitted by state and federal law, and as that
+law may change from time to time by judicial interpretation or by statutory
+enactment. Any telephone communication service (including VoIP) used by a
+person with a service address in the city, which service is capable of terminating a
+call to another person on the general telephone network, shall be subject to a
+rebuttable presumption that “substantial nexus/minimum contacts” exists for
+purposes of imposing a tax, or establishing a duty to collect and remit a tax, under
+this chapter. A service supplier shall be deemed to have sufficient activity in the
+city to be obligated to collect and remit the tax imposed by this chapter if it does
+any of the following: maintains or has within the city, directly or through an agent
+or subsidiary, a place of business of any nature; solicits business in the city by
+employees, independent contractors, resellers, agents or other representatives;
+solicits business in the city by means of advertising that is broadcast or relayed
+from a transmitter within the city or distributed from a location within the city; or
+advertises in newspapers or other periodicals printed and published within the city
+or through materials distributed in the city by means other than the United States
+mail.
+
+Section 3. Code Addition. A new Section 4.56.230 of the Pasadena Municipal
+Code is hereby adopted to read as follows:
+
+83092.14
+
+-7-
+
+4.56.230	Effect of state and federal authorization
+
+To the extent that the city’s authorization to impose or collect any tax
+imposed under this chapter is expanded or limited as a result of changes in state
+or federal law, no amendment or modification of this chapter shall be required to
+conform the tax to those changes, and the tax shall be imposed and collected to
+the full extent of the city’s authorization up to the full amount of the tax imposed
+under this chapter.
+
+Section 4. Code Addition. A new Section 4.56.240 of the Pasadena Municipal
+Code is hereby adopted to read as follows:
+
+4.56.240 Independent Audit
+
+The city shall annually verify that the taxes owed under this chapter have
+been properly applied, exempted, collected, and remitted in accordance with this
+chapter, and properly expended according to applicable law. The annual
+verification shall be performed by a qualified independent third party and the
+review shall employ reasonable, cost-effective steps to assure compliance,
+including the use of sampling audits. The verification shall not be required of as to
+a service supplier where the cost of the verification is expected to exceed the tax
+revenues to be reviewed.
+
+Section 5. Utility Rates. This Ordinance does not change the existing rate of
+any tax imposed under Chapter 4.56 of the Pasadena Municipal Code. A table of
+the existing rates of the taxes imposed under that Chapter 4.56 is attached hereto
+as Attachment 1.
+
+Section 6. Low-Income Senior and Disabled Persons Exemptions. This
+Ordinance does not change the existing exemptions for low-income seniors and
+disabled persons from the any tax imposed under Chapter 4.56 of the Pasadena
+Municipal Code as specified in Section 4.56.210 of that Chapter. Any change to
+those exemptions which constitutes a tax increase within the meaning of
+Government Code Section 53750(h) shall require a vote of the People of the City
+of Pasadena.
+
+Section 7. Amendment of Ordinance. Chapter 4.56 of the Pasadena Municipal
+Code as amended by this Ordinance may be repealed or amended by the City
+Council without a vote of the people except as follows: as required by
+Propositions 62 and 218, any amendment to that chapter that increases the
+amount or rate of tax beyond the levels authorized by this Ordinance may not take
+effect unless approved by a vote of the people. The City Council may impose the
+taxes authorized by that chapter in any amount or rate which does not exceed the
+rate approved by the voters of the City.
+
+83092.14
+
+-8-
+
+Section 8. Severability. If any section, sentence, clause, phrase, or portion of
+this Ordinance is for any reason held to be invalid or unenforceable by a court of
+competent jurisdiction, the remaining sections, sentences, clauses, phrases, or
+portions of this ordinance shall nonetheless remain in full force and effect. The
+people of the City of Pasadena hereby declare that they would have adopted each
+section, sentence, clause, phrase, or portion of this Ordinance, irrespective of the
+fact that any one or more sections, sentences, clauses, phrases, or portions of this
+Ordinance be declared invalid or unenforceable and, to that end, the provisions of
+this Ordinance are severable.
+
+Section 9. Majority Approval; Effective Date. This Ordinance shall be effective
+only if approved by a majority of the voters voting thereon and shall go into effect
+ten (10) days after the vote is declared by the City Council.
+
+PASSED, APPROVED and ADOPTED this 10th day of
+March 2008.
+
+Bill Bogaard
+Mayor of the City of Pasadena
+
+I	HEREBY CERTIFY that the foregoing ordinance was passed,
+approved and adopted, and has become effective as of the following dates:
+
+Date of Election:	February 5, 2008
+
+Date of Adoption:	March 10, 2008 (date canvass results were declared
+
+and accepted by City Council)
+
+Yes Votes:	21,375	(58.41%)
+
+NoVotes:	15,219	(41.59%)
+
+Effective Date:	March 20, 2008
+
+Special Counsel
+
+83092.14
+
+-9-
+
+Attachment 1
+
+Existing UUT Rates by Utility Service
+
+Cable Television	9.4%
+
+Telephone (Intrastate, Interstate, International and Wireless)	8.28%
+
+Natural Gas	7.9%
+
+Electricity	7.67%
+
+Water	7.67%
+
+83092.14
+
+-10-
