@@ -1,2 +1,0 @@
-# Fiscal-Democracy
-AAAAAAAAAAAAAAAAAAAH
