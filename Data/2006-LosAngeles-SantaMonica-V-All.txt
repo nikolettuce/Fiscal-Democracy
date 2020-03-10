@@ -1,0 +1,1157 @@
+﻿PROPOSED ORDINANCE FOR PROPOSITION V
+
+AN ORDINANCE OF THE PEOPLE OF THE CITY OF SANTA MONICA, CALIFORNIA ADOPTING A
+CLEAN BEACHES AND OCEAN PARCEL TAX BY ADDING TO CHAPTER 7.64 OF THE
+SANTA MONICA MUNICIPAL CODE COMMENCING AT SECTION 7.64.010 ET SEQ
+
+THE PEOPLE QF THE CITY OF SANTA MONICA DO ORDAIN AS FOLLOWS:
+
+SECTION 1. Clean Beaches and Ocean Parcel Tax Act. Chapter 7.64 et seq, of the Santa Monica Municipal Code, entitled “Clean Beaches and
+Ocean Parcel Tax Act,” is hereby enacted and shall read as follows:
+
+7.64.010 Title and Purpose
+
+This Chapter 7.64 et seq. may be cited as the “Clean Beaches and Ocean Parcel Tax Act.”
+
+7.64.020 Definitions
+
+The following words and phrases whenever used in this Chapter shall be construed and defined in this Section as follows:
+
+“Director” shall mean the Director of Environmental and Public Works Management Department, or his/her designee.
+
+“Owner” shall mean the legal owner of any parcel of real property, except when the legal owner of the real property is such due to the
+holding of a mortgage, note or other security, in which case the “owner” shall be deemed to the beneficial owner of said parcel of real property.
+
+“Parcel” shall mean the smallest, separately segregated lot, unit or plot of land having an identified owner, boundaries and surface area
+which is documented for property tax purposes and given an assessor’s identification number by the County of Los Angeles Tax Assessor.
+
+“Parcel Size” shall mean the size of the Parcel measured in acres.
+
+“Possessory Interest” shall mean possession of, claim to, or right to the possession of, land or improvements and shall include any
+exclusive right to the use of such land or improvements.
+
+“Runoff Factor” shall mean the number set forth in the table in section 7.64.040 below that represents the amount of average storm
+drainage from a Parcel for a particular land use.
+
+“Single Family Dwelling” shall mean a developed parcel with one single family detached housing unit.
+
+7.64.030	Necessity, Authority, and Purpose
+
+(a)	The City Council (the “Council”) of the City of Santa Monica (the “City”) hereby determines as follows:
+
+(1)	that the cost to implement the City of Santa Monica Watershed Management Plan (the “Watershed Management Plan”) throughout the
+City at the level required to provide for the health, safety, and general welfare of the residents of the City exceeds the amount of revenues from other
+
+sources;
+
+(2)	that additional revenues are needed to fund a portion of the cost of implementing the Watershed Management Plan, including financing
+the operation, administration, maintenance, improvement, environmental restoration, upgrade and replacement of the existing and future storm
+drainage system, on-site stormwater management systems, storm drain conveyance system upgrades, and multipurpose capital improvement
+projects;
+
+(3)	that the levy of a city-wide special tax as hereinafter provided is necessary to fund the foregoing municipal improvements and
+
+services.
+
+(b)	This Ordinance was approved by the voters of the City at the consolidated State general election held on November 7, 2006 by the
+
+following vote:
+
+Yes:___________________ No:	___________
+
+Accordingly, the City of Santa Monica Clean Beaches and Ocean Parcel Tax (the “Tax”) is levied under this Chapter pursuant to the City’s
+Charter, Government Code Section 50075 et seq., and other applicable laws. Under the Charter, it is hereby expressly provided that, as an exercise
+of municipal affairs powers, the City shall be authorized to use all or a portion of the Tax allocated for capital improvements to pay installments of
+principal of and interest on bonded indebtedness or with respect to leases, or similar instruments for the purposes of providing financing for any
+capital improvements hereunder.
+
+7.64.040	Tax Levy
+
+The Tax not exceeding the maximum amounts set forth in this section 7.64.040 is hereby levied, commencing the fiscal year 2007-2008,
+on all Parcels, improved or unimproved, within the boundaries of the City.
+
+For each Parcel which is a Single Family Dwelling, the annual maximum Tax rate shall be eighty-four dollars ($84) for 2007-2008 (the
+“Basic Tax” or “BT”).
+
+For each Parcel that is not a Single Family Dwelling, the maximum Tax rate for 2007-2008 shall be calculated according to the following
+
+formula:
+
+Parcel Size (acrest x Runoff Factor (RF1 x BT
+.0637
+
+The Runoff Factors are set forth below:
+
+Use Code Land Use Cateaorv		Area Breakdown	Runoff Factor
+010C	Condominium	Up to 0.3257 Acre  Area in Excess of 0.3257 Acre	0.8194  0.0190
+010F	Cooperative Multifamily	Up to 0.3257 Acre  Area in Excess of 0.3257 Acre	0.8194  0.0190
+0200	Double, Duplex	Up to 0.6514 Acre Area in Excess of 0.6514	0.4176  0.0190
+0300	Three Unit Multifamily	Up to 0.9771 Acre  Area in Excess of 0.9771 Acre	0.6815  0.0190
+0400	Four Unit Multifamily	Up to 1.3028 Acre  Area in Excess of 1.3028 Acre	0.8194  0.0190
+0500	Five or More Apartments or Units	All Lot Areas	0.8553
+0900	Mobile Home Parks	All Lot Areas	0.8194
+1000	Open Commercial	All Lot Areas	0.4733
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 40
+
+1000	Open Commercial	All Lot Areas	0.4733
+1100	Stores	All Lot Areas	0.9086
+1200	Store Combination (w/ Office or Resid.)	All Lot Areas	0.9086
+1300	Department Stores	All Lot Areas	0.9850
+1400	Supermarkets	All Lot Areas	0.9762
+1500	Shopping Centers (Community)	All Lot Areas	0.9578
+1600	Shopping Centers (Regional)	All Lot Areas	0.9461
+1700	Office Buildings	All Lot Areas	0.9086
+1800	Hotels and Motels	All Lot Areas	0.9578
+1900	Professional Buildings	All Lot Areas	0.9578
+2100	Restaurants and Cocktail Lounges	All Lot Areas	0.9461
+2300	Banks and Savings and Loans	All Lot Areas	0.9578
+2400	Service Shops	All Lot Areas	0.9461
+2500	Service Stations	All Lot Areas	0.9578
+2600	Auto, Recreation & Construction Equipment Sales & Service	All Lot Areas	0.9461
+2700	Parking Lots (Commercial - Use Properties)	All Lot Areas	0.9461
+3100	Light Manufacturing	All Lot Areas	0.9086
+3200	Heavy Manufacturing	All Lot Areas	0.9086
+3300	Warehousing, Distribution & Storage	All Lot Areas	0.9086
+3600	Lumber Yards	All Lot Areas	0.9578
+3800	Parking Lots (Industrial - Properties)	All Lot Areas	0.9086
+6400	Clubs, Lodge Halls, Fraternal Orgs.	All Lot Areas	0.9086
+7100	Churches	All Lot Areas	0.8194
+7200	Schools	All Lot Areas	0.8194
+7400	Hospitals	All Lot Areas	0.7435
+7500	Homes for the Aged and Others	All Lot Areas	0.6815
+8100	Utilities	All Lot Areas	0.4733
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+The Tax imposed by this Chapter shall be assessed to the Owner unless the owner is by law exempt from taxation, in which
+case, the tax imposed shall be assessed to the holder of the Possessory Interest in such Parcel, unless such holder is also by law
+exempt from taxation.
+
+The Tax shall not exceed the maximum amounts set forth in this section 7.64.040, except that the Tax shall be increased
+annually by the annual percent increase for twelve month period February through January of the prior fiscal year, if any, in the Wage
+Earners and Clerical Workers All Items Consumer Price Index (CPI-W) for the Los Angeles-Riverside-Orange County statistical area, or
+any successor index.
+
+For the purposes specified in section 7.64.050 below, the Tax shall be levied so long as it is necessary to pay for any financing
+of capital improvements, and so long as necessary for services as specified in section 7.64.050.
+
+The Tax is levied pursuant to California Government Code Section 50075 et seq. and is a tax upon each Parcel of property.
+The amount of the Tax is not measured by the value of the Parcel.
+
+7.64.050 Purposes and Uses of Tax
+
+There is hereby established a special fund entitled “Clean Beaches and Ocean Parcel Tax Fund” to be maintained by the City.
+Proceeds of the tax, together with any interest and penalties thereon (collectively, the ‘Tax Proceeds”), shall be collected each fiscal
+year and deposited in said special fund, and shall be used exclusively for the implementation of the Watershed Management Plan,
+including but not limited to, financing the operation, administration, maintenance, improvement, environmental restoration, upgrade
+and replacement of the existing and future storm drainage system, on-site stormwater management systems, storm drain conveyance
+system upgrades, and multipurpose capital improvement projects, improving the quality of stormwater, as well as complying with local,
+state, and federal stormwater regulations and paying for, or securing the payment of, any indebtedness incurred for these purposes,
+and any and all other purposes as more fully discussed therein. The following are goals of the Watershed Management Plan:
+
+•	Reduce urban runoff pollution
+
+•	Reduce urban flooding
+
+•	Increase water reuse and conservation
+
+•	Increase recreational opportunities and open space
+
+•	Increase wildlife and marine habitat
+
+The Tax Proceeds may also be used to enforce and administer the Tax, including costs for submission of any measure to the
+voters for the establishment or alteration of the Tax.
+
+7.64.060	Exemptions
+
+The Tax imposed by this Chapter shall not be construed as imposing a tax upon any person when the imposition of such tax upon
+that person would be in violation of either the Constitution of the United States or the Constitution of the State of California. The City
+Council is authorized to establish by resolution special exemption procedures and eligibility criteria for natural persons based on
+income, age or disability. The Tax imposed by this Chapter shall be subject to the exemptions set forth in this section or adopted by
+resolution as authorized herein.
+
+7.64.070	Computation and Collection of Tax; Interest and Penalties
+
+The Director or his/her designee or employee is hereby authorized and directed each fiscal year, commencing with the fiscal
+year 2007-2008, to determine the Tax amount to be levied for the next ensuing fiscal year for each taxable parcel of real property within
+the City, in the manner and as provided in Section 7.64.040. The Chief Financial Officer (the “CFO”) is hereby authorized and directed
+to provide all necessary information to the Auditor-Controller of the County of Los Angeles to effect proper billing and collection of the
+Tax, so that the installments of the Tax shall be included on the secured property tax roll of the County of Los Angeles. Unless otherwise
+
+Santa Monica / 41
+
+required by the Council, no Council action shall be required to authorize the annual collection of the Tax as herein provided.
+
+The Tax shall be collected in the same manner as ordinary ad valorem taxes are collected and shall have the same lien priority,
+and be subject to the same penalties and the same procedure and sale in cases of delinquency as provided for ad valorem taxes
+collected by the County of Los Angeles; provided, however, that the Council may provide for other appropriate methods of collection
+of the Tax by appropriate resolution(s) of the Council.
+
+The Tax shall constitute a lien upon the Parcel upon which it is levied until it has been paid. Any unpaid Tax due under this
+Chapter shall be subject to all remedies provided under the City’s Municipal Code and as provided by law.
+
+7.64.080	Accountability; Citizen’s Oversight Committee
+
+Pursuant to Sections 50075.1 and 50075.3 of the California Government Code, the specific purposes of the Tax and the
+requirement that the Tax proceeds be applied to such purposes and the establishment of a special fund for the Tax proceeds are
+as set forth in section 7.64.050. So long as the Tax is collected hereunder, commencing no later than July 1, 2008, the CFO is here
+by authorized and directed to cause to be prepared and filed with the Council a report that shows the amount of Tax collected and
+expended and the status of any projects funded with the Tax Proceeds. For purposes of this section 7.64.080, the CFO is authorized
+to retain such consultants, accountants or agents as may be necessary or convenient to accomplish the foregoing.
+
+The Council shall establish a Citizen’s Oversight Committee to audit the use of the Tax Proceeds. The membership, scope
+and responsibilities of the Citizen's Oversight Committee shall be determined by the Council in its exercise of discretion.
+
+7.64.090	Examination of Books and Records and Annual Audit
+
+The CFO or Director or their designee or employee or agent, is hereby authorized and directed to examine assessment
+rolls, property tax records, records of the Los Angeles County Recorder and any other records of the County of Los Angeles deemed
+necessary in order to determine ownership of parcels and computation of the Tax.
+
+A certified public accounting firm retained by the City will perform an annual audit to assure accountability of the proper
+disbursement of these Tax Proceeds in accordance with the objectives stated herein.
+
+7.64.100	Property Tax
+
+This special parcel tax is a property tax and qualified property owners and renters shall be entitled to the benefits of the
+Gonsalves-Deukmejian-Petris Senior Citizen’s Property Tax Assistance Law (California Revenue & Taxation Code Section 20501 et
+seq.) and the Senior Citizens and Disabled Property Tax Postponement Law (California Revenue & Taxation Code Section 20581 et
+seq.), as provided by law.
+
+7.64.110	Refund of Tax, Penalty, or Interest Paid More Than Once; or Erroneously or Illegally Collected
+
+When the amount of the Tax, any penalty, or any interest has been paid more than once, or has erroneously or illegally collected
+or received by the City under this Chapter, it may be refunded provided a verified claim in writing therefore, stating the specific ground
+upon which the claim is founded, is filed with the CFO within one (1) year from the date of payment. If the claim is approved by the CFO,
+the excess amount collected or paid may be refunded or may be credited against any amounts then due and payable from the person
+from whom it is collected or by whom paid, and the balance may be refunded to such person, his/her administrators or executors.
+
+7.64.120	Savings Clause
+
+The provisions of this Chapter shall not apply to any person, or to any property as to whom or which it is beyond the power
+of the City to impose the Tax herein provided. If any provision, sentence, clause, section or part of this Chapter is found to be
+unconstitutional, illegal or invalid, such unconstitutionality, illegality or invalidity shall affect only such provision, sentence, clause,
+section or part of this Chapter and shall not affect or impair any remaining provisions, sentences, clauses, sections or parts of this
+Chapter. It is hereby declared to be the intention of the City that this Chapter would have been adopted had such unconstitutional,
+illegal or invalid provision, sentence, clause, section or part thereof not been included herein.
+
+7.64.130	Regulations
+
+The Council is hereby authorized to promulgate such regulations as it shall deem necessary in order to implement the provision
+of this Chapter, including implementing this Chapter which is hereby codified in Article 7, Chapter 7.64 et. seq. of the Santa Monica
+Municipal Code or as otherwise designated by the City Clerk.
+
+7.64.140 Increase Appropriations Limit
+
+Pursuant to California Constitution Article XIIIB, the appropriations limit for the City of Santa Monica is hereby increased by
+the aggregate sum authorized to be levied by this Tax for the fiscal year 2007-2008 and each year thereafter.
+
+SECTION 2. Amendment or Repeal. The City Council is hereby authorized to adopt additional provisions consistent with the
+intent of this Ordinance and to amend the provisions of this Ordinance without voter approval, provided such amendments do not
+extend the Tax to a taxpayer not subject to the Tax or increase the amount of the Tax beyond the amount authorized by this Ordinance.
+Any amendment to this Ordinance which extends the Tax to a taxpayer who would otherwise not be subject to it or increase the amount
+of Tax beyond the maximum tax rates and escalation factors authorized by this Ordinance must be approved only by a vote of the
+qualified electors or property owners of the City.
+
+SECTION 3. Severability. If any provision, section, paragraph, sentence or word of this Ordinance, or the application thereof to
+any person or circumstance, is rendered or declared invalid by any court of competent jurisdiction, the remaining provisions, sections,
+paragraphs, sentences or words of this Ordinance, and their application to other persons or circumstances shall not be affected
+thereby and shall remain in full force and effect and to that end the provisions of this Ordinance are severable.
+
+SECTION 4. Effective Date. This Ordinance relates to the levying and collecting of the Tax by the City and shall be in full force
+and effect ten (10) days after the certification by the Council of the election returns indicating passage of the Ordinance by two-thirds
+of the voters casting votes in the election.
+
+APPROVED AS TO FORM:
+
+MARSHA JONES MOUTRIE
+City Attorney
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 42
+
+ORDENANZA PROPUESTA PARA LA MEDIDA V
+
+UNA ORDENANZA DEL ELECTORADO DE LA CIUDAD DE SANTA MONICA, CALIFORNIA ADOPTANDO UN IMPUESTO A LA PARCELA
+PARA PLAYAS Y OCEANO LIMPIOS AGREGANDOLO AL CAPITULO 7.64 DEL c6DIGO MUNICIPAL DE SANTA MONICA COMENZANDO
+
+POR LA SECCI6N 7.64.010 Y SIGUIENTES
+
+EL ELECTORADO DE LA CIUDAD DE SANTA MONICA DECRETA LO SIGUIENTE:
+
+SECCION1. Ley de Impuesto a la Parcela para Playas y Oceano Limpios. Capitulo 7.64 y sig. del Codigo Municipal de Santa Monica, titulado
+“Ley de Impuesto a la Parcela para Playas y Oceanos Limpios,” se promulga por la presente y rezarS de la siguiente manera:
+
+7.64.010 Titulo y Proposito
+
+Este Capitulo 7.64 y sig. se puede citar como la “Ley de Impuesto a la Parcela para Playas y Oceanos Limpios.”
+
+7.64.020 Definiciones
+
+Cada vez que sean utilizadas las siguientes palabras y frases en este Capitulo se interpretaran como se define en esta Seccion a
+continuacion:
+
+“Director” significara Director del Departamento Ambiental y Administracion de Obras Publicas, o quien este designe.
+
+“Propietario” hara referenda al propietario legal de cualquier parcela de propiedad de bienes raices, excepto cuando el propietario legal
+de la propiedad sea tal a causa de la posesion de una hipoteca, pagare u otra garantia, en cuyo caso se considerara “propietario” al propietario que
+se beneficia con dicha parcela de propiedad de bienes raices.
+
+“Parcela” significara el lote mas pequeno, segregado separado, unidad o terreno que tenga un dueno identificado, un area con limites y
+superficie que este documentada a los efectos del impuesto sobre la propiedad y a la que el Tasador de Impuestos del Condado de Los Angeles le
+brinde un numero de identification del tasador.
+
+“Tamafio de la Parcela” significara el tamano de la Parcela medida en acres.
+
+“Interes Posesorio” significara posesion de, reclamo de, o derecho a la posesion de, terreno o mejoras e incluira cualquier derecho
+exclusivo al uso de dicho terreno o a las mejoras.
+
+“Factor de desague" significara la cantidad establecida en la tabla de la seccion 7.64.040 a continuacion que representa la cantidad
+promedio de drenaje pluvial de una Parcela para un uso determinado de terrenos.
+
+“Vivienda de Familia Unica” significara una parcela urbanizada con una unidad de vivienda no adosada para una familia unica.
+
+7.64.030 Necesidad, Autoridad, y Proposito
+
+(a)	Por la presente el Concejo Municipal (el “Concejo”) de la Ciudad de Santa Monica (la “Ciudad”) determina lo siguiente:
+
+(1)	que el costo para implementar el “Plan de Control de Desague de La Ciudad” en toda la Ciudad al nivel requerido para proporcionar
+salud, seguridad, y bienestar general para los residentes de la Ciudad excede el monto de rentas de otras fuentes;
+
+(2)	que las rentas adicionales son necesarias para financiar una parte del costo de la implementation del Plan de Administracion de
+Cuencas, incluyendo la financiacion de la operation, administracion, mantenimiento, mejora, restauracion ambiental, actualization y reemplazo del
+sistema de drenaje para tormentas actual y future, sistemas de administracion de aguas pluviales en el lugar, mejoras del sistema de transpose del
+drenaje pluvial, y proyectos de mejoras de capital para fines varios;
+
+(3)	que el gravamen de un impuesto especial para toda la ciudad como se estipula de aqui en adelante es necesario para financiar las
+mejoras y los servicios municipals actuates.
+
+(b)	Esta Ordenanza fue aprobada por los votantes de la Ciudad en la election Estatal general consolidada realizada el 7 de noviembre
+de 2006 por los siguientes votos:
+
+A favor:_________________ En	contra:____________
+
+Por consiguiente, se grava el Impuesto a la Parcela para Playas y Oceano Limpios de la Ciudad de Santa Monica (el ''Impuesto”) segun
+este Capitulo en conformidad con la Carta Constitucional de la Ciudad, Seccion 50075 y sig., del Codigo de Gobierno, y otras leyes aplicables.
+Segun la Carta Constitucional, por la presente se estipula expresamente que, como ejerciclo de los poderes sobre asuntos municipales, la Ciudad
+estara autorizada a utilizar todo o una parte del Impuesto destinado para las mejoras de capital para pagar las cuotas del principal e interns del
+endeudamiento garantizado o relacionado con arriendos, o instrumentos similares a los efectos de brindar un financiamiento para cualquiera de
+las mejoras de capital de este documento.
+
+7.64.040 Tasa Tributaria
+
+El Impuesto que no exceda los montos maximos establecidos en esta seccion 7.64.040 se grava por medio de la presente, comenzando
+el ano fiscal 2007-2008, sobre todas las Parcelas, mejoradas o no, dentro de los limites de la Ciudad.
+
+Para cada Parcela que sea una Vivienda de Familia Unica, la Tasa impositiva maxima anual sera de ochenta y cuatro dolares ($84) para
+2007-2008 (el “Impuesto B6sico” o “BT”).
+
+Por cada Parcela que no sea una Vivienda de Familia Unica, la Tasa impositiva maxima para 2007-2008 sera calculada de acuerdo a la
+siguiente fbrmula:
+
+Tamano de la Parcela (acres) x Factor de desague (RF) x BT
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+.0637
+
+Los Factores de Desague se establecen a continuacion:
+
+Codigo de	Factor
+
+Uso	Categoria de Uso de terrenos	Clasificacion por Areas	de Desague
+01 oc	Condominios	Hasta 0.3257 Acres	0.8194
+		Area de mas de 0.3257 Acres	0.0190
+01 OF	Familia Multiple Cooperativa	Hasta 0.3257 Acres	0.8194
+		Area de mas de 0.3257 Acres	0.0190
+0200	Doble, Duplex	Hasta 0.6514 Acres	0.4176
+		Area de mas de 0.6514	0.0190
+0300	Tres Unidades Multifamiliares	Hasta 0.9771 Acres	0.6815
+		Area de mas de 0.9771 Acres	0.0190
+0400	Cuatro Unidades Multifamiliares	Hasta 1.3028 Acres	0.8194
+		Area de mas de 1.3028 Acres	0.0190
+
+Santa Monica / 43
+
+0500	Cinco o mas Apartamentos o Unidades	Todas las Areas del Lote	0.8553
+0900	Parques de Casas Moviles	Todas las Areas del Lote	0.8194
+1000	Comercial al Aire Libre	Todas las Areas del Lote	0.4733
+1100	Negocios	Todas las Areas del Lote	0.9086
+1200	Combinacion de Negocios (c/ Oficina o Resid.)	Todas las Areas del Lote	0.9086
+1300	Tienda de departamentos	Todas las Areas del Lote	0.9850
+1400	Supermercados	Todas las Areas del Lote	0.9762
+1500	Centros Comerciales (de la Comunidad)	Todas las Areas del Lote	0.9578
+1600	Centros Comerciales (Regionales)	Todas las Areas del Lote	0.9461
+1700	Edificios de Oficinas	Todas las Areas del Lote	0.9086
+1800	Hoteles y Moteles	Todas las Areas del Lote	0.9578
+1900	Edificios de Profesionales	Todas las Areas del Lote	0.9578
+2100	Restaurantes y Salas para Cocteles	Todas las Areas del Lote	0.9461
+2300	Bancos y Ahorros y Prestamos	Todas las Areas del Lote	0.9578
+2400	Tiendas de Servicios	Todas las Areas del Lote	0.9461
+2500	Estaciones de Servicios	Todas las Areas del Lote	0.9578
+2600	Automoviles, Venta y Servicio de Equipos de		
+	Recreacion y Construction	Todas las Areas del Lote	0.9461
+2700	Lotes de Estacionamiento (Comercial -		
+	Propiedades de Uso)	Todas las Areas del Lote	0.9461
+3100	Industrias Livianas	Todas las Areas del Lote	0.9086
+3200	Industrias Pesadas	Todas las Areas del Lote	0.9086
+3300	Depositos, Distribution y Almacenamiento	Todas las Areas del Lote	0.9086
+3600	Depositos de Madera	Todas las Areas del Lote	0.9578
+3800	Lotes de Estacionamiento (Industriales - Propiedades)	Todas las Areas del Lote	0.9086
+6400	Clubes, Casas de Alojamiento, Org Fraternales.	Todas las Areas del Lote	0.9086
+7100	Iglesias	Todas las Areas del Lote	0.8194
+7200	Escuelas	Todas las Areas del Lote	0.8194
+7400	Hospital es	Todas las Areas del Lote	0.7435
+7500	Hogares para Ancianos y Otros	Todas las Areas del Lote	0.6815
+8100	Servicios Publicos	Todas las Areas del Lote	0.4733
+
+El Impuesto gravado en este Capltulo se tasara sobre el Propietario a menos que el mismo este, por ley, exento de impuestos, en cuyo
+caso el Impuesto gravado se tasara sobre el titular de cualquler Interes Posesorio en dicha Parcela, a menos que el titular tambien este por ley
+exento de los impuestos.
+
+El Impuesto no excedera los montos maximos establecidos en esta seccion 7.64.040, excepto que el Impuesto se incremente anualmente
+por el aumento del porcentaje anual durante el periodo de doce meses de Febrero a Enero del ano fiscal anterior, si lo hubiera, en el indice de
+Precios del Consumidor para Trabajadores Asalariados y Personal Administrativo (CPI-W) para el area estadistica del Condado de Los Angeles-
+Riverside-Orange, o cualquier fndice sucesor.
+
+A los efectos especificados en la seccion 7.64.050 a continuacion, el Impuesto se gravara hasta que sea necesario para pagar cualquier
+financiamiento de las mejoras de capital, y hasta que sea necesario para los servicios como se especifica en la seccion 7.64.050.
+
+Este Impuesto se grava en conformidad con la Seccion 50075 y sig. del Codigo de Gobierno de California y constituye un impuesto sobre
+cada Parcela de la propiedad. El monto del Impuesto no se mide por el valor de la Parcela.
+
+7.64.050 Objetivos y Usos del Impuesto
+
+Por la presente se establece un fondo especial titulado “Fondo del Impuesto a la Parcela para Playas y Oceanos Limpios” para que la
+Ciudad lo conserve. Los productos del impuesto, junto con cualquier interes y sanciones al respecto (colectivamente, los “Productos del Impuesto”),
+seran recaudados cada ano fiscal y depositados en dicho fondo especial, y se utilizaran exclusivamente para la implementacion del “Plan de Control
+de Desague de La Ciudad”, incluyendo pero sin limitarse, al financiamiento del funcionamiento, adminlstracion, mantenimiento, mejora, restauracion
+ambiental, actualizacion y reemplazo del sistema de drenaje para tormentas actual y futuro, sistemas de administracion de aguas pluviales en el
+lugar, mejoras del sistema de transporte del drenaje pluvial, y proyectos de mejoras de capital para fines varios, mejorar la calidad del agua pluvial,
+as! como tambien cumplir con las regulaclones federates, estatales y locales para el agua pluvial, y cualquier otro objetivo como se trate de manera
+mas completa en las mismas. Los objetivos del “Plan de Control de Desague de La Ciudad” son los siguientes:
+
+•	Reducir la contaminacion urbana del desague
+
+•	Reducir la inundacidn urbana
+
+•	Aumentar la conservacion y reutilizacibn del agua
+
+•	Aumentar las oportunidades recreativas y el espacio abierto
+
+•	Aumentar la vida silvestre y el habitat marino
+
+Los Productos del Impuesto tambten se pueden utilizar para hacer cumplir y administrar el Impuesto, incluyendo los costos de envlo de
+cualquier iniciativa de ley a los votantes para el establecimiento o la alteracion del Impuesto.
+
+7.64.060	Exenciones
+
+El Impuesto gravado por este Capltulo no se interpretara como el gravamen de un impuesto sobre una persona cuando el gravamen de
+dicho impuesto sobre esa persona constituya una violacion a la Constitucion de los Estados Unidos o a la Constitucion del Estado de California. El
+concejo municipal estb autorizado a establecer por una resolucion especial, procedimientos de exencion y criterio de elegibilidad para personas
+naturales basado en su renta, edad 6 inhabilidad. El Impuesto gravado por este Capltulo estarb sujeto a las exenciones establecidas en esta
+seccion 6 adoptada por una resolucibn autorizada adjuntamente.
+
+Santa Monica / 44
+
+m 30 c co > m 2
+
+7.64.070	Calculo y Recaudacion del Impuesto; Interes y Sanciones
+
+El Director o quien este designe o empleado esta autorizado por la presente y orientado en cada ano fiscal, comenzando con el ano fiscal
+2007-2008, para determinar el monto del Impuesto que se gravara el prdximo ano fiscal subsiguiente para cada parcela gravable de propiedad de
+bienes ralces dentro de la Ciudad, de la manera y como lo estipula la Seccion 7.64.040. El Director Financiero en Jefe (el “CFO”) esta autorizado
+y orientado por la presente para brindar toda la informacion necesaria al Controlador Auditor del Condado de Los Angeles para llevar a cabo la
+adecuada facturacion y recaudacion del Impuesto, de manera que los pagos del Impuesto se incluir&n en el registro asegurado de impuestos de
+propiedad del Condado de Los Angeles. A menos que el Concejo requiera lo contrario, no se necesitara ninguna accion del Concejo para autorizar
+la recaudacion anual del Impuesto como se establece en este documento.
+
+El Impuesto se recaudara de la misma manera que los impuestos ad valorem comunes y tendr&n la misma prioridad de derecho de
+embargo, y estara sujeto a las mismas sanciones y el mismo procedimiento y venta en los casos de morosidad como lo estipulan los impuestos
+ad valorem recaudados por el Condado de Los Angeles; siempre que, no obstante, el Concejo pueda establecer otros metodos apropiados de
+recaudacion del Impuesto a traves de resolucion(es) adecuada(s) del Concejo.
+
+El Impuesto constituira un derecho fiscal sobre la Parcela que se grava hasta que se pague. Todo Impuesto no pagado en virtud de este
+Capltulo estara sujeto a todas las soluciones jurfdicas establecidas en el Codigo Municipal de la Ciudad y del modo que establece la ley.
+
+7.64.080	Responsabilidad; Comite de Supervision Ciudadano
+
+En conformidad con las Secciones 50075.1 y 50075.3 del Codigo de Gobierno de California, los objetivos especlficos del Impuesto y el
+requisito de que los productos del Impuesto se apliquen a dichos efectos y el establecimiento de un fondo especial para los productos del Impuesto
+se establecen en la seccion 7.64.050. Siempre que se recaude el Impuesto segun este documento, comenzando antes del 1 de julio de 2008, el
+CFO esta autorizado y orientado por la presente para estar preparado para presentar al Concejo un informe que muestre el monto del Impuesto
+recaudado y gastado y el estado de cualquiera de los proyectos financiados con los Productos del Impuesto. A los efectos de esta seccion 7.64.080,
+el CFO esta autorizado para retener dichos asesores, contadores o agentes cuando sea necesario o conveniente para lograr lo precedente.
+
+El Concejo establecera un Comity de Supervision Ciudadano para realizar auditorias sobre el uso de los Productos del Impuesto. Los
+miembros, el alcance y las responsabilidades del Comite de Supervision Ciudadano serein determinados por el Concejo en ejercicio de su criterio.
+
+7.64.090	Inspection de Libros y Registros y Auditoria Anual
+
+El CFO o Director o quien este designe o su empleado o su agente, esta autorizado por la presente y orientado para examinar nominas de
+tasacion, registros de impuestos sobre la propiedad, registros del Registro Civil del Condado de Los Angeles y cualquier otro registro del Condado
+de Los Angeles que se considere necesario para determinar la propiedad de las parcelas y el calculo del Impuesto.
+
+Una firma de contadores publicos titulados contratada por la Ciudad realizara una auditoria anual para asegurar la responsabilidad del
+gasto adecuado de estos Productos de Impuesto de acuerdo con los objetivos mencionados en el presente documento.
+
+7.64.100	Impuesto Sobre la Propiedad
+
+Este impuesto especial sobre la parcela es un impuesto sobre la propiedad y los propietarios e Inquilinos calificados tendran el derecho
+a los beneficios de la Ley de Asistencia del Impuesto sobre la propiedad para los Ciudadanos Mayores Gonsalves-Deukmejian-Petris (Cddigo
+de Rentas e Impuestos de California Seccion 20501 y sig.) y la Ley de Exencion del Impuesto sobre la Propiedad para Ciudadanos Mayores y
+Discapacitados (Codigo de Rentas e Impuestos de California Seccion 20581 y sig), del modo que establece la ley.
+
+7.64.110	Reintegro de Impuestos, Sanciones, o Interes Pagados mas de una vez o Recaudado de Manera llegal o Equivocada
+
+Cuando el importe del Impuesto, cualquier multa, o interes que se haya pagado mas de una vez, o se haya recaudado o recibido por la
+Ciudad de manera equivocada o ilegal, segun este Capltulo, puede reintegrarse siempre que un reclamo verificado por escrito consecuentemente,
+manifestando el motivo especlfico sobre el que se basa dicho reclamo, sea presentado ante el CFO en el plazo de (1) ano a partir de la fecha
+de pago. Si el CFO aprueba el reclamo, los importes excedentes recaudados o pagados pueden ser reintegrados o pueden ser acreditados de
+todos los importes en ese momento vencidos y a pagar de la persona de la que fueran recaudados o por quien fueran pagados, y el saldo puede
+reintegrarse a dicha persona o a sus administradores o testamentarios.
+
+7.64.120	Cldusula de Exception
+
+Las disposiciones de este Capltulo no serAn aplicables a ninguna persona, o propiedad a las cuales la Ciudad no este autorizada a imponer
+el Impuesto como se establece en este documento. Si se determina que alguna disposicion, oracion, cteusula, seccion o parte de este Capltulo
+es inconstitucional, ilegal o invalids, dicha inconstitucionalidad, ilegalidad o invalidez solo afectaran tales disposiciones, oraciones, clausulas,
+secciones o partes de este Capltulo y no afectaran o menoscabaran ninguna de las demas disposiciones, oraciones, clausulas, secciones o partes
+de este Capltulo. Por el presente se declara que es la voluntad de los ciudadanos de la Ciudad que este Capltulo se hubiera adoptado si dicha
+disposicion, oracion, clausula, seccion o parte inconstitucional, ilegal o invalids no se hubiera incluido en este documento.
+
+7.64.130	Regulaciones
+
+Por la presente el Concejo esta autorizado a promulgar dichas regulaciones cuando se considere necesario para implementar la disposicion
+de este Capltulo, incluyendo la implementation de este Capltulo que se codifica por la presente en el Artlculo 7, Capltulo 7.64 y sig. del Codigo
+Municipal de Santa Monica o como el Secretario Municipal lo designe.
+
+7.64.140 Aumento del Llmite de las Apropiaciones
+
+En conformidad con el Artlculo XIIIB de la ConstituciOn de California, el llmite de apropiaciones para la Ciudad de Santa Monica se aumenta por la presente
+por el monto agregado autorizado para ser gravado por este Impuesto para el ano fiscal 2007-2008 y todos los anos de aqul en adelante.
+
+SECClGN 2. Enmienda o Derogation. Por la presente, se autoriza al Concejo Municipal a adoptar disposiciones adicionales coherentes con la
+finalidad de esta Ordenanza y para enmendar las disposiciones de esta Ordenanza sin la aprobacion de los votantes, siempre y cuando tales enmiendas no extiendan
+el Impuesto a un contribuyente que no este sujeto al Impuesto, o no aumenten el monto del Impuesto mas alii del monto autorizado por esta Ordenanza. Cualquier
+enmienda a esta Ordenanza que extienda el Impuesto a un contribuyente que bajo otras circunstancias no estaria sujeto aelo aumente el monto del Impuesto mis alii
+de las tasas impositivas miximas y los factores de intensificacion autorizados por esta Ordenanza debe ser aprobada solamente por el voto de los electores calificados
+o propietarios de la Ciudad.
+
+SECClGN 3. Divisibilidad. Si alguna disposicion, seccion, pirrafo, oracion o palabra de esta Ordenanza, o la aplicacion de la misma sobre cualquier
+persona o circunstancia, se interprets o declara invilida por algun tribunal de jurisdiccion competente, las disposiciones, secciones, pirrafos, oraciones o palabras
+restantes de esta Ordenanza, y la aplicaciin sobre otras personas o circunstancias; no se veran afectadas por consiguiente y permanecerin en total fuerza y efecto y
+con tal fin las disposiciones de esta Ordenanza son divisibles.
+
+SECClGN 4. Fecha Efectiva. Esta Ordenanza se relaciona con el gravamen y la recaudacion del Impuesto por la Ciudad y ser£ completamente vSlida
+y efectiva diez (10) dias despues de que la certificacion por el Concejo de la eleccion regrese indicando la aprobacion de la Ordenanza por dos tercios de los electores
+que emiten su voto en esta eleccion.
+
+APR0BAD0 EN CUANT0 A LA FORMA:
+
+MARSHA JONES M0UTRIE, Abogada Municipal
+
+Santa Monica / 45
+
+PROPOSITION V
+
+IMPARTIAL ANALYSIS OF THE CLEAN BEACHES AND OCEAN PARCEL TAX ACT
+
+This measure would amend the Municipal Code by adopting an ordinance entitled the “Clean Beaches and Ocean
+Parcel Tax Act” to raise revenue solely for the purpose of implementing and financing a portion of the City’s Watershed
+Management Plan (“Plan”). The Plan proposes urban runoff management and pollution prevention activities to protect
+Santa Monica Bay, beaches and ocean resources and to satisfy federal, state and regional pollution discharge and water
+quality requirements. The special tax would fund operation, administration, maintenance, improvement, environmental
+restoration, upgrades and replacement of the existing and future storm drainage system. It would also fund on-site
+stormwater management systems, storm drain conveyance system upgrades, and multipurpose capital improvement
+projects for the purpose of reducing urban flooding and runoff pollution, and increasing water reuse and conservation,
+recreational opportunities and open space, wildlife and marine habitat.
+
+The measure would supplement a stormwater parcel fee adopted by the City in 1995, which has never been increased.
+The current fee covers costs of the existing storm drainage system, but is insufficient to fund the Watershed Management
+Plan.
+
+The proposed ordinance establishes an annual parcel tax of $84.00 ($7.00 per month) for each parcel with one single
+family detached residence. Rates for multi-family and commercial properties would vary depending upon parcel
+size and a “runoff factor” representing the amount of average storm drainage from a parcel for a particular land use
+category. The runoff factors and the formula to compute the parcel tax for multi-family, commercial and other property
+types are specified in the Ordinance. The rates are subject to annual increases based on the annual percent increase
+in a Consumer Price Index.
+
+Tax proceeds would be deposited in a special fund that would be the subject of an annual report showing the amount
+of the tax collected and expended and the status of any projects funded with tax proceeds. The City Council would
+be required to establish a Citizens’ Oversight Committee to audit use of tax proceeds.
+
+Public agencies would be exempt from this special tax; qualifying non-profit institutions could seek exemptions. The
+City Council could also establish special exemption procedures and eligibility criteria for natural persons based on
+income, age or disability.
+
+It is estimated that the parcel tax rate would raise annual revenues of approximately $2,350,000 to cover stormwater
+operations and maintenance costs as well as fund up to $40 million in capital projects over the next ten years. It is
+anticipated that Santa Monica would be able to use its local funding to leverage access to additional capital funds from
+federal, state and other funding sources for Plan implementation.
+
+s/ Marsha Jones Moutrie, City Attorney
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 46
+
+PROPOSITION V
+
+ANALISIS IMPARCIAL DE LA LEY DE IMPUESTOS DE PARCELAS PARA PLAYAS Y OCEANOS LIMPIOS
+
+Esta iniciativa enmendaria el Codigo Municipal al adoptar una ordenanza titulada “Ley de Impuestos de Parcelas
+para Playas y Oceanos Limpios” para recaudar fondos unicamente con el fin de poner en practica y financiar una
+parte del Plan de Control de Desague de la Ciudad (“Plan”). El Plan propone actividades de control de escorrentia
+urbana y prevention de contaminacion para proteger la Bahia de Santa Monica, las playas y los recursos del oceano
+y para cumplir con los requisitos federales, estatales y regionales de descarga de contaminacion y calidad del
+agua. El impuesto especial financiaria la operation, administration, mantenimiento, mejora, renovation ambiental,
+modernization y reemplazo del sistema actual y futuro de desague. Tambien financiaria sistemas de control locales
+de aguas pluviales, modernizaciones del sistema de transpose de desagties pluviales y proyectos de mejora de
+capital con multiples fines para reducir la inundation urbana y la contaminacion de escorrentias, y para aumentar la
+reutilizacion y conservation de agua, las oportunidades de recreation y espacios abiertos, la vida silvestre y el habitat
+marino.
+
+La iniciativa complementaria un arancel de parcelas para aguas pluviales adoptado por la Ciudad en 1995, que nunca
+ha aumentado. El arancel actual cubre los costos del sistema actual de drenaje de aguas pluviales, pero no es suficiente
+como para financiar el Plan de Control de Desague.
+
+La ordenanza propuesta establece un impuesto de parcelas anual de $84.00 ($7.00 por mes) por cada parcela con una
+residencia independiente de familia unitaria. Los montos para propiedades de varias familias y propiedades comerciales
+variarian segun el tamafio de la parcela y el “factor de desague” que representa la cantidad promedio de desague de
+aguas pluviales de una parcela para una categoria determinada de uso de Terrenos. Los factores de escorrentia y la
+formula para calcular el impuesto de parcelas para propiedades de varias familias, propiedades comerciales y otro tipo
+de propiedades se detallan en la Ordenanza. Los montos estan supeditados a aumentos anuales segun el aumento
+porcentual anual del Indice de Precios al Consumidor.
+
+Las recaudaciones impositivas se depositarian en un fondo especial que seria objeto de un informe anual que indique
+la cantidad de impuestos recaudados y gastados y la situation de todo proyecto financiado con recaudaciones
+impositivas. El Concejo Municipal estaria obligado a crear un Comite de Supervision de Ciudadanos para controlar el
+uso de dichas recaudaciones.
+
+Los organismos publicos estarian exentos de este impuesto especial, y las instituciones sin fines de lucro que
+califiquen podrian procurar exenciones. El Concejo Municipal tambien podria establecer procedimientos especiales
+de exenciones y criterios de calificacion para las personas naturales segun sus ingresos, edad o discapacidad.
+
+Se calcula que el monto del impuesto de parcelas aumentaria los ingresos anuales de alrededor de $2,350,000 para
+cubrir costos de operaciones y mantenimiento de aguas pluviales, asi como financiar hasta $40 millones en proyectos
+de capital durante los proximos diez anos. Se anticipa que Santa Monica podria usar sus fondos locales para lograr
+acceso a otros fondos de capital de fuentes federales, estatales y otras fuentes de financiamiento para poner en
+practica el Plan.
+
+f/ Marsha Jones Moutrie, Abogada Municipal
+
+V
+
+Santa Monica / 47
+
+2 HI < <0 3 CC 111
+
+ARGUMENT IN FAVOR OF PROPOSITION V
+
+Santa Monica Bay is the face of our city and one of the major reasons why we love to live here. It is also the economic
+engine for the community.
+
+Sadly, rainstorms make Santa Monica’s beautiful beaches look like trash dumps. All too often, the beaches in front of
+storm drains are teeming with fecal bacteria, posing a health risk to the millions of people who enjoy swimming and
+surfing along our shore.
+
+Although Santa Monica has been a national leader in the fight against ocean pollution, we have not done enough to
+make our coast safe and healthy for beach visitors and sea life. There are new, stricter regulations adopted by the state
+that make the clean up of beach and ocean pollution a legal requirement, not just our moral obligation.
+
+Santa Monica has adopted a progressive, innovative plan to clean up our polluted beaches and bay, improve flood
+control, augment our drinking water supply, and reuse treated runoff to irrigate the city’s parks and open spaces.
+The Santa Monica Urban Watershed Management Plan was written and reviewed by some of the country’s foremost
+experts in the field.
+
+Measure V - The Clean Beaches and Ocean Parcel Tax - will provide the funds necessary to implement this innovative
+plan in a timely manner, with expert oversight on the City’s allocation of funds.
+
+Without voter approval of Measure V, Santa Monica will still have to provide the funds necessary to implement this
+plan to comply with State clean water standards, but the money will have to come from general funds at the expense
+of fundamental city services.
+
+We urge you to VOTE “YES” ON MEASURE V, because a day at the beach should never make you sick.
+
+s/ Richard Bloom, Santa Monica City Councilman/Vice-Chair, Santa Monica Bay Restoration Commission
+s/ Mark Gold, Executive Director, Heal the Bay, Chair - Santa Monica Task Force on the Environment
+s/ Fran Pavley, Assemblymember - 41st District
+s/ Bobby Shriver, Mayor Pro Tempore
+
+ARGUMENTO A FAVOR DE LA PROPUESTA V
+
+La Bahia de Santa Monica es el rostra de nuestra ciudad y uno de los motivos principales por los cuales nos encanta
+vivir aqui. Tambien es el motor economico de la comunidad.
+
+Lamentablemente, las tormentas hacen que las hermosas playas de Santa Monica parezcan basurales. Con mucha
+frecuencia las playas frente a los colectores de aguas pluviales se Henan de bacterias fecales, lo cual representa un
+riesgo para los millones de personas que disfrutan de nadar y practicar surf en nuestra costa.
+
+A pesar de que Santa Monica ha sido un lider nacional en la lucha contra la contaminacion del oceano, no hemos
+hecho lo suficiente para que nuestra costa sea segura y saludable para las personas que visitan la playa y para la vida
+marina. Debido a que el estado adopto nuevas regulaciones m&s estrictas, la limpieza de la playa y de la contaminacion
+del oceano ahora son una obligacion legal, y no simplemente nuestra obligacion moral.
+
+Santa Monica ha adoptado un plan progresivo e innovador para limpiar la contaminacion de nuestras playas y bahia,
+mejorar el control de inundaciones, aumentar el suministro de aqua potable y volver a usar la escorrentia tratada para
+irrigar los parques y espacios abiertos de la ciudad. El Plan de Control de Desague Urbano de la ciudad fue escrito y
+estudiado por algunos de los expertos en la materia mas importantes del pais.
+
+La Propuesta V, el Impuesto de Pamelas para Playas y Oceanos Limpios, brindara los fondos necesarios para poner
+en practica este plan innovador de forma oportuna, con supervisidn de expertos en la asignacion de fondos de la
+Ciudad.
+
+Sin la aprobacion de la Propuesta V por parte de los electores, Santa Mdnica de todos modos tendra que proporcionar
+los fondos necesarios para poner en practica este plan y de ese modo cumplir con las normas estatales de aguas
+limpias, pero el dinero debera provenir de los fondos generales a costa de servicios municipales fundamentales.
+
+Le urgimos a que VOTE “A FAVOR” DE LA PROPUESTA V, porque un dia de playa nunca deberia enfermarle.
+
+f/ Richard Bloom, Concejal y Vicepresidente de la Ciudad de Santa Monica,
+
+Santa Monica Bay Restoration Commission
+f/ Mark Gold, Director Ejecutivo, Heal the Bay, Presidente - Santa Monica Task Force on the Environment
+f/ Fran Pavley, Miembro de la Asamblea del 41 st Distrito
+f/ Bobby Shriver, Alcalde Interino
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 48
+
+REBUTTAL TO ARGUMENT IN FAVOR OF PROPOSITION V
+
+Don’t buy into the shameless fear mongering of Prop. V proponents. Threatening to cut essential services is a
+transparent political ploy.
+
+A scattershot, isolated approach to a clearly regional problem is counterproductive—our local homeless history has
+demonstrated that. More and more, water experts stress the need for a “regional, integrated approach” to protecting
+our Bay.
+
+Yet Prop. V is the exact opposite.
+
+The vast majority of our Bay’s pollution comes from outside the city. Prop. V addresses none of it.
+
+NO RESIDENT INPUT went into this plan. Prop. V was back-roomed, given a phony environmental title, and hurriedly
+rushed to the ballot.
+
+Prop. V puts us on the hook for expensive pork and ill-conceived projects, and commits us to a plan so unfamiliar that
+even those arguing in favor of Prop. V don’t know its correct name!
+
+A $6 million fountain. Street narrowing. $67 million to accumulate property around the city. Payments to supporters.
+That is Prop V.
+
+Environmental experts recently estimated the regional cost of diverting dry-weather flows for drains entering the Santa
+Monica Bay at about $3 per person, total. Yet maintenance and operations alone on this proposed plan are projected
+to be $250+ a year, each.
+
+In the ultimate insult to our strong resident environmentalism, Prop. V could actually fund the recently proposed
+opening of our pier to commercial fishing and cruise ship operations!
+
+Now that would make for a sickening day at the beach.
+
+DON’T BE FOOLED.
+
+Please, vote NO on Prop. V.
+
+s/ June J. Coleman, Former City of Santa Monica Recreation and Parks Commissioner
+s/ Don Gray, BaySmart.org
+
+s/ Peter Tigler, Former City of Santa Monica Charter Review Commissioner
+s/ Mathew L. Millen, Citizens Against Unfair Taxes
+s/ William A. Bauer, Citizens Initiative to Preserve the Piers
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 49
+
+REFUTACION AL ARGUMENTO A FAVOR DE LA PROPUESTA V
+
+No acepte la propaganda desvergonzada de temor que propagan los defensores de la Propuesta V. La amenaza de
+suspender servicios esenciales es una estratagema transparente polltica.
+
+Un enfoque disperso y aislado a un problema claramente regional es contraproducente, y nuestra historia de las
+personas sin hogar de la zona lo ha demostrado. Cada vez mas, los expertos hidrologicos han enfatizado la necesidad
+de un “enfoque regional e integrado” para la proteccion de nuestra Bahia.
+
+Sin embargo, la Propuesta V es lo exactamente opuesto.
+
+La amplia mayoria de contaminacion de nuestra Bahia proviene del exterior de nuestra ciudad. La Propuesta V
+no se ocupa para nada de esto.
+
+En este plan, no ingreso NINGUN APORTE DE LOS RESIDENTES. La Propuesta V fue mantenida en secreto, se le dio
+un tltulo ambiental falso y se la introdujo de prisa en la boleta electoral.
+
+La Propuesta V nos engancha a proyectos mal concebidos y con fines electorates y nos compromete con un plan tan
+poco conocido que incluso aquellos que argumentan a favor de la Propuesta V no conocen su nombre correcto!
+
+Una fuente de $6 millones. Estrechamiento de calles. $67 millones para acumular propiedades alrededor de la ciudad.
+Pago a partidarios. Eso es la Propuesta V.
+
+Hace poco tiempo, los expertos medioambientales han calculado el costo regional de desviar caudales de tiempo
+seco para desaguaderos que entran en la Bahia de Santa Monica alrededor de $3 por persona. Sin embargo, se preve
+que tan solo el mantenimiento y operaciones de este plan propuesto serlan de mas de $250 por ano cada uno.
+
+jComo insulto maximo a la solida experiencia en cuestiones del medio ambiente de nuestros residentes, la Propuesta
+V podrla en realidad financiar la apertura recientemente propuesta de nuestro muelle a pesca comercial y
+operaciones de embarcaciones de crucero!
+
+Eso si que contribuirla a un dla nauseabundo de playa.
+
+NO SE DEJE ENGANAR.
+
+Por favor, vote “NO” en la Propuesta V.
+
+f/ June J. Coleman, Ex-Comisionado de Parques y Recreos de la Ciudad de Santa Monica
+f/ Don Gray, BaySmart.org
+
+f/ Peter Tigler, Ex-Comisionado del Comite para Revisar la Carta Constitucional
+f/ Mathew L. Millen, Ciudadanos en Contra de Impuestos Injustos
+f/ William A. Bauer, Iniciativa de los Ciudadanos para Conservar los Muelles
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 50
+
+ARGUMENT AGAINST PROPOSITION V
+10 REASONS TO VOTE NO on PROP V
+
+•	The Stormwater Management Plan was developed with NO RESIDENT INPUT, no scientific analysis and no way to
+know if the bay will be clean enough to swim in after the money is spent.
+
+•	It’s a classic “bait and switch”: Prop. V funds only “... a portion ..of the Plan; afterwards, we’ll be locked into
+huge, planned increases in fees and charges.
+
+•	Once this $200+ million dollar development monster is unleashed, we’ll still have to maintain it — forever — with
+additional taxes and fees.
+
+•	$6 million of it will be paying for an artificial “creek” at City Hall.
+
+•	$-Millions from the fund will go to narrowed streets and curb extensions — more traffic calming!
+
+•	$-Millions for Virginia Ave. Park, newly redesigned and just reopened, now slated for redesign yet again!
+
+•	The vast majority of stormwater that flows into the bay is polluted from areas outside of Santa Monica.
+
+•	The most environmentally responsible Southland residents — Santa Monica residents — will be the ones paying
+for all of it!
+
+•	The plan offers no estimates of success — and no penalties for failure!
+
+•	Money spent on Prop. V won’t be available for real bay clean-up efforts.
+
+Look past Prop. V’s phony title and you’ll see a measure that allows the politicians and city staff to spend virtually at
+will, on projects that only feign to be environmental.
+
+Santa Monica is using it’s green reputation to sucker local voters. It’s a Los Angeles AREA issue that demands
+REGIONAL solutions and REGIONAL revenues to manage a real clean-up effort.
+
+We can’t waste our precious financial resources and energies on feel-good environmentalism.
+
+Everyone wants a cleaner Bay. Let’s come up with a real plan where the polluters pay, not those working hardest to
+clean it up!
+
+Vote NO on Prop. V.
+
+Visit BaySmart.org
+
+s/ June J. Coleman, Former City of Santa Monica Recreation and Parks Commissioner
+s/ Don Gray, BaySmart.org
+
+s/ Peter Tigler, Former City of Santa Monica Charter Review Commissioner
+s/ Mathew L. Millen, Citizens Against Unfair Taxes
+s/ William A. Bauer, Citizens Initiative to Preserve the Piers
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 51
+
+ARGUMENTO EN CONTRA DE LA PROPUESTA V
+10 RAZONES PARA VOTAR NO en la PROPUESTA V
+
+•	El Plan de Control de Aguas Pluviales se elaboro SIN APORTES DE LOS RESIDENTES, sin analisis cientifico
+y sin modo de saber si la bahia estara lo suficientemente limpia como para nadar despues de que se gaste el
+dinero.
+
+•	Es una clasica “atraccion y traicion”: La Propuesta V solo financia una parte...” del Plan; y luego estaremos
+estancados en enormes aumentos programados de tarifas y recargos.
+
+•	Una vez que se desate este monstruo de construccion de mas de $200 millones, todavia tendremos que
+mantenerlo — para siempre — con impuestos y aranceles adicionales.
+
+•	De esa suma, $6 millones pagaran un “arroyo” artificial en el Ayuntamiento.
+
+•	$ Millones del fondo se usaran para ampliar calles y aceras angostas — jmas trafico para aplacar!
+
+•	$ Se usaran millones para Virginia Ave. Park, recientemente redisenado e inaugurado, ahora programado para
+otro rediseno mas!
+
+•	La mayor parte de las aguas pluviales que fluyen en la bahia aportan una contaminacion que proviene de areas
+externas a Santa Monica.
+
+•	Los residentes surenos con mayor responsabilidad ambiental — los residentes de Santa Monica — seran los que
+pagaran todo ello!
+
+•	El plan no ofrece calculos de exito — ni sanciones para el fracaso!
+
+•	El dinero que se gaste en la Propuesta V no estara disponible para las verdaderas labores de limpieza de la
+bahia.
+
+Lea mas alia del titulo engahoso de la Propuesta V y vera una iniciativa que permite que los politicos y el personal
+municipal gasten a voluntad, en proyectos que solo aparentan ser ambientales.
+
+Santa Monica esta usando su reputacion de responsabilidad ecologica para engahar facilmente a (os electores
+locales. Es un tema del AREA de Los Angeles que exige soluciones REGIONALES e ingresos REGIONALES para
+administrar un verdadero esfuerzo de limpieza.
+
+No podemos desperdiciar nuestros valiosos recursos financieros y energia en ambientalismo que tranquiliza la
+conciencia pero no da resultado.
+
+Todos quieren una Bahia limpia. jElaboremos un plan verdadero en el que paguen los que contaminan, no los que
+trabajan mas arduamente para limpiarla!
+
+Vote NO en la Propuesta V.
+
+Visite BaySmart.org
+
+f/ June J. Coleman, Ex-Comisionado de Parques y Recreos de la Ciudad de Santa Monica
+f/ Don Gray, BaySmart.org
+
+f/ Peter Tigler, Ex-Comisionado del Comite para Revisar la Carta Constitucional
+f/ Mathew L. Millen, Ciudadanos en Contra de Impuestos Injustos
+f/ William A. Bauer, Iniciativa de los Ciudadanos para Conservar los Muelles
+
+M
+
+E
+
+A
+
+S
+
+U
+
+R
+
+E
+
+V
+
+Santa Monica / 52
+
+REBUTTAL TO ARGUMENT AGAINST PROPOSITION V
+
+The argument against Proposition V contains numerous errors. Prop V does not fund our entire watershed plan. It
+only funds cost-effective projects that achieve specific water quality and flood prevention benefits. To prevent waste,
+a community technical oversight committee will review proposals.
+
+The management plan was developed by regional and local experts, including our Santa Monica Task Force on the
+Environment. It was publicly reviewed twice by the City Council. If there is overspending, you know where to find
+those in charge!
+
+Another error is the statement that most of Santa Monica Bay’s pollution comes from Los Angeles. At many beach
+locations, like Santa Monica Pier, entire watersheds are within Santa Monica and are among the most polluted in the
+entire State.
+
+Santa Monica would never have provided leadership in cleaning the Bay, protecting the environment, and moving
+towards a sustainable city if we had waited for other cities to agree.
+
+And remember: the City of Los Angeles is already spending $500 million from an overwhelmingly approved (76%)
+voter initiative to clean up L.A.’s most polluted waters. We want to join L.A. in cleaning up the Bay, protecting public
+health and marine life, and complying with new water quality standards.
+
+Clean water is a right, not a luxury. It is also a legal requirement under the Federal Clean Water Act. If this initiative
+doesn’t pass, we will be legally obligated to spend precious general fund dollars, diverting them from other critical
+projects.
+
+Support a healthy Bay and a clean environment! Vote YES on Proposition V.
+
+s/ Fran Pavley
+s/ Mark Gold
+
+s/ Richard Bloom, Councilmember, City of Santa Monica
+s/ Bobby Shriver
+
+REFUTACION AL ARGUMENTO EN CONTRA DE LA PROPUESTA V
+
+El argumento en contra de la Propuesta V contiene errores numerosos. La Propuesta V no financia todo nuestro plan
+de cuenca hidrografica. Solo financia proyectos eficaces en funcion de los costos que alcanzan beneficios espedficos
+de calidad del agua y prevencion de inundaciones. Para evitar desperdicios, un comite comunitario de supervision
+tecnica examinara propuestas.
+
+El plan administrative fue creado por expertos locales y regionales, incluyendo nuestro Grupo de Estudio del Medio
+Ambiente de Santa Monica. El Consejo Municipal lo examino publicamente dos veces. Si existen gastos excesivos,
+justed sabe donde encontrar las personas a cargo!
+
+Otro error es la afirmacion de que la mayorfa de la contaminacion de la Bahia de Santa Monica proviene de Los
+Angeles. En muchos de los lugares de playa, como el Muelle de Santa Monica, cuencas hidrograficas enteras estan
+dentro de Santa Monica y estan entre las mas contaminadas de todo el Estado.
+
+Santa Monica no habrfa proporcionado jamas el liderazgo para la limpieza de la Bahia, proteccion del medio ambiente
+y movilizacion hacia una ciudad sostenible si hubieramos esperado que las demas ciudades estuvieran de acuerdo.
+
+Y recuerde: la Ciudad de Los Angeles esta gastando ya $500 millones de una iniciativa de los electores aprobada por
+una mayorla aplastante (76%) para limpiar las aguas mas contaminadas de Los Angeles. Deseamos unirnos a Los
+Angeles para limpiar la Bahia, proteger la salud publica y la vida marina y cumplir con las nuevas normas de calidad
+de agua.
+
+El agua limpia es un derecho, no un lujo. Es ademas un requisite legal bajo la Ley Federal de Agua Limpia. Si no se
+aprueba esta iniciativa, nos veremos legalmente obligados a gastar preciosos dolares del fondo general, desviandolos
+de otros proyectos de vital importancia.
+
+jApoye una Bahia sana y un medio ambiente limpio! Vote SI en la Propuesta V.
+
+f/ Fran Pavley
+f/ Mark Gold
+
+f/ Richard Bloom, Concejal, Ciudad de Santa Monica
+f/ Bobby Shriver
+
+M
+
+E
+
+A
+
+S
+
+u
+
+R
+
+E
+
+V
+
+Santa Monica / 53

@@ -1,0 +1,2774 @@
+﻿AGENDA:	July	27,	2010
+
+DEPT.:
+
+CATEGORY:	New	Business
+
+City Manager
+
+7.1
+
+TITLE:
+
+Utility Users Tax Ordinance
+Modernization
+
+RECOMMENDATION
+
+Adopt A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF MOUNTAIN VIEW,
+SUBMITTING TO THE VOTERS, AT THE NOVEMBER 2,2010 GENERAL MUNICIPAL
+ELECTION, AN ORDINANCE AMENDING CHAPTER 29 OF THE MOUNTAIN VIEW
+CITY CODE, REGARDING THE UTILITY USERS TAX, to be read in title only, further
+reading waived (Attachment 1 to the staff report).
+
+FISCAL IMPACT
+
+If the Telecommunications Users Tax (TUT) component of the Utility Users Tax (UUT)
+Ordinance is not updated, annual General Operating Fund revenue from the TUT of
+approximately $1.9 million is at risk because the ordinance does not reflect new and changing
+telecommunications technologies. The cost to the City for placing a measure on the
+November 2010 ballot is $62,000 and was included in the Fiscal Year 2010-11 Adopted Budget.
+
+BACKGROUND AND ANALYSIS
+
+City of Mountain View residents and businesses have paid a UUT since 1970 on gas, electric-
+ity and telecommunications services. Telecommunications technologies have changed
+dramatically since 1970 and staff recommends updating the UUT Ordinance, primarily the
+TUT component, to reflect current telecommunications technology, changes in Federal law
+and to strengthen the ordinance's enforceability. Approximately 150 cities in California have
+a TUT to help fund their essential local services, and more than one-third of these cities have
+"modernized" their ordinances by voter approval in the past few years. In Mountain View,
+the TUT is a 3 percent tax levied on intrastate residential and commercial telecommunica-
+tions, including wireless. In Fiscal Year 2008-09, the TUT represented $1.9 million in General
+Operating Fund revenues, helping to maintain essential City services such as fire protection;
+rapid emergency response and crime prevention; library hours and services; gang prevention
+programs; and maintenance of city parks, playgrounds and athletic fields. Voter approval is
+necessary to modernize the TUT.
+
+The proposed measure for the November 2,2010 ballot is not a new tax and the current tax
+rate would not change. The updates to the ordinance, as shown in ordinance Alternatives A,
+B and C (Attachments 2,3 and 4, respectively), define telecommunication services in order to
+
+better define what services are subject to the tax and ensure that all taxpayers are treated
+equally regardless of the technology used for telecommunications. Internet access and
+e-mails are not currently taxed and will not be taxed under this measure. Video program-
+ming services and digital downloads, such as downloads of books, music, ringtones, games or
+similar digital products, are also not currently taxed and will not be taxed under this measure.
+
+Staff presented information regarding the TUT at a City Council Study Session on April 27,
+2010 (unapproved minutes provided as Attachment 5). Staff recommends that the moderni-
+zation of the ordinance include the collection of the TUT on interstate and international calls,
+similar to more than 80 percent of other cities' modernizations. With the prevalence of flat
+rate, long distance calling plans using traditional telephone, mobile or digital Voice over
+Internet Protocol (VoIP) services, the distinction and cost to the consumer between local and
+long distance calls is lessening. Therefore, depending on a customer's current long distance
+calling plan, the proposed ordinance may have no impact or may result in a very slight tax
+increase. For example, a customer who pays Twenty-Two Dollars ($22) for a long distance
+plan and spends 75 percent of the long distance minutes on intrastate calls, may pay approxi-
+mately $0.50 in TUT (depending on the intrastate calls), which may rise to $0.66 if all long
+distance calls are subject to the tax. If a customer utilizes their cell phone for all of their long
+distance calls, there may be no increase to their bill. Residents and businesses will need to
+review the specifics of their own billing plans or ask their service provider to make this
+estimate.
+
+Two additional points are important to note regarding the "modernized" definition of tele-
+communications. First, staff recommends the TUT capture VoIP technologies. This type of
+telecommunications is becoming increasingly prevalent for both residential and commercial
+customers. If the ordinance does not include this technology, staff would expect the tax base
+to decline. From a taxation standpoint, digital voice data is indistinguishable from other
+digital data being transmitted over communications lines. Therefore, the tax will apply to all
+data being transmitted. However, for customers that subscribe to a digital voice/VoIP service
+that is a separately billed service, or is one of several bundled services identified by the
+service provider (such as is the case for many residential digital voice/VoIP service plans that
+bundle video, Internet and voice together), the tax would only apply to the voice portion of
+the service if separate accounting data for those services is available. Staff has confirmed with
+one of the major service providers of bundled services that they allocate the cost of the voice
+service and only apply the TUT to this portion.
+
+The second point relates to private telecommunications services. Many businesses utilize
+exclusive private telecommunications lines/networks that they either own or lease.
+Historically, private telecommunications services have been point-to-point connections
+whereby communication could flow only between those two points. Currently, advanced
+technology makes the distinction ambiguous between a truly private telecommunication
+network and one that is not. It is anticipated that this distinction will grow more ambiguous
+with future technology advances. Companies may lease exclusive service for speed, capacity,
+
+AGENDA: July 27,2010
+PAGE:	3
+
+privacy and reliability, but service providers now have technological capability to guarantee
+speed, capacity, privacy and reliability without the data always being transmitted on an
+exclusive point-to-point line. Private telecommunication services were previously exempt
+from taxation under the Federal Excise Tax (FET). However, under the recent changes to the
+FET, private telecommunications may now be taxable under local ordinance control.
+
+Staff has verified that most modernizations State-wide do not distinguish between voice and
+data telecommunications and also include private telecommunications. The language in the
+recommended ordinance (Attachment 2) is consistent with the language in a majority of other
+cities' modernized ordinances. However, ordinance Alternatives B and C, addressed later in
+this report, have been included should the Council wish to consider other options.
+
+In addition to the updates specifically pertaining to the TUT, the proposed ordinance also
+updates the administrative provisions of Article III, the Utility Users Tax. As such, only one
+set of administrative rules, covering collection, records, delinquent payments, exemptions,
+failure to pay, assessments and appeals, collections, refunds and audits, will apply to all
+components of the Utility Users Tax, including Telecommunications, Electricity, and Gas.
+Attachment 6 is the TUT and administrative sections of the current ordinance that are being
+revised.
+
+Outreach Efforts
+
+Staff engaged a cross section of businesses in Mountain View, including dialogue with the
+Chamber of Commerce as well as telecommunications technology experts, to understand how
+modernization of the TUT might potentially impact businesses. Staff also researched a
+number of residential customer bills volunteered to the City. The City's ability to gather
+detailed TUT data, short of conducting a thorough audit of the telecommunications service
+providers, is limited because the City does not have access to customers' bills and the service
+providers remit the tax to the City in a lump sum without details regarding how it was
+calculated or collected. Attachment 7 shows the estimated impacts of the TUT modernization
+based on available information from some residential bills and information from businesses.
+
+Statistics Regarding Other Cities' Modernizations
+
+In California, approximately 150 cities (including 4 counties) have TUTs. In recent years,
+approximately 40 percent of these cities/counties have modernized their ordinances by voter
+approval. Approximately 65 percent of TUTs across the State include interstate and interna-
+tional calls, in addition to intrastate calls. Of the ordinances that have been modernized, only
+a few do not include interstate and international calls. Mountain View's TUT rate of 3 percent
+is in the 90th percentile of the lowest rates across the State; the State-wide average rate is
+5.5 percent.
+
+AGENDA: July 27, 2010
+PAGE:	4
+
+In Santa Clara County, seven cities have TUTs (Mountain View, Los Altos, Palo Alto,
+Sunnyvale, Cupertino, Gilroy and San Jose). Los Altos, Cupertino, Gilroy and San Jose have
+recently modernized their ordinances by voter approval, and all four include interstate and
+international calls. The average rate in the County is 3.6 percent, with a range from 2 percent
+to 5 percent.
+
+One strategy for modernizations in the State has been to decrease the tax rate due to the
+anticipation that new technologies would be taxed that previously were not taxed. Approxi-
+mately 40 percent of the modernizations have decreased their rate. However, with the
+exception of two cities, no cities with a rate of 4 percent or lower have reduced their rate. The
+two exceptions are Los Altos and Benicia, with rate decreases from 3.5 percent to 3.2 percent
+and 4 percent to 3.5 percent, respectively. Due to Mountain View's already low tax rate, staff
+does not recommend a rate decrease.
+
+ALTERNATIVES
+
+1. Tax Cap System: Attachment 3 is an alternative ordinance, titled "Alternative B," that is
+identical to staff's recommended Alternative A ordinance, except that a telecommunica-
+tions service users tax liability, if it exceeds a certain threshold or if an increase due to
+the modernization exceeds a certain amount, is capped per year for a three-year period.
+
+The recommended cap system, if the Council were to select this alternative, would be
+available to any service user who paid at least $30,000 in telecommunication users tax in
+the 2010 calendar year or who paid an increase of at least $30,000 in tax above the
+amount paid in the 2010 calendar year. For qualifying service users, they could apply
+for and receive a refund of the difference between their 2010 TUT amount and their
+2011 amount. Each subsequent year, the threshold requirement will increase by
+
+2.0	percent and the calculated annual TUT of qualified applicants will increase by
+
+2.0	percent until the expiration date. Service suppliers would still collect the total
+amount of TUT and, if a service user makes a claim for a refund, the City would refund
+any excess TUT remitted over the applicable cap. This system would expire three years
+from the date of initial implementation. If the Council adopts a TUT cap as part of the
+ordinance modernization, further guidelines and procedures will be developed under
+the authority of Section 29.15.9, Additional powers and duties of the collector.
+
+Staff is aware of approximately eight cities in California that cap TUT tax liability. These
+caps range from $1,500 per year to $350,000 per year. San Jose's modernization estab-
+lishes a cap system, similar to the system described above, whereby a threshold level of
+$50,000 is established and a business with tax liability that exceeds that threshold will be
+capped at their baseline year’s amount, plus a 2 percent inflationary factor. This type of
+system ensures that a cap does not result in a significantly lower tax amount than a
+business was previously paying. San Jose's cap system expires after three years. As
+
+AGENDA: July 27,2010
+PAGE:	5
+
+stated above, this type of cap system is staff's recommendation if the Council is
+interested in a cap. Emeryville's cap is set at $75,000 per year and does not expire.
+
+A cap system is a tool that would create a level of certainty for large telecommunication
+user's tax liability from year to year. On the other hand, a cap system, whether perma-
+nent or temporary, may be viewed as creating a special exception to treating all
+taxpayers equitably.
+
+2.	Exclusion of private telecommunications services: Attachment 4 is an alternative
+ordinance, titled "Alternative C," that is identical to staff's recommended Alternative A
+ordinance, except that "private telecommunications services" are excluded from the tax.
+Cupertino's modernized ordinance excludes private telecommunications services. Other
+cities also provide for this exclusion, but the majority do not. As explained earlier in this
+report, the distinction between private and nonprivate telecommunications services is
+likely to grow more and more ambiguous in the future due to technology advances,
+presenting challenges to service providers in determining where to apply the tax. While
+this exclusion would be beneficial to those service users that can afford private
+telecommunications, it could also be viewed as another exception to treating all
+taxpayers equitably.
+
+3.	Defer modernization to a future election: Another alternative available to the Council is
+to delay modernization for two years. Proposition 218 requires that tax measure
+elections occur at the time of Councilmember elections, unless classified as an emergency
+measure. The next opportunity for Mountain View would be November 2012. Staff
+does not recommend deferring the measure because the existing ordinance and
+
+$1.9 million in annual General Operating Fund revenues would continue to remain at
+risk of legal challenge and gradual decline of revenues. Additionally, as more cities
+modernize, fewer and fewer are left for potential challenge. Another consideration
+regarding this alternative is that a delay in modernization also delays the equitable
+application of the tax across all technologies.
+
+CONCLUSION
+
+Staff recommends that the City Council adopt the attached resolution along with ordinance
+Alternative A (Attachment 2), placing the Utility Users Tax Ordinance modernization on the
+ballot for the November 2,2010 General Municipal Election. If the Council prefers ordinance
+Alternatives B or C, or other modifications discussed at the Council meeting, then the
+ordinance alternative that is approved will be attached to the resolution.
+
+PUBLIC NOTICING—Agenda posting.
+
+Prepared by:
+
+Kevin S. Woodhouse
+Assistant to the City Manager
+
+Reviewed by:
+
+Finance and Administrative
+Services Director
+
+sr7
+
+KW/PJK/7/CAM
+
+610-07-27-10M-EA
+
+Approved by:
+
+City Attorney
+
+(A
+
+Kevin C. Duggan
+City Manager
+
+Attachments: 1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+Resolution
+
+Recommended Ordinance—Alternative A
+Ordinance Alternative B
+Ordinance Alternative C
+Unapproved Minutes
+
+Current Ordinance Sections Proposed for Revision
+TUT Modernization Impact Estimates
+
+ATTACHMENT 1
+
+CITY OF MOUNTAIN VIEW
+RESOLUTION NO.
+SERIES 2010
+
+A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF MOUNTAIN VIEW,
+SUBMITTING TO THE VOTERS, AT THE
+NOVEMBER 2,2010 GENERAL MUNICIPAL ELECTION,
+
+AN ORDINANCE AMENDING CHAPTER 29 OF THE MOUNTAIN VIEW CITY
+CODE, REGARDING THE UTILITY USERS TAX
+
+WHEREAS, since 1970, the residents of the City of Mountain View have paid a
+utility user tax on telephone communications services; and
+
+WHEREAS, telephone communication advances over the past two decades mean
+that the City must update its utility users tax to match today's technology, including
+definitions for new telecommunications technologies; and
+
+WHEREAS, the changes are technical and do not change the rate; and
+
+WHEREAS, updating the existing, outdated utility users tax on telecommunica-
+tions services, with no change to existing rates or exemptions, will ensure that taxpayers
+are treated the same regardless of the type of technology used; and
+
+WHEREAS, the measure will safeguard local revenues already being received for
+local needs, and this money cannot be taken away by the State; and
+
+WHEREAS, the residents of Mountain View choose to live here because the City
+offers a higher level of service, programs and quality of life than neighboring cities; and
+
+WHEREAS, the telecommunications users tax component of the utility users tax is
+an important revenue source, and preserving that revenue will ensure that the City can
+preserve essential City services, including: fire protection; rapid emergency response
+and crime prevention; library hours and services; gang prevention programs; mainte-
+nance of City parks, playgrounds and athletic fields; and provide the programs that
+residents expect and deserve; and
+
+WHEREAS, a General Municipal Election on Tuesday, November 2,2010, has been
+called by Resolution No. 17513, adopted on June 22,2010;
+
+NOW, THEREFORE, the City Council of the City of Mountain View, California,
+does resolve, declare, determine and order as follows:
+
+Section 1. At the November 2,2010 General Municipal Election called by previous
+action of this Council, there shall be submitted to the qualified voters of the City of
+Mountain View an ordinance amending Chapter 29 of the Mountain View City Code to
+update the utility users tax.
+
+Section 2. The text of the ordinance is attached hereto as Exhibits A and B and
+incorporated herein by reference. The sample ballot shall include the title of the
+ordinance. The full text of the ordinance shall be posted on the web site of the City of
+Mountain View, shall be available for review at the City Clerk's Office of the City of
+Mountain View during normal business hours and, upon request, a copy will be mailed
+at no cost.
+
+Section 3. The procedures for voting for and against said question shall be those
+established by Santa Clara County, and the question shall be printed in substantially the
+following form:
+
+Without increasing the tax rate residents and businesses
+currently pay, shall the City of Mountain View adopt an
+ordinance to update its Utility Users Tax, that would ensure
+equal treatment of taxpayers regardless of telecommunica-
+tions technology used and provide funds to preserve
+essential services including: fire protection; rapid
+emergency response and crime prevention; library hours
+and services; gang prevention programs; and maintenance
+of city parks, playgrounds and athletic fields; with
+independent audits and all revenue staying in Mountain
+View?
+
+YES
+
+□
+
+NO
+
+□
+
+Section 4. This question requires the approval of a majority of those casting votes.
+
+Section 5. The ballots to be used at the election shall be in form and content as
+required by law.
+
+Section 6. That in all particulars not recited in this Resolution, the election shall be
+held and conducted as provided by law for holding municipal elections.
+
+Section 7. That notice of the time and place of holding the election is given and the
+Acting City Clerk is authorized, instructed and directed to give further or additional
+notice of the election, in time, form and manner as required by law.
+
+Section 8. Consolidation with Gubernatorial General Election. Pursuant to the
+requirements of Section 10403 of the California Elections Code, and in recognition of
+Resolution 17513, adopted on June 22,2010, calling a General Municipal Election to be
+held on Tuesday, November 2,2010, the Board of Supervisors of the County of Santa
+Clara is hereby requested to consolidate the submission to the qualified voters of the
+City of Mountain View an ordinance amending Chapter 29 of the Mountain View City
+Code to update the utility users tax, and to consolidate the submission of the
+amendment of the ordinance with any other elections which may be called for the same
+date. The Board of Supervisors of the County of Santa Clara is hereby requested to
+consolidate the ordinance amending Chapter 29 of the Mountain View City Code, and
+to order the County Registrar of Voters to: (1) prepare the City's election materials and
+take all other necessary actions for the holding of the consolidated election; (2) set forth
+on all sample ballots to be mailed to the qualified electors of the City of Mountain View
+for said election, the title of the ordinance and the question as set forth above in
+Section 3, the City Attorney's impartial analysis, arguments for and against the
+measure, and rebuttal arguments (if any); and (3) provide vote-by-mail ballot to voters
+for said election for use of the qualified electors of the City of Mountain View who are
+entitled thereto, in the manner provided by law.
+
+The Board of Supervisors of the County of Santa Clara is hereby further
+authorized and requested to canvass, or cause to be canvassed, as provided by law,
+returns of said General Municipal Election and to certify such canvass of the votes for
+the measure.
+
+The City of Mountain View recognizes that additional costs will be incurred by the
+County by reason of this consolidation and agrees to reimburse the County for such
+costs.
+
+Section 9. The Acting City Clerk shall file a certified copy of this resolution with
+the Board of Supervisors and the Registrar of Voters of the County of Santa Clara, no
+later than August 6,2010.
+
+Section 10. Arguments in favor of or against the proposed measure shall be filed
+with the Acting City Clerk by Monday, August 9,2010, at 5:00 p.m.
+
+Section 11. The City Attorney shall prepare an impartial analysis of the measure,
+not to exceed 500 words in length, pursuant to California Elections Code Section 9280,
+which is to be filed with the County no later than Monday, August 9,2010.
+
+Section 12. Rebuttals to arguments in favor of or against the proposed measure
+shall be filed with the Acting City Clerk by Monday, August 16,2010, at 5:00 p.m.
+
+Section 13. The Acting City Clerk shall, in accordance with the provisions of the
+California Elections Code, publish a Notice of Election and synopsis of the measure one
+time in a newspaper of general circulation within the City of Mountain View.
+
+Section 14. That the Acting City Clerk shall certify to the passage and adoption of
+this Resolution entered into the book of original resolutions.
+
+JLQ/2/RESO
+
+010-07-27-10RA
+
+ATTACHMENT 2
+Alternative A
+
+ORDINANCE NO.
+
+AN ORDINANCE OF THE CITY OF MOUNTAIN VIEW AMENDING
+CHAPTER 29 OF THE MOUNTAIN VIEW CITY CODE
+REGARDING THE UTILITY USERS TAX
+
+THE PEOPLE OF THE CITY OF MOUNTAIN VIEW DO ORDAIN AS FOLLOWS:
+
+Section 1. Code Amendment. Division 1 of Article III of Chapter 29 of the
+Mountain View City Code is hereby amended to read as set forth in Exhibit "A,"
+attached hereto and incorporated by reference herein.
+
+Section 2. Code Amendment. Division 2 of Article III of Chapter 29 of the
+Mountain View City Code is hereby amended to read as set forth in Exhibit "B,"
+attached hereto and incorporated by reference herein.
+
+Section 3. Further Amendments. Divisions 1 and 2 of Article III of Chapter 29 of
+the Mountain View City Code as amended by this ordinance may be repealed or
+amended by the City Council without a vote of the people except as follows: as
+required by Proposition 218, any amendment that increases the amount or rate of tax
+beyond the levels authorized by this ordinance may not take effect unless approved by
+a vote of the people. The City Council may impose the taxes authorized by this
+ordinance in any amount or rate which does not exceed the rate approved by the voters
+of the City.
+
+Section 4. Repeal. Divisions 5,6,7,9 and 10 of Article IH of Chapter 29 of the
+Mountain View City Code are hereby repealed.
+
+Section 5. Severability. If any section, sentence, clause, phrase or portion of this
+Ordinance is for any reason held to be invalid or unenforceable by a court of competent
+jurisdiction, the remaining sections, sentences, clauses, phrases or portions of this
+Ordinance shall nonetheless remain in full force and effect. The people of the City of
+Mountain View hereby declare that they would have adopted each section, sentence,
+clause, phrase or portion of this ordinance, irrespective of the fact that any one or more
+sections, sentences, clauses, phrases or portions of this ordinance be declared invalid or
+unenforceable and, to that end, the provisions of this ordinance are severable.
+
+Section 6. Majority Approval: Effective Date. This ordinance shall be effective
+only if approved by a majority of the voters voting thereon and shall go into effect ten
+(10) days after the vote is declared by the City Council and the duty of service providers
+to collect the tax shall commence as provided in California Public Utilities Code
+Section 799.
+
+Section 7. Execution. The Mayor is hereby authorized to execute this ordinance
+where indicated below to give evidence of its adoption by the voters.
+
+I hereby certify that the foregoing Ordinance was adopted by the voters of the City
+of Mountain View at the November 2,2010 election.
+
+Ronit Bryant, Mayor
+
+Attest:
+
+City Clerk
+
+LMD/8/ORD
+016-07-27-1Oo-E-2 A
+
+-2-
+
+Exhibit A
+
+AMENDED DIVISION 1 OF ARTICLE III OF CHAPTER 29
+
+"DIVISION 1—GENERAL PROVISIONS.
+
+SEC. 29.10. Title.
+
+This article shall be known as the "Utility Users Tax Ordinance of the City of
+Mountain View."
+
+SEC. 29.11. Adoption; charter authority.
+
+This article is adopted pursuant to the powers of the City of Mountain View as a
+charter city as provided in Article II of the City Charter, and as authorized by Section 6
+of Article XI of the Constitution of the State of California, and is adopted as a tax levy to
+meet the usual current expenses of the city.
+
+SEC. 29.12. Definitions.
+
+Except where the context otherwise requires, the definitions contained in this
+section shall govern the construction of this article. The word "may" is always directory
+and discretionary and not mandatory; the word "shall" is always mandatory and not
+directory or discretionary.
+
+"Ancillary telecommunications services" shall mean services that are associated
+with or incidental to the provision, use or enjoyment of telecommunications services
+including, but not limited to. the following:
+
+1.	Services that link two (2) or more participants of an audio or video conference
+call, including the provision of a telephone number.
+
+2.	Services that separately state information pertaining to individual calls on a
+customer's billing statement.
+
+3.	Services that provide telephone number information and/or address
+information.
+
+4.	Services offered in connection with one (1) or more telecommunications
+services which offer advanced calling features that allow customers to identify callers or
+to manage multiple calls and call connections.
+
+5.	Services that enable customers to store, send or receive recorded messages.
+
+"Billing address" shall mean the mailing address of a service user where a service
+supplier submits invoices or bills for payment by the service user.
+
+"City" shall mean the City of Mountain View, California, melading either the
+municipal corporation or all of the territory and jurisdiction thereof as presently
+constituted and any and all of the same which shall later come into existence by any
+manner or means whatsoever.
+
+"Collector" or "director" shall mean the revenue officer finance and administrative
+services director or his/her designee of the City of Mountain View.
+
+"Direeter"-shail"meauthc director of finance of the City of Mountain View.
+
+"Electrical corporation," "gas corporation" and "telephone corporation" shall have
+the same meanings as defined provided in Sections 218,222 and 234, respectively, of the
+Public Utilities Code of the State of California.
+
+"Month" shall mean a calendar month.
+
+"Person" shall mean any natural person, firm, any ah-domestic and foreign
+corporations, associations, firm, trust, estate, association, syndicates, joint ventures, joint
+stock company, limited liability company, partnerships of any every kind, clubs,
+Massachusetts business or common law trust of any kind, society-soeiet-ies, cooperative,
+receiver, trustee, guardian or other representative appointed by order of any court,
+municipal district, municipal corporation (other than the city), or the manager, lessee,
+and any officer, er-agent or employee of any of them thereof.
+
+"Private telecommunication service" means any dedicated virtual or actual
+telecommunications service that entitles a user to exclusive or priority use of
+communications channels.
+
+"Service address" means the street address of the service user's primary place of
+
+use.
+
+"Service supplier" shall mean any person required to collect a tax imposed under
+the provisions of this article.
+
+"Service user" shall mean a person required to pay a tax imposed under the
+provisions of this article.
+
+"Telecommunication services" includes the transmission, conveyance, or routing of
+voice, data, audio, video, or any other information or signals to a point, or between or
+among points, whether or not such information is transmitted through interconnected
+service with the public switched network, whatever the technology used, whether such
+
+transmission, conveyance or routing occurs by wire, cable, fiber-optic, light wave, laser,
+microwave, radio wave (including, but not limited to, cellular service, commercial
+mobile service, personal communications service (PCS), specialized mobile radio (SMR1
+and other types of personal wireless service—see 47 USCA Section 332(c) (7) (C) (i)—
+regardless of radio spectrum used), switching facilities, satellite or any other technology
+now existing or developed after the adoption of this section, and includes, without
+limitation, fiber-optic, coaxial cable and wireless. The term "telecommunication
+services" includes such transmission, conveyance or routing in which computer
+processing applications are used to act on the form, code or protocol of the content for
+purposes of transmission, conveyance or routing without regard to whether such
+services are referred to as voice over internet protocol (VoIP) services or are classified
+by the Federal Communications Commission as enhanced or value added, and includes
+video and/or data services that are functionally integrated with telecommunications
+services.
+
+"Telecommunication services" include, but are not limited to, the following
+services, regardless of the manner or basis on which such services are calculated or
+billed: central office and custom calling features (including, but not limited to, call
+waiting, call forwarding, caller identification and three-way calling), local number
+portability, text messaging, ancillary telecommunication services, prepaid and post-
+paid telecommunications services (including, but not limited to. prepaid calling cards):
+mobile telecommunications service; private telecommunication service: paging service:
+800 service (or any other toll-free numbers designated by the Federal Communications
+Commission!: and value-added nonvoice data service. "Telecommunication service"
+does not include: internet access services: video programming services: or digital
+downloads, such as downloads of books, music, ringtones, games or similar digital
+products.
+
+SEC. 29.13. Exemptions.
+
+Nothing contained in this article shall be construed as imposing a tax upon the city
+or any person when imposition of such tax upon that person would be in violation of
+the Constitution of the United States or that of the State of California.
+
+SEC. 29.14. Conflicts.
+
+Nothing contained in this article is intended to conflict with applicable rules,
+regulations and tariffs of any service supplier subject to the jurisdiction of the California
+Public Utilities Commission. In the event of any conflict, the provisions of said rules,
+regulations and tariffs shall control.
+
+SEC. 29.15. Tax; effective date.
+
+The taxes imposed by this article shall become operative as of October 1,1970.
+
+A.	The taxes imposed by this article shall be collected insofar as practicable at
+the same time as. and along with, the collection of charges made in accordance with the
+regular billing practice of a service supplier.
+
+B.	The duty to collect taxes from a service user shall commence with the
+beginning of the first regular billing period applicable to that person which starts on or
+after the operative date of this article and as provided by California Public Utilities
+Code Section 799. If a person receives separate billing for different periods, the duty to
+collect shall arise separately for each billing period.
+
+SEC. 29.15.2. Records.
+
+It shall be the duty of every person obligated to collect the tax imposed under this
+article to preserve for three (3) years all records as may be necessary to determine the
+amount of such tax as he or she may have been liable to collect and remit to the
+collector, which records the collector shall have the right to inspect or copy at all
+reasonable times.
+
+SEC. 29.15.3. Delinquent payment penalty.
+
+A.	Taxes collected from a service user which are not remitted to the collector on
+or before the due dates provided in this article are delinquent.
+
+B.	Penalties for delinquency in remittance of any tax collected or any deficiency
+determination shall attach and be paid by the service supplier at the rate of fifteen
+percent (15%) of the total tax imposed by this article.
+
+C.	The collector shall have power to impose additional penalties upon a service
+supplier for fraud or negligence in reporting or remitting at the rate of fifteen percent
+(15%) of the amount of the tax due.
+
+D.	In addition to any other penalties imposed by this article, any person
+required to collect and/or remit the tax imposed by this article who fails to collect the
+tax or fails to remit the tax collected shall pay interest at the rate of one percent (1%) per
+month, or any fraction thereof, on the amount of the tax, exclusive of penalties, from the
+date on which the remittance first became delinquent, until paid.
+
+E.	Notwithstanding the foregoing provisions of this section, no penalty or
+interest shall apply if delinquencies result from natural disasters or other phenomena
+beyond the control of the person charged with collecting and remitting the tax.
+
+provided the person being delinquent notifies the collector as soon as normal
+communications permit and collects and remits the tax promptly thereafter.
+
+F.	Every penalty imposed and interest due under the provisions of this section
+shall become a part of the tax required to be remitted.
+
+SEC. 29.15.4. Failure to pay—Administrative remedy.
+
+Whenever the collector determines that a service user has deliberately withheld
+the amount of the tax owed by him or her from the amounts remitted to a service
+supplier, or that a service user has failed to pay the amount of the tax for a period of
+two or more billing periods, or whenever the collector deems it in the best interest of the
+city, he or she may relieve the service supplier of the obligation to collect taxes due
+under this article from certain named service users for specified billing periods. The
+collector shall notify the service user that he or she has assumed responsibility to collect
+the taxes due for the stated periods and demand payment of such taxes. The notice
+shall be served on the service user by handing it to him or her personally or by deposit
+of the notice in the United States Postal Service, postage prepaid thereon, addressed to
+the service user at the address to which billing was made by the service supplier; or
+should the service user have changed his or her address, to his or her last known
+address. If a service user fails to remit the tax to the collector within fifteen (15) days
+from the date of service of the notice upon him or her, which shall be the date of
+mailing if service is not accomplished in person, a penalty of twenty-five percent
+(25%) of the amount of the tax set forth in the notice shall be imposed, but in no event
+shall the total penalty for nonpayment of the delinquent tax accounts be less than five
+dollars ($5). The penalty shall thereupon become part of the tax required to be paid by
+this article.
+
+SEC. 29.15.5. Assessments and appeal.
+
+The collector may make an assessment for taxes not paid or remitted as required
+by this article. The collector shall mail a notice of such assessment, which shall state the
+taxes, penalties and interest imposed and the time and place where the assessment may
+be contested, to the service supplier and/or the service user at least ten (10) days prior
+to the date of the hearing and shall post such notice for at least five (5) continuous days
+prior to the hearing. Any interested party having any objections may appear and be
+heard by the collector provided his or her objection is filed in writing with the collector
+prior to the time of the hearing. At the time fixed for considering such assessment, the
+collector shall hear the same, together with any objections filed as provided in this
+subsection, and thereupon may confirm or modify such assessment. The decision of the
+collector shall be final as to the city but shall be subject to judicial review pursuant to
+Code of Civil Procedure Section 1094.5.
+
+Any tax required to be paid by a service user under the provisions of this article
+shall be deemed a debt owed by the service user to the city. Any such tax collected
+from a service user which has not been remitted to the collector shall be deemed a debt
+owed to the city by the service supplier. Any person owing money to the city under the
+provisions of this article shall be liable to an action brought in the name of the city for
+the recovery of such amount and to any other remedy available at law or in equity and
+resort to any remedy shall not be foreclosed to any other remedy until the tax is
+collected and paid as required by this article.
+
+SEC. 29.15.7. Refunds.
+
+A.	Whenever the amount of any tax has been overpaid or paid more than once
+or has been erroneously or illegally collected or received bv the collector under this
+article, it may be refunded as provided in this section.
+
+B.	A service supplier may claim a refund or take as credit against taxes collected
+and remitted the amount overpaid, paid more than once, or erroneously or illegally
+collected or received, when it is established in a manner prescribed by the collector that
+the service user from whom the tax has been collected did not owe the tax; provided,
+however, that neither a refund nor a credit shall be allowed unless the amount of the tax
+so collected has either been refunded to the service user or credited to charges
+subsequently payable by the service user to the person required to collect and remit.
+
+C.	No refund shall be paid under this section unless the claimant establishes his
+or her right thereto by written records showing entitlement thereto.
+
+D.	No refund shall be paid under the provisions of this section unless the
+claimant has submitted a claim pursuant to Section 1.35 of this code.
+
+SEC. 29.15.8. Effect of commingling nontaxable items with taxable items.
+
+If one or more nontaxable items are bundled or billed together with one or more
+taxable items (as provided for by this article) under a single charge on a customer's bill,
+the entire single charge shall be taxed unless a service supplier reasonably identifies to
+the collector the nontaxable component of the single charge based upon one or more of
+the following methodologies, as selected by the collector: (i) the average industry
+charges for nontaxable items included in the single charge: (ii) the amount of the single
+charge less the average industry charges for taxable items included in the single charge;
+or (iii) the service supplier's books and records kept in the regular course of business,
+which must be consistent with generally accepted accounting principles.
+
+A.	The collector shall have the power and duty, and is hereby directed, to
+enforce this article.
+
+B.	The collector shall have the power to adopt rules and regulations consistent
+with provisions of this article to carry out and enforce the obligations to pay, collect and
+remit the tax imposed by this article. A copy of such rules and regulations shall be on
+file in the collector's office.
+
+C.	Upon a proper showing of good cause, the collector may make administrative
+agreements, with appropriate conditions, to vary the strict requirements of this article
+and thereby: (i) conform to the billing procedures of a particular service supplier so
+long as said agreements result in collection of the tax in conformance with the general
+purpose and scope of this article; or (ii) to avoid a hardship where the administrative
+costs of collection and remittance greatly outweigh the tax benefit. A copy of each such
+agreement shall be on file in the collector's office and are voidable by the collector or the
+city at any time."
+
+SEC. 29.15.10. Audit.
+
+The city shall annually audit the taxes remitted in accordance with this division,
+and properly expending the taxes according to applicable law. The audit may employ
+reasonable, cost-effective steps to ensure compliance, including the use of sampling. No
+audit shall be conducted as to a service supplier where the cost of the audit is expected
+to exceed the tax revenues to be received."
+
+LD/8/ORD
+
+016-07-27-10o-E-2A
+
+AMENDED DIVISION 2 OF ARTICLE III OF CHAPTER 29
+
+Exhibit 5
+
+"DIVISION 2.—TELECOMMUNICATIONS USERS TAX.
+
+SEC. 29.16. Tax imposed.
+
+A.	There is imposed a tax upon every person, other than a telephone
+corporation, who uses telecommunication services in the city, including intrastate,
+interstate and international telecommunication services, to the extent permitted by
+federal and state law. Interstate calls shall be deemed to include calls to the District of
+Columbia. The telecommunications users tax is intended to, and does, apply to all
+charges within the city's tax jurisdiction, such as charges billed to a telecommunications
+account having a situs in the city as permitted by the Mobile Telecommunications
+Sourcing Act of 2000.4 USCA 116 et seq. The tax imposed by this section shall be at the
+rate of three percent (3%). The tax shall apply to all charges made for such
+telecommunication services. There is a rebuttable presumption that telecommunication
+services billed to a billing or service address in the city are used, in whole or in part,
+within the city, and that such services are subject to taxation under this chapter. There
+is also a rebuttable presumption that telecommunication services sold within the city
+that are not billed to a billing address or provided to a primary physical location (such
+as prepaid calling card services) are used, in whole or in part, within the city and are
+therefore subject to taxation under this chapter.
+
+B.	As used in this section, the term "charges" shall include the value of any other
+services, credits, property of every kind or nature, or other consideration provided by
+the service user in exchange for the telecommunication services.
+
+C.	The collector may, from time to time, issue and disseminate to
+telecommunication service suppliers administrative rulings identifying those
+telecommunication services that are subject to the tax of Subsection A of this section or
+otherwise regarding the implementation of the tax. Such administrative rulings shall be
+consistent with legal nexus and laws pertaining to telecommunications services and
+shall not impose a new tax, revise an existing tax methodology or increase an existing
+tax, except as allowed by California Government Code Section 53750(h) (2) and (3) or
+other law. The collector may consider state-wide interpretive rules and guidelines
+promulgated by any government agency or association of government agencies as a
+factor in determining the intent of voters adopting this section. To the extent that the
+collector determines that the tax imposed under this section shall not be collected in full
+for any period of time, such an administrative ruling falls within the collector's
+discretion to settle disputes. The collector's exercise of prosecutorial forbearance under
+this chapter does not constitute a change in taxing methodology for purposes of
+Government Code Section 53750(h), and the city does not waive or abrogate its ability
+to impose the telecommunications users tax in full as a result of issuing such
+
+administrative rulings and may suspend such rulings and recommence collection of the
+tax without additional voter approval.
+
+D.	The following shall be exempt from the tax imposed by this section:
+
+__________1.	Charges	paid by inserting coins in coin-operated telephones available to
+
+the public with respect to local telephone service, or with respect to long distance
+telephone service if the charge for such long distance telephone service is less than
+twenty-five (25) cents; except that where such coin-operated telephone service is
+furnished for a guaranteed amount, the amounts paid under such guarantee plus any
+fixed monthly or other periodic charge shall be subject to the tax.
+
+__________2.	Except	with respect to local telephone service, on any charges for
+
+services used in the collection of news for the public press, or a news ticker service
+furnishing a general news service similar to that of the public press or radio
+broadcasting, or in the dissemination of news through the public press, or a news ticker
+service furnishing a general news service similar to that of the public press, or by means
+of radio broadcasting, if the charge for such service is billed in writing to such person.
+
+__________3.	Charges	for services furnished to an international organization
+
+designated under the International Organizations Immunities Act and defined in
+22 USCA 288 or to the American National Red Cross.
+
+___________4.	Charges for any long distance telephone service which originates within
+
+a combat zone, as defined in Section 112 of the Internal Revenue Code, from a member
+of the Armed Forces of the United States performing service in such combat zone, as
+determined under such section, provided a certificate setting forth such facts as the
+Secretary of the U.S. Treasury may by regulations prescribe is furnished to the person
+receiving such payment.
+
+*
+
+___________5.	Charges for any long distance telephone service to the extent that the
+
+amount so paid is for use by a common carrier, telephone or telegraph company, or
+radio broadcasting station or network in the conduct of its business as such.
+
+___________6.	Amounts paid by a nonprofit hospital for services furnished to such
+
+organization. For purposes of this subsection, the term "nonprofit hospital" means a
+hospital referred to in Internal Revenue Code Section 170(b)(l)(A)(iii) which is exempt
+from income tax under Internal Revenue Code Section 501(a).
+
+___________7.	Charges for services or facilities furnished to the government of any
+
+state, or any political subdivision thereof, or the District of Columbia.
+
+___________8.	Charges paid by a nonprofit educational organization for services or
+
+facilities furnished to such organization. For purposes of this subsection, the term
+
+"nonprofit educational organization" means an educational organization described in
+Internal Revenue Code Section 170(b)(l)(A)(ii) which is exempt from income tax under
+Internal Revenue Code Section 501 (a). The term also includes a school operated as an
+activity of an organization described in Internal Revenue Code Section 501(c)(3) which
+is exempt from income tax under Internal Revenue Code Section 501(a). if such school
+normally maintains a regular faculty and curriculum and normally has a regularly
+enrolled body of pupils or students in attendance at the place where its educational
+activities are regularly carried on.
+
+__________9.	Charges	for	maritime	mobile services as defined in Section 2.1 of Title 47
+
+of the Code of Federal Regulations as such section existed on Tanuarv 1.1970.
+
+E.	To prevent actual multi-jurisdictional taxation of telecommunication services
+subject to tax under this section, any service user, upon proof to the collector that the
+service user has previously paid the same tax in another American jurisdiction on such
+telecommunication services, shall be allowed a credit against the tax imposed to the
+extent of the amount of such tax legally imposed in such other jurisdiction; provided,
+however, the amount of credit shall not exceed the tax owed to the city under this
+section. This ordinance shall be construed broadly in favor of the imposition and
+collection of the utility users tax to the fullest extent permitted by California and federal
+law, and as that law may change from time to time.
+
+F.	The tax on telecommunication services imposed by this section shall be
+collected from the service user by the service supplier or its billing agent. Each service
+supplier shall, on or before the twentieth (20) of each month, make a return to the
+collector, on forms provided, and in the manner prescribed, by the collector, stating the
+amount of taxes billed by the service supplier during the preceding month. At the time
+the return is filed, the full amount of the tax collected shall be remitted to the collector.
+The collector is authorized to properly determine if the tax imposed is levied and
+collected in accordance with this chapter. Returns and remittances are due immediately
+upon cessation of business for any reason.
+
+G.	For purposes of imposing a tax or establishing a duty to collect and remit a
+tax under this subchapter, "substantial nexus" and "minimum contacts" shall be
+construed broadly in favor of the imposition, collection and/or remittance of the utility
+users tax to the fullest extent permitted by state and federal law, and as that law may
+change from time to time. Any telecommunication service (including VoIP) used by a
+person with a service address in the city, which service is capable of making a call to
+another person on the general telephone network, shall be subject to a rebuttable
+presumption that "substantial nexus/minimum contacts" exists for purposes of
+imposing a tax, or establishing a duty to collect and remit a tax, under this chapter. A
+service supplier shall be deemed to have sufficient activity in the city to be obligated to
+collect and remit the tax imposed by this chapter if it does any of the following:
+maintains or has within the city, directly or through an agent or subsidiary, a place of
+
+business of any nature: solicits business in the city by employees, independent
+contractors, resellers, agents or other representatives; solicits business in the city by
+means of advertising that is broadcast or relayed from a transmitter within the city or
+distributed from a location within the city; or advertises in newspapers or other
+periodicals printed and published within the city or through materials distributed in the
+city by means other than the United States mail.
+
+SEC. 29.17. Effect of state and federal authorization.
+
+To the extent that the city's authorization to impose or collect any tax imposed
+under this chapter is expanded or limited as a result of changes in state or federal law,
+no amendment or modification of this chapter shall be required to conform the tax to
+those changes, and the tax shall be imposed and collected to the full extent of the city's
+authorization up to the full amount of the tax imposed under this chapter."
+
+LD/8/ORD
+
+016-07-27-10o-E-2A
+
+ATTACHMENT 3
+Alternative B
+
+ORDINANCE NO.
+
+AN ORDINANCE OF THE CITY OF MOUNTAIN VIEW AMENDING
+CHAPTER 29 OF THE MOUNTAIN VIEW CITY CODE
+REGARDING THE UTILITY USERS TAX
+
+THE PEOPLE OF THE CITY OF MOUNTAIN VIEW DO ORDAIN AS FOLLOWS:
+
+Section 1. Code Amendment. Division 1 of Article III of Chapter 29 of the
+Mountain View City Code is hereby amended to read as set forth in Exhibit "A,"
+attached hereto and incorporated by reference herein.
+
+Section 2. Code Amendment. Division 2 of Article III of Chapter 29 of the
+Mountain View City Code is hereby amended to read as set forth in Exhibit "B,"
+attached hereto and incorporated by reference herein.
+
+Section 3. Further Amendments. Divisions 1 and 2 of Article III of Chapter 29 of
+the Mountain View City Code as amended by this ordinance may be repealed or
+amended by the City Council without a vote of the people except as follows: as
+required by Proposition 218, any amendment that increases the amount or rate of tax
+beyond the levels authorized by this ordinance may not take effect unless approved by
+a vote of the people. The City Council may impose the taxes authorized by this
+ordinance in any amount or rate which does not exceed the rate approved by the voters
+of the City.
+
+Section 4. Repeal. Divisions 5,6,7,9 and 10 of Article III of Chapter 29 of the
+Mountain View City Code are hereby repealed.
+
+Section 5. Severability. If any section, sentence, clause, phrase or portion of this
+Ordinance is for any reason held to be invalid or unenforceable by a court of competent
+jurisdiction, the remaining sections, sentences, clauses, phrases or portions of this
+Ordinance shall nonetheless remain in full force and effect. The people of the City of
+Mountain View hereby declare that they would have adopted each section, sentence,
+clause, phrase or portion of this ordinance, irrespective of the fact that any one or more
+sections, sentences, clauses, phrases or portions of this ordinance be declared invalid or
+unenforceable and, to that end, the provisions of this ordinance are severable.
+
+Section 6. Majority Approval: Effective Date. This ordinance shall be effective
+only if approved by a majority of the voters voting thereon and shall go into effect ten
+(10) days after the vote is declared by the City Council and the duty of service providers
+to collect the tax shall commence as provided in California Public Utilities Code
+Section 799.
+
+Section 7. Execution. The Mayor is hereby authorized to execute this ordinance
+where indicated below to give evidence of its adoption by the voters.
+
+I hereby certify that the foregoing Ordinance was adopted by the voters of the City
+of Mountain View at the November 2,2010 election.
+
+Ronit Bryant, Mayor
+
+Attest:
+
+City Clerk
+
+LMD/8/ORD
+
+016-07-27-10o-EA
+
+Exhibit A
+
+AMENDED DIVISION 1 OF ARTICLE III OF CHAPTER 29
+
+"DIVISION 1—GENERAL PROVISIONS.
+
+SEC. 29.10. Title.
+
+This article shall be known as the "Utility Users Tax Ordinance of the City of
+Mountain View."
+
+SEC. 29.11. Adoption; charter authority.
+
+This article is adopted pursuant to the powers of the City of Mountain View as a
+charter city as provided in Article II of the City Charter, and as authorized by Section 6
+of Article XI of the Constitution of the State of California, and is adopted as a tax levy to
+meet the usual current expenses of the city.
+
+SEC. 29.12. Definitions.
+
+Except where the context otherwise requires, the definitions contained in this
+section shall govern the construction of this article. The word "may" is always directory
+and discretionary and not mandatory; the word "shall" is always mandatory and not
+directory or discretionary.
+
+"Ancillary telecommunications services" shall mean services that are associated
+with or incidental to the provision, use or enjoyment of telecommunications services
+including, but not limited to. the following:
+
+1.	Services that link two (2) or more participants of an audio or video conference
+call, including the provision of a telephone number.
+
+2.	Services that separately state information pertaining to individual calls on a
+customer's billing statement.
+
+3.	Services that provide telephone number information and/or address
+information.
+
+4.	Services offered in connection with one (1) or more telecommunications
+services which offer advanced calling features that allow customers to identify callers or
+to manage multiple calls and call connections.
+
+5.	Services that enable customers to store, send or receive recorded messages.
+
+"Billing address" shall mean the mailing address of a service user where a service
+supplier submits invoices or bills for payment by the service user.
+
+"City" shall mean the City of Mountain View, California, including cither the
+municipal corporation or all of the territory and jurisdiction thereof as presently
+constituted and any and all of the same which shall later come into existence by any
+manner or means whatsoever.
+
+"Collector" or "director" shall mean the revenue officer finance and administrative
+services director or his/her designee of the City of Mountain View.
+
+"Director" shall mean the director of finance of the City of Mountain View.
+
+"Electrical corporation," "gas corporation" and "telephone corporation" shall have
+the same meanings as defined provided in Sections 218,222 and 234, respectively, of the
+Public Utilities Code of the State of California.
+
+"Month" shall mean a calendar month.
+
+"Person" shall mean any natural person, firm, any all-domestic and foreign
+corporations, associations, firm, trust, estate, association, syndicates, joint ventures, joint
+stock company, limited liability company, partnerships of any every kind, clubs,
+Massachusetts business or common law trust of any kind, society societies, cooperative,
+receiver, trustee, guardian or other representative appointed by order of any court,
+municipal district, municipal corporation (other than the city), or the manager, lessee,
+and any officer, er-agent or employee of any of them thereof.
+
+"Private telecommunication service" means any dedicated virtual or actual
+telecommunications service that entitles a user to exclusive or priority use of
+communications channels.
+
+"Service address" means the street address of the service user's primary place of
+
+use.
+
+"Service supplier" shall mean any person required to collect a tax imposed under
+the provisions of this article.
+
+"Service user" shall mean a person required to pay a tax imposed under the
+provisions of this article.
+
+"Telecommunication services" includes the transmission, conveyance, or routing of
+voice, data, audio, video, or any other information or signals to a point, or between or
+among points, whether or not such information is transmitted through interconnected
+service with the public switched network, whatever the technology used, whether such
+
+transmission, conveyance or routing occurs by wire, cable, fiber-optic, light wave, laser,
+microwave, radio wave (including, but not limited to. cellular service, commercial
+mobile service, personal communications service (PCS), specialized mobile radio (SMR)
+and other types of personal wireless service—see 47 USCA Section 332(c) (7) (C) (!)—
+regardless of radio spectrum used), switching facilities, satellite or any other technology
+now existing or developed after the adoption of this section, and includes, without
+limitation, fiber-optic, coaxial cable and wireless. The term "telecommunication
+services" includes such transmission, conveyance or routing in which computer
+processing applications are used to act on the form, code or protocol of the content for
+purposes of transmission, conveyance or routing without regard to whether such
+services are referred to as voice over internet protocol (VoIP) services or are classified
+by the Federal Communications Commission as enhanced or value added, and includes
+video and/or data services that are functionally integrated with telecommunications
+services.
+
+"Telecommunication services" include, but are not limited to. the following
+services, regardless of the manner or basis on which such services are calculated or
+billed: central office and custom calling features (including, but not limited to. call
+waiting, call forwarding, caller identification and three-way calling), local number
+portability, text messaging, ancillary telecommunication services, prepaid and post-
+paid telecommunications services (including, but not limited to. prepaid calling cards):
+mobile telecommunications service: private telecommunication service; paging service:
+800 service (or any other toll-free numbers designated by the Federal Communications
+Commission!: and value-added nonvoice data service. "Telecommunication service"
+does not include: internet access services: video programming services: or digital
+downloads, such as downloads of books, music, ringtones, games or similar digital
+products.
+
+SEC. 29.13. Exemptions.
+
+Nothing contained in this article shall be construed as imposing a tax upon the city
+or any person when imposition of such tax upon that person would be in violation of
+the Constitution of the United States or that of the State of California.
+
+SEC. 29.14. Conflicts.
+
+Nothing contained in this article is intended to conflict with applicable rules,
+regulations and tariffs of any service supplier subject to the jurisdiction of the California
+Public Utilities Commission. In the event of any conflict, the provisions of said rules,
+regulations and tariffs shall control.
+
+SEC. 29.15. Tax; effective date.
+
+The taxes imposed by this article shall become operative as of October 1,1970.
+
+A.	The taxes imposed by this article shall be collected insofar as practicable at
+the same time as. and along with, the collection of charges made in accordance with the
+regular billing practice of a service supplier.
+
+B.	The duty to collect taxes from a service user shall commence with the
+beginning of the first regular billing period applicable to that person which starts on or
+after the operative date of this article and as provided by California Public Utilities
+Code Section 799. If a person receives separate billing for different periods, the duty to
+collect shall arise separately for each billing period.
+
+SEC. 29.15.2. Records.
+
+It shall be the duty of every person obligated to collect the tax imposed under this
+article to preserve for three (3) years all records as may be necessary to determine the
+amount of such tax as he or she may have been liable to collect and remit to the
+collector, which records the collector shall have the right to inspect or copy at all
+reasonable times.
+
+SEC. 29.15.3. Delinquent payment penalty.
+
+A.	Taxes collected from a service user which are not remitted to the collector on
+or before the due dates provided in this article are delinquent.
+
+B.	Penalties for delinquency in remittance of any tax collected or any deficiency
+determination shall attach and be paid by the service supplier at the rate of fifteen
+percent (15%) of the total tax imposed by this article.
+
+C.	The collector shall have power to impose additional penalties upon a service
+supplier for fraud or negligence in reporting or remitting at the rate of fifteen percent
+(15%) of the amount of the tax due.
+
+D.	In addition to any other penalties imposed by this article, any person
+required to collect and/or remit the tax imposed by this article who fails to collect the
+tax or fails to remit the tax collected shall pay interest at the rate of one percent (1%) per
+month, or any fraction thereof, on the amount of the tax, exclusive of penalties, from the
+date on which the remittance first became delinquent, until paid.
+
+E.	Notwithstanding the foregoing provisions of this section, no penalty or
+interest shall apply if delinquencies result from natural disasters or other phenomena
+beyond the control of the person charged with collecting and remitting the tax.
+
+provided the person being delinquent notifies the collector as soon as normal
+communications permit and collects and remits the tax promptly thereafter.
+
+F.	Every penalty imposed and interest due under the provisions of this section
+shall become a part of the tax required to be remitted.
+
+SEC. 29.15.4. Failure to pay—Administrative remedy.
+
+Whenever the collector determines that a service user has deliberately withheld
+the amount of the tax owed by him or her from the amounts remitted to a service
+supplier, or that a service user has failed to pay the amount of the tax for a period of
+two or more billing periods, or whenever the collector deems it in the best interest of the
+city, he or she may relieve the service supplier of the obligation to collect taxes due
+under this article from certain named service users for specified billing periods. The
+collector shall notify the service user that he or she has assumed responsibility to collect
+the taxes due for the stated periods and demand payment of such taxes. The notice
+shall be served on the service user by handing it to him or her personally or by deposit
+of the notice in the United States Postal Service, postage prepaid thereon, addressed to
+the service user at the address to which billing was made by the service supplier; or
+should the service user have changed his or her address, to his or her last known
+address. If a service user fails to remit the tax to the collector within fifteen (15) days
+from the date of service of the notice upon him or her, which shall be the date of
+mailing if service is not accomplished in person, a penalty of twenty-five percent
+(25%) of the amount of the tax set forth in the notice shall be imposed, but in no event
+shall the total penalty for nonpayment of the delinquent tax accounts be less than five
+dollars ($5). Tire penalty shall thereupon become part of the tax required to be paid by
+this article.
+
+SEC. 29.15.5. Assessments and appeal.
+
+The collector may make an assessment for taxes not paid or remitted as required
+by this article. The collector shall mail a notice of such assessment, which shall state the
+taxes, penalties and interest imposed and the time and place where the assessment may
+be contested, to the service supplier and/or the service user at least ten (10) days prior
+to the date of the hearing and shall post such notice for at least five (5) continuous days
+prior to the hearing. Any interested party having any objections may appear and be
+heard by the collector provided his or her objection is filed in writing with the collector
+prior to the time of the hearing. At the time fixed for considering such assessment, the
+collector shall hear the same, together with any objections filed as provided in this
+subsection, and thereupon may confirm or modify such assessment. The decision of the
+collector shall be final as to the city but shall be subject to judicial review pursuant to
+Code of Civil Procedure Section 1094.5.
+
+Any tax required to be paid by a service user under the provisions of this article
+shall be deemed a debt owed by the service user to the city. Any such tax collected
+from a service user which has not been remitted to the collector shall be deemed a debt
+owed to the city by the service supplier. Any person owing money to the city under the
+provisions of this article shall be liable to an action brought in the name of the city for
+the recovery of such amount and to any other remedy available at law or in equity and
+resort to any remedy shall not be foreclosed to any other remedy until the tax is
+collected and paid as required by this article.
+
+SEC. 29.15.7. Refunds.
+
+A.	Whenever the amount of any tax has been overpaid or paid more than once
+or has been erroneously or illegally collected or received by the collector under this
+article, it may be refunded as provided in this section.
+
+B.	A service supplier may claim a refund or take as credit against taxes collected
+and remitted the amount overpaid, paid more than once, or erroneously or illegally
+collected or received, when it is established in a manner prescribed by the collector that
+the service user from whom the tax has been collected did not owe the tax; provided,
+however, that neither a refund nor a credit shall be allowed unless the amount of the tax
+so collected has either been refunded to the service user or credited to charges
+subsequently payable by the service user to the person required to collect and remit.
+
+C.	No refund shall be paid under this section unless the claimant establishes his
+or her right thereto by written records showing entitlement thereto.
+
+D.	No refund shall be paid under the provisions of this section unless the
+claimant has submitted a claim pursuant to Section 1.35 of this code.
+
+SEC. 29.15.8. Effect of commingling nontaxable items with taxable items.
+
+If one or more nontaxable items are bundled or billed together with one or more
+taxable items (as provided for by this article) under a single charge on a customer's bill,
+the entire single charge shall be taxed unless a service supplier reasonably identifies to
+the collector the nontaxable component of the single charge based upon one or more of
+the following methodologies, as selected by the collector: (i) the average industry
+charges for nontaxable items included in the single charge; (ii) the amount of the single
+charge less the average industry charges for taxable items included in the single charge;
+or (iii) the service supplier's books and records kept in the regular course of business,
+which must be consistent with generally accepted accounting principles.
+
+SEC. 29.15.9. Additional powers and duties of the collector.
+
+_____A. The collector shall have the power and duty, and is hereby directed, to
+
+enforce this article.
+
+B.	The collector shall have the power to adopt rules and regulations consistent
+with provisions of this article to carry out and enforce the obligations to pay, collect and
+remit the tax imposed by this article. A copy of such rules and regulations shall be on
+file in the collector's office.
+
+C.	Upon a proper showing of good cause, the collector may make administrative
+agreements, with appropriate conditions, to vary the strict requirements of this article
+and thereby: (i) conform to the billing procedures of a particular service supplier so
+long as said agreements result in collection of the tax in conformance with the general
+purpose and scope of this article; or (ii) to avoid a hardship where the administrative
+costs of collection and remittance greatly outweigh the tax benefit. A copy of each such
+agreement shall be on file in the collector's office and are voidable by the collector or the
+city at any time."
+
+SEC. 29.15.10. Audit.
+
+The city shall annually audit the taxes remitted in accordance with this division,
+and properly expending the taxes according to applicable law. The audit may employ
+reasonable, cost-effective steps to ensure compliance, including the use of sampling. No
+audit shall be conducted as to a service supplier where the cost of the audit is expected
+to exceed the tax revenues to be received."
+
+LD/8/ORD
+
+016-07-27-10o-EA
+
+AMENDED DIVISION 2 OF ARTICLE III OF CHAPTER 29
+
+Exhibit 6
+
+"DIVISION 2.—TELECOMMUNICATIONS USERS TAX.
+
+SEC. 29.16. Tax imposed.
+
+A.	There is imposed a tax upon every person, other than a telephone
+corporation, who uses telecommunication services in the city, including intrastate,
+interstate and international telecommunication services, to the extent permitted by
+federal and state law. Interstate calls shall be deemed to include calls to the District of
+Columbia. The telecommunications users tax is intended to, and does, apply to all
+charges within the city's tax jurisdiction, such as charges billed to a telecommunications
+account having a situs in the city as permitted by the Mobile Telecommunications
+Sourcing Act of 2000.4 USCA 116 et seq. The tax imposed by this section shall be at the
+rate of three percent (3%). The tax shall apply to all charges made for such
+telecommunication services. There is a rebuttable presumption that telecommunication
+services billed to a billing or service address in the city are used, in whole or in part,
+within the city, and that such services are subject to taxation under this chapter. There
+is also a rebuttable presumption that telecommunication services sold within the city
+that are not billed to a billing address or provided to a primary physical location (such
+as prepaid calling card services! are used, in whole or in part, within the city and are
+therefore subject to taxation under this chapter.
+
+B.	Tax cap.
+
+1.	Any user of telecommunications services who paid at least thirty thousand
+dollars ($30.0001 in tax in the 2010 calendar year, or who paid an increase of at least
+thirty thousand dollars ($30,000) in tax above the amount paid in the 2010 calendar
+year, may apply to the city for a refund of taxes pursuant to this paragraph, on a form
+provided by the collector for that purpose, by March 30 of 2012,2013 and 2014 with
+respect to taxes paid in the previous calendar year. Upon demonstration of entitlement
+to a refund, the collector shall refund to such users the tax actually paid by that person
+in the year for which the refund is sought which exceeds the greater of the following
+amounts:
+
+_________a.	the amount of tax actually paid by that person in the 2010 calendar year;
+
+_________b.	thirty thousand dollars ($30.000).
+
+2.	The collector shall adjust the tax caps stated in Subparagraph 1 by two
+percent (2%) for the years ending December 31.2011. December 31,2012 and
+December 31.2013 for application to refund claims due by March 30 of each subsequent
+
+year.
+
+3.	Service suppliers shall collect the full amount of tax due under this section
+without respect to the tax cap established by this Paragraph B. The collector alone shall
+be responsible for processing refund applications and making payment upon them.
+
+4.	A service user may appeal any decision of the collector with respect to a tax
+refund application under this paragraph pursuant to Section 29.15.5 of this code, with
+the collector's written notice of determination of the refund application treated as a
+notice of deficiency for purposes of measuring the time in which appeal must be taken.
+
+C.	As used in this section, the term "charges" shall include the value of any other
+services, credits, property of every kind or nature, or other consideration provided by
+the service user in exchange for the telecommunication services.
+
+D.	The collector may, from time to time, issue and disseminate to
+telecommunication service suppliers administrative rulings identifying those
+telecommunication services that are subject to the tax of Subsection A of this section or
+otherwise regarding the implementation of the tax. Such administrative rulings shall be
+consistent with legal nexus and laws pertaining to telecommunications services and
+shall not impose a new tax, revise an existing tax methodology or increase an existing
+tax, except as allowed bv California Government Code Section 53750(h) (2) and (3) or
+other law. The collector may consider state-wide interpretive rules and guidelines
+promulgated by any government agency or association of government agencies as a
+factor in determining the intent of voters adopting this section. To the extent that the
+collector determines that the tax imposed under this section shall not be collected in full
+for any period of time, such an administrative ruling falls within the collector's
+discretion to settle disputes. The collector's exercise of prosecutorial forbearance under
+this chapter does not constitute a change in taxing methodology for purposes of
+Government Code Section 53750(h), and the city does not waive or abrogate its ability
+to impose the telecommunications users tax in full as a result of issuing such
+administrative rulings and may suspend such rulings and recommence collection of the
+tax without additional voter approval.
+
+E.	The following shall be exempt from the tax imposed by this section:
+
+__________1. Charges paid by inserting coins in coin-operated telephones available to
+
+the public with respect to local telephone service, or with respect to long distance
+telephone service if the charge for such long distance telephone service is less than
+twenty-five (251 cents: except that where such coin-operated telephone service is
+furnished for a guaranteed amount, the amounts paid under such guarantee plus any
+fixed monthly or other periodic charge shall be subject to the tax.
+
+__________2. Except with respect to local telephone service, on any charges for
+
+services used in the collection of news for the public press, or a news ticker service
+
+furnishing a general news service similar to that of the public press or radio
+broadcasting, or in the dissemination of news through the public press, or a news ticker
+service furnishing a general news service similar to that of the public press, or by means
+of radio broadcasting, if the charge for such service is billed in writing to such person.
+
+__________3.	Charges	for	services	furnished to an international organization
+
+designated under the International Organizations Immunities Act and defined in
+22 USCA 288 or to the American National Red Cross.
+
+__________4.	Charges	for	any long distance telephone service which originates within
+
+a combat zone, as defined in Section 112 of the Internal Revenue Code, from a member
+of the Armed Forces of the United States performing service in such combat zone, as
+determined under such section, provided a certificate setting forth such facts as the
+Secretary of the U.S. Treasury may bv regulations prescribe is furnished to the person
+receiving such payment.
+
+__________5.	Charges	for	any	long	distance	telephone	service to the extent that the
+
+amount so paid is for use by a common carrier, telephone or telegraph company, or
+radio broadcasting station or network in the conduct of its business as such.
+
+__________6.	Amounts	paid	by	a	nonprofit	hospital	for	services furnished to such
+
+organization. For purposes of this subsection, the term "nonprofit hospital" means a
+hospital referred to in Internal Revenue Code Section 170(bVl)(A)(iii) which is exempt
+from income tax under Internal Revenue Code Section 501(a).
+
+__________7.	Charges	for	services	or	facilities	furnished	to	the	government	of	any
+
+state, or any political subdivision thereof, or the District of Columbia.
+
+__________8.	Charges	paid	by	a	nonprofit	educational	organization	for services or
+
+facilities furnished to such organization. For purposes of this subsection, the term
+"nonprofit educational organization" means an educational organization described in
+Internal Revenue Code Section 170(b)(l)(Al(ii) which is exempt from income tax under
+Internal Revenue Code Section 501(a). The term also includes a school operated as an
+activity of an organization described in Internal Revenue Code Section 501(c)(3) which
+is exempt from income tax under Internal Revenue Code Section 501(a), if such school
+normally maintains a regular faculty and curriculum and normally has a regularly
+enrolled body of pupils or students in attendance at the place where its educational
+activities are regularly carried on.
+
+__________9.	Charges	for	maritime	mobile	services	as	defined	in	Section	2.1	of	Title	47
+
+of the Code of Federal Regulations as such section existed on January 1,1970.
+
+F.	To prevent actual multi-jurisdictional taxation of telecommunication services
+subject to tax under this section, any service user, upon proof to the collector that the
+
+service user has previously paid the same tax in another American jurisdiction on such
+telecommunication services, shall be allowed a credit against the tax imposed to the
+extent of the amount of such tax legally imposed in such other jurisdiction; provided,
+however, the amount of credit shall not exceed the tax owed to the city under this
+section. This ordinance shall be construed broadly in favor of the imposition and
+collection of the utility users tax to the fullest extent permitted by California and federal
+law, and as that law may change from time to time.
+
+G.	The tax on telecommunication services imposed by this section shall be
+collected from the service user by the service supplier or its billing agent. Each service
+supplier shall, on or before the twentieth (20) of each month, make a return to the
+collector, on forms provided, and in the manner prescribed, by the collector, stating the
+amount of taxes billed by the service supplier during the preceding month. At the time
+the return is filed, the full amount of the tax collected shall be remitted to the collector.
+The collector is authorized to properly determine if the tax imposed is levied and
+collected in accordance with this chapter. Returns and remittances are due immediately
+upon cessation of business for any reason.
+
+H.	For purposes of imposing a tax or establishing a duty to collect and remit a
+tax under this subchapter, "substantial nexus" and "minimum contacts" shall be
+construed broadly in favor of the imposition, collection and/or remittance of the utility
+users tax to the fullest extent permitted by state and federal law, and as that law may
+change from time to time. Any telecommunication service (including VoIP) used by a
+person with a service address in the city, which service is capable of making a call to
+another person on the general telephone network, shall be subject to a rebuttable
+presumption that "substantial nexus/minimum contacts" exists for purposes of
+imposing a tax, or establishing a duty to collect and remit a tax, under this chapter. A
+service supplier shall be deemed to have sufficient activity in the city to be obligated to
+collect and remit the tax imposed by this chapter if it does any of the following:
+maintains or has within the city, directly or through an agent or subsidiary, a place of
+business of any nature; solicits business in the city by employees, independent
+contractors, resellers, agents or other representatives; solicits business in the city by
+means of advertising that is broadcast or relayed from a transmitter within the city or
+distributed from a location within the city; or advertises in newspapers or other
+periodicals printed and published within the city or through materials distributed in the
+city by means other than the United States mail.
+
+SEC. 29.17. Effect of state and federal authorization.
+
+To the extent that the city's authorization to impose or collect any tax imposed
+under this chapter is expanded or limited as a result of changes in state or federal law,
+no amendment or modification of this chapter shall be required to conform the tax to
+those changes, and the tax shall be imposed and collected to the full extent of the city's
+authorization up to the full amount of the tax imposed under this chapter."
+
+LD/8/ORD
+
+016-07-27-10o-EA
+
+ATTACHMENT 4
+Alternative C
+
+ORDINANCE NO.
+
+AN ORDINANCE OF THE CITY OF MOUNTAIN VIEW AMENDING
+CHAPTER 29 OF THE MOUNTAIN VIEW CITY CODE
+REGARDING THE UTILITY USERS TAX
+
+THE PEOPLE OF THE CITY OF MOUNTAIN VIEW DO ORDAIN AS FOLLOWS:
+
+Section 1. Code Amendment. Division 1 of Article III of Chapter 29 of the
+Mountain View City Code is hereby amended to read as set forth in Exhibit "A,"
+attached hereto and incorporated by reference herein.
+
+Section 2. Code Amendment. Division 2 of Article III of Chapter 29 of the
+Mountain View City Code is hereby amended to read as set forth in Exhibit "B,"
+attached hereto and incorporated by reference herein.
+
+Section 3. Further Amendments. Divisions 1 and 2 of Article III of Chapter 29 of
+the Mountain View City Code as amended by this ordinance may be repealed or
+amended by the City Council without a vote of the people except as follows: as
+required by Proposition 218, any amendment that increases the amount or rate of tax
+beyond the levels authorized by this ordinance may not take effect unless approved by
+a vote of the people. The City Council may impose the taxes authorized by this
+ordinance in any amount or rate which does not exceed the rate approved by the voters
+of the City.
+
+Section 4. Repeal. Divisions 5,6,7,9 and 10 of Article III of Chapter 29 of the
+Mountain View City Code are hereby repealed.
+
+Section 5. Severability. If any section, sentence, clause, phrase or portion of this
+Ordinance is for any reason held to be invalid or unenforceable by a court of competent
+jurisdiction, the remaining sections, sentences, clauses, phrases or portions of this
+Ordinance shall nonetheless remain in full force and effect. The people of the City of
+Mountain View hereby declare that they would have adopted each section, sentence,
+clause, phrase or portion of this ordinance, irrespective of the fact that any one or more
+sections, sentences, clauses, phrases or portions of this ordinance be declared invalid or
+unenforceable and, to that end, the provisions of this ordinance are severable.
+
+Section 6. Majority Approval: Effective Date. This ordinance shall be effective
+only if approved by a majority of the voters voting thereon and shall go into effect ten
+(10) days after the vote is declared by the City Council and the duty of service providers
+to collect the tax shall commence as provided in California Public Utilities Code
+Section 799.
+
+Section 7. Execution. The Mayor is hereby authorized to execute this ordinance
+where indicated below to give evidence of its adoption by the voters.
+
+I hereby certify that the foregoing Ordinance was adopted by the voters of the City
+of Mountain View at the November 2,2010 election.
+
+Ronit Bryant, Mayor
+
+Attest:
+
+City Clerk
+
+LMD/8/ORD
+
+016-07-27-10o-E-lA
+
+Exhibit A
+
+AMENDED DIVISION 1 OF ARTICLE III OF CHAPTER 29
+
+"DIVISION 1—GENERAL PROVISIONS.
+
+SEC. 29.10. Title.
+
+This article shall be known as the "Utility Users Tax Ordinance of the City of
+Mountain View."
+
+SEC. 29.11. Adoption; charter authority.
+
+This article is adopted pursuant to the powers of the City of Mountain View as a
+charter city as provided in Article II of the City Charter, and as authorized by Section 6
+of Article XI of the Constitution of the State of California, and is adopted as a tax levy to
+meet the usual current expenses of the city.
+
+SEC. 29.12. Definitions.
+
+Except where the context otherwise requires, the definitions contained in this
+section shall govern the construction of this article. The word "may" is always directory
+and discretionary and not mandatory; the word "shall" is always mandatory and not
+directory or discretionary.
+
+"Ancillary telecommunications services" shall mean services that are associated
+with or incidental to the provision, use or enjoyment of telecommunications services
+including, but not limited to. the following:
+
+1.	Services that link two (2) or more participants of an audio or video conference
+call, including the provision of a telephone number.
+
+2.	Services that separately state information pertaining to individual calls on a
+customer's billing statement.
+
+3.	Services that provide telephone number information and/or address
+information.
+
+4.	Services offered in connection with one (1) or more telecommunications
+services which offer advanced calling features that allow customers to identify callers or
+to manage multiple calls and call connections.
+
+5.	Services that enable customers to store, send or receive recorded messages.
+
+"Billing address" shall mean the mailing address of a service user where a service
+supplier submits invoices or bills for payment by the service user.
+
+"City" shall mean the City of Mountain View, California, meludlng either the
+municipal corporation or all of the territory and jurisdiction thereof as presently
+constituted and any and all of the same which shall later come into existence by any
+manner or means whatsoever.
+
+"Collector" or "director" shall mean the revenue officer finance and administrative
+services director or his/her designee of the City of Mountain View.
+
+''Director'' shall mean the director of finance of the City of Mountain View.
+
+"Electrical corporation," "gas corporation" and "telephone corporation" shall have
+the same meanings as defined provided in Sections 218,222 and 234, respectively, of the
+Public Utilities Code of the State of California.
+
+"Month" shall mean a calendar month.
+
+"Person" shall mean any natural person, firm, any all-domestic and foreign
+corporations, associations, firm, trust, estate, association, syndicates, joint ventures, joint
+stock company, limited liability company, partnerships of any every kind, clubs,
+Massachusetts business or common law trust of any kind, society societies, cooperative,
+receiver, trustee, guardian or other representative appointed by order of any court,
+municipal district, municipal corporation (other than the city), or the manager, lessee,
+and-any officer, er-agent or employee of any of them thereof.
+
+"Private telecommunication service" means any dedicated virtual or actual
+telecommunications service that entitles a user to exclusive or priority use of
+communications channels.
+
+"Service address" means the street address of the service user's primary place of
+
+use.
+
+"Service supplier" shall mean any person required to collect a tax imposed under
+the provisions of this article.
+
+"Service user" shall mean a person required to pay a tax imposed under rite
+provisions of this article.
+
+"Telecommunication services" includes the transmission, conveyance, or routing of
+voice, data, audio, video, or any other information or signals to a point, or between or
+among points, whether or not such information is transmitted through interconnected
+service with the public switched network, whatever the technology used, whether such
+
+transmission, conveyance or routing occurs by wire, cable, fiber-optic, light wave, laser,
+microwave, radio wave (including, but not limited to. cellular service, commercial
+mobile service, personal communications service (PCS), specialized mobile radio (SMR)
+and other types of personal wireless service—see 47 USCA Section 332(c) (7) (C) (i)—
+regardless of radio spectrum used), switching facilities, satellite or any other technology
+now existing or developed after the adoption of this section, and includes, without
+limitation, fiber-optic, coaxial cable and wireless. The term "telecommunication
+services" includes such transmission, conveyance or routing in which computer
+processing applications are used to act on the form, code or protocol of the content for
+purposes of transmission, conveyance or routing without regard to whether such
+services are referred to as voice over internet protocol (VoIP) services or are classified
+by the Federal Communications Commission as enhanced or value added, and includes
+video and/or data services that are functionally integrated with telecommunications
+services.
+
+"Telecommunication services" include, but are not limited to. the following
+services, regardless of the manner or basis on which such services are calculated or
+billed: central office and custom calling features (including, but not limited to, call
+waiting, call forwarding, caller identification and three-way calling), local number
+portability, text messaging, ancillary telecommunication services, prepaid and post-
+paid telecommunications services (including, but not limited to, prepaid calling cards'):
+mobile telecommunications service; paging service: 800 service lor any other toll-free
+numbers designated by the Federal Communications Commission): and value-added
+nonvoice data service. "Telecommunication service" does not include: private
+telecommunication service: internet access services: video programming services: or
+digital downloads, such as downloads of books, music, ringtones, games or similar
+digital products.
+
+SEC. 29.13. Exemptions.
+
+Nothing contained in this article shall be construed as imposing a tax upon the city
+or any person when imposition of such tax upon that person would be in violation of
+the Constitution of the United States or that of the State of California.
+
+SEC. 29.14. Conflicts.
+
+Nothing contained in this article is intended to conflict with applicable rules,
+regulations and tariffs of any service supplier subject to the jurisdiction of the California
+Public Utilities Commission. In the event of any conflict, the provisions of said rules,
+regulations and tariffs shall control.
+
+SEC. 29.15. Tax; effective date.
+
+The taxes imposed by this article shall become operative as of October 1,1970.
+
+A.	The taxes imposed by this article shall be collected insofar as practicable at
+the same time as, and along with, the collection of charges made in accordance with the
+regular billing practice of a service supplier.
+
+B.	The duty to collect taxes from a service user shall commence with the
+beginning of the first regular billing period applicable to that person which starts on or
+after the operative date of this article and as provided by California Public Utilities
+Code Section 799. If a person receives separate billing for different periods, the duty to
+collect shall arise separately for each billing period.
+
+SEC. 29.15.2. Records.
+
+It shall be the duty of every person obligated to collect the tax imposed under this
+article to preserve for three (3) years all records as may be necessary to determine the
+amount of such tax as he or she may have been liable to collect and remit to the
+collector, which records the collector shall have the right to inspect or copy at all
+reasonable times.
+
+SEC. 29.15.3. Delinquent payment penalty.
+
+A.	Taxes collected from a service user which are not remitted to the collector on
+or before the due dates provided in this article are delinquent.
+
+B.	Penalties for delinquency in remittance of any tax collected or any deficiency
+determination shall attach and be paid by the service supplier at the rate of fifteen
+percent (15%) of the total tax imposed by this article.
+
+C.	The collector shall have power to impose additional penalties upon a service
+supplier for fraud or negligence in reporting or remitting at the rate of fifteen percent
+(15%) of the amount of the tax due.
+
+D.	In addition to any other penalties imposed by this article, any person
+required to collect and/or remit the tax imposed by this article who fails to collect the
+tax or fails to remit the tax collected shall pay interest at the rate of one percent (1%) per
+month, or any fraction thereof, on the amount of the tax, exclusive of penalties, from the
+date on which the remittance first became delinquent, until paid.
+
+E.	Notwithstanding the foregoing provisions of this section, no penalty or
+interest shall apply if delinquencies result from natural disasters or other phenomena
+beyond the control of the person charged with collecting and remitting the tax.
+
+provided the person being delinquent notifies the collector as soon as normal
+communications permit and collects and remits the tax promptly thereafter.
+
+F.	Every penalty imposed and interest due under the provisions of this section
+shall become a part of the tax required to be remitted.
+
+SEC. 29.15.4. Failure to pay—Administrative remedy.
+
+Whenever the collector determines that a service user has deliberately withheld
+the amount of the tax owed by him or her from the amounts remitted to a service
+supplier, or that a service user has failed to pay the amount of the tax for a period of
+two or more billing periods, or whenever the collector deems it in the best interest of the
+city, he or she may relieve the service supplier of the obligation to collect taxes due
+under this article from certain named service users for specified billing periods. The
+collector shall notify the service user that he or she has assumed responsibility to collect
+the taxes due for the stated periods and demand payment of such taxes. The notice
+shall be served on the service user by handing it to him or her personally or by deposit
+of the notice in the United States Postal Service, postage prepaid thereon, addressed to
+the service user at the address to which billing was made by the service supplier; or
+should the service user have changed his or her address, to his or her last known
+address. If a service user fails to remit the tax to the collector within fifteen (15) days
+from the date of service of the notice upon him or her, which shall be the date of
+mailing if service is not accomplished in person, a penalty of twenty-five percent
+(25%) of the amount of the tax set forth in the notice shall be imposed, but in no event
+shall the total penalty for nonpayment of the delinquent tax accounts be less than five
+dollars ($5). The penalty shall thereupon become part of the tax required to be paid by
+this article.
+
+SEC. 29.15.5. Assessments and appeal.
+
+The collector may make an assessment for taxes not paid or remitted as required
+by this article. The collector shall mail a notice of such assessment, which shall state the
+taxes, penalties and interest imposed and the time and place where the assessment may
+be contested, to the service supplier and/or the service user at least ten (10) days prior
+to the date of the hearing and shall post such notice for at least five (5) continuous days
+prior to the hearing. Any interested party having any objections may appear and be
+heard by the collector provided his or her objection is filed in writing with the collector
+prior to the time of the hearing. At the time fixed for considering such assessment, the
+collector shall hear the same, together with any objections filed as provided in this
+subsection, and thereupon may confirm or modify such assessment. The decision of the
+collector shall be final as to the city but shall be subject to judicial review pursuant to
+Code of Civil Procedure Section 1094.5.
+
+Any tax required to be paid by a service user under the provisions of this article
+shall be deemed a debt owed by the service user to the city. Any such tax collected
+from a service user which has not been remitted to the collector shall be deemed a debt
+owed to the city by the service supplier. Any person owing money to the city under the
+provisions of this article shall be liable to an action brought in the name of the city for
+the recovery of such amount and to any other remedy available at law or in equity and
+resort to any remedy shall not be foreclosed to any other remedy until the tax is
+collected and paid as required by this article.
+
+SEC. 29.15.7. Refunds.
+
+A.	Whenever the amount of any tax has been overpaid or paid more than once
+or has been erroneously or illegally collected or received by the collector under this
+article, it may be refunded as provided in this section.
+
+B.	A service supplier may claim a refund or take as credit against taxes collected
+and remitted the amount overpaid, paid more than once, or erroneously or illegally
+collected or received, when it is established in a manner prescribed by the collector that
+the service user from whom the tax has been collected did not owe the tax; provided,
+however, that neither a refund nor a credit shall be allowed unless the amount of the tax
+so collected has either been refunded to the service user or credited to charges
+subsequently payable by the service user to the person required to collect and remit.
+
+C.	No refund shall be paid under this section unless the claimant establishes his
+or her right thereto by written records showing entitlement thereto.
+
+D.	No refund shall be paid under the provisions of this section unless the
+claimant has submitted a claim pursuant to Section 1.35 of this code.
+
+SEC. 29.15.8. Effect of commingling nontaxable items with taxable items.
+
+If one or more nontaxable items are bundled or billed together with one or more
+taxable items (as provided for by this article) under a single charge on a customer's bill,
+the entire single charge shall be taxed unless a service supplier reasonably identifies to
+the collector the nontaxable component of the single charge based upon one or more of
+the following methodologies, as selected by the collector: (0 the average industry
+charges for nontaxable items included in the single charge; (ii) the amount of the single
+charge less the average industry charges for taxable items included in the single charge;
+or (iii) the service supplier's books and records kept in the regular course of business,
+which must be consistent with generally accepted accounting principles.
+
+A. The collector shall have the power and duty, and is hereby directed, to
+enforce this article.
+
+B. The collector shall have the power to adopt rules and regulations consistent
+with provisions of this article to carry out and enforce the obligations to pay, collect and
+remit the tax imposed by this article. A copy of such rules and regulations shall be on
+file in the collector's office.
+
+C.	Upon a proper showing of good cause, the collector may make administrative
+agreements, with appropriate conditions, to vary the strict requirements of this article
+and thereby: (i) conform to the billing procedures of a particular service supplier so
+long as said agreements result in collection of the tax in conformance with the general
+purpose and scope of this article; or (ii) to avoid a hardship where the administrative
+costs of collection and remittance greatly outweigh the tax benefit. A copy of each such
+agreement shall be on file in the collector's office and are voidable by the collector or the
+city at any time."
+
+SEC. 29.15.10. Audit.
+
+The city shall annually audit the taxes remitted in accordance with this division,
+and properly expending the taxes according to applicable law. The audit may employ
+reasonable, cost-effective steps to ensure compliance, including the use of sampling. No
+audit shall be conducted as to a service supplier where the cost of the audit is expected
+to exceed the tax revenues to be received."
+
+LD/8/ORD
+016-07-27-10o-E-lA
+
+AMENDED DIVISION 2 OF ARTICLE III OF CHAPTER 29
+
+Exhibit B
+
+"DIVISION 2.—TELECOMMUNICATIONS USERS TAX.
+
+SEC. 29.16. Tax imposed.
+
+A.	There is imposed a tax upon every person, other than a telephone
+corporation, who uses telecommunication services in the city, including intrastate,
+interstate and international telecommunication services, to the extent permitted by
+federal and state law. Interstate calls shall be deemed to include calls to the District of
+Columbia. The telecommunications users tax is intended to, and does, apply to all
+charges within the city's tax jurisdiction, such as charges billed to a telecommunications
+account having a situs in the city as permitted by the Mobile Telecommunications
+Sourcing Act of 2000,4 USCA 116 et seq. The tax imposed by this section shall be at the
+rate of three percent (3%). The tax shall apply to all charges made for such
+telecommunication services. There is a rebuttable presumption that telecommunication
+services billed to a billing or service address in the city are used, in whole or in part,
+within the city, and that such services are subject to taxation under this chapter. There
+is also a rebuttable presumption that telecommunication services sold within the city
+that are not billed to a billing address or provided to a primary physical location (such
+as prepaid calling card services) are used, in whole or in part, within the city and are
+therefore subject to taxation under this chapter.
+
+B.	As used in this section, the term "charges" shall include the value of any other
+services, credits, property of every kind or nature, or other consideration provided by
+the service user in exchange for the telecommunication services.
+
+C.	The collector may, from time to time, issue and disseminate to
+telecommunication service suppliers administrative rulings identifying those
+telecommunication services that are subject to the tax of Subsection A of this section or
+otherwise regarding the implementation of the tax. Such administrative rulings shall be
+consistent with legal nexus and laws pertaining to telecommunications services and
+shall not impose a new tax, revise an existing tax methodology or increase an existing
+tax, except as allowed by California Government Code Section 53750(h) (2) and (3) or
+other law. The collector may consider state-wide interpretive rules and guidelines
+promulgated by any government agency or association of government agencies as a
+factor in determining the intent of voters adopting this section. To the extent that the
+collector determines that the tax imposed under this section shall not be collected in full
+for any period of time, such an administrative ruling falls within the collector's
+discretion to settle disputes. The collector’s exercise of prosecutorial forbearance under
+this chapter does not constitute a change in taxing methodology for purposes of
+Government Code Section 53750(h), and the city does not waive or abrogate its ability
+to impose the telecommunications users tax in full as a result of issuing such
+
+administrative rulings and may suspend such rulings and recommence collection of the
+tax without additional voter approval.
+
+D.	The following shall be exempt from the tax imposed by this section:
+
+__________1.	Charges	paid by inserting coins in coin-operated telephones available to
+
+the public with respect to local telephone service, or with respect to long distance
+telephone service if the charge for such long distance telephone service is less than
+twenty-five (25) cents: except that where such coin-operated telephone service is
+furnished for a guaranteed amount, the amounts paid under such guarantee plus any
+fixed monthly or other periodic charge shall be subject to the tax.
+
+__________2.	Except	with respect to local telephone service, on any charges for
+
+services used in the collection of news for the public press, or a news ticker service
+furnishing a general news service similar to that of the public press or radio
+broadcasting, or in the dissemination of news through the public press, or a news ticker
+service furnishing a general news service similar to that of the public press, or by means
+of radio broadcasting, if the charge for such service is billed in writing to such person.
+
+__________ 3.	Charges	for services furnished to an international organization
+
+designated under the International Organizations Immunities Act and defined in
+22 USCA 288 or to the American National Red Cross.
+
+___________4.	Charges for any long distance telephone service which originates within
+
+a combat zone, as defined in Section 112 of the Internal Revenue Code, from a member
+of the Armed Forces of the United States performing service in such combat zone, as
+determined under such section, provided a certificate setting forth such facts as the
+Secretary of the U.S. Treasury may by regulations prescribe is furnished to the person
+receiving such payment.
+
+___________5.	Charges for any long distance telephone service to the extent that the
+
+amount so paid is for use by a common carrier, telephone or telegraph company, or
+radio broadcasting station or network in the conduct of its business as such.
+
+___________6.	Amounts paid by a nonprofit hospital for services furnished to such
+
+organization. For purposes of this subsection, the term "nonprofit hospital" means a
+hospital referred to in Internal Revenue Code Section 170(b)(l)(A)(iii) which is exempt
+from income tax under Internal Revenue Code Section 501(a).
+
+___________7.	Charges for services or facilities furnished to the government of any
+
+state, or any political subdivision thereof, or the District of Columbia.
+
+___________8.	Charges paid by a nonprofit educational organization for services or
+
+facilities furnished to such organization. For purposes of this subsection, the term
+
+"nonprofit educational organization" means an educational organization described in
+Internal Revenue Code Section 170(b)(l)(A)(ii) which is exempt from income tax under
+Internal Revenue Code Section 501(a). The term also includes a school operated as an
+activity of an organization described in Internal Revenue Code Section 501(c)(3) which
+is exempt from income tax under Internal Revenue Code Section 501(a). if such school
+normally maintains a regular faculty and curriculum and normally has a regularly
+enrolled body of pupils or students in attendance at the place where its educational
+activities are regularly carried on.
+
+__________9.	Charges	for	maritime	mobile services as defined in Section 2.1 of Title 47
+
+of the Code of Federal Regulations as such section existed on lanuarv 1.1970.
+
+E.	To prevent actual multi-jurisdictional taxation of telecommunication services
+subject to tax under this section, any service user, upon proof to the collector that the
+service user has previously paid the same tax in another American jurisdiction on such
+telecommunication services, shall be allowed a credit against the tax imposed to the
+extent of the amount of such tax legally imposed in such other jurisdiction; provided,
+however, the amount of credit shall not exceed the tax owed to the city under this
+section. This ordinance shall be construed broadly in favor of the imposition and
+collection of the utility users tax to the fullest extent permitted by California and federal
+law, and as that law may change from time to time.
+
+F.	The tax on telecommunication services imposed by this section shall be
+collected from the service user by the service supplier or its billing agent. Each service
+supplier shall, on or before the twentieth (201 of each month, make a return to the
+collector, on forms provided, and in the manner prescribed, by the collector, stating the
+amount of taxes billed by the service supplier during the preceding month. At the time
+the return is filed, the full amount of the tax collected shall be remitted to the collector.
+The collector is authorized to properly determine if the tax imposed is levied and
+collected in accordance with this chapter. Returns and remittances are due immediately
+upon cessation of business for any reason.
+
+G.	For purposes of imposing a tax or establishing a duty to collect and remit a
+tax under this subchapter, "substantial nexus" and "minimum contacts" shall be
+construed broadly in favor of the imposition, collection and/or remittance of the utility
+users tax to the fullest extent permitted by state and federal law, and as that law may
+change from time to time. Any telecommunication service (including VoIP) used by a
+person with a service address in the city, which service is capable of making a call to
+another person on the general telephone network, shall be subject to a rebuttable
+presumption that "substantial nexus/minimum contacts" exists for purposes of
+imposing a tax, or establishing a duty to collect and remit a tax, under this chapter. A
+service supplier shall be deemed to have sufficient activity in the city to be obligated to
+collect and remit the tax imposed by this chapter if it does any of the following:
+maintains or has within the city, directly or through an agent or subsidiary, a place of
+
+business of any nature; solicits business in the city by employees, independent
+contractors, resellers, agents or other representatives: solicits business in the city by
+means of advertising that is broadcast or relayed from a transmitter within the city or
+distributed from a location within the city; or advertises in newspapers or other
+periodicals printed and published within the city or through materials distributed in the
+city by means other than the United States mail.
+
+SEC. 29.17. Effect of state and federal authorization.
+
+To the extent that the city's authorization to impose or collect any tax imposed
+under this chapter is expanded or limited as a result of changes in state or federal law,
+no amendment or modification of this chapter shall be required to conform the tax to
+those changes, and the tax shall be imposed and collected to the full extent of the city's
+authorization up to the full amount of the tax imposed under this chapter."
+
+LD/8/ORD
+
+016-07-27-10o-E-lA
+
+ATTACHMENT 5
+
+UNAPPROVED MINUTES
+
+3. STUDY SESSION
+
+3.1 MODERNIZATION OF TELEPHONE USERS TAX ORDINANCE
+
+The Assistant to the City Manager offered brief introductory comments on
+this item, explaining that staff is recommending to update a potential
+Telephone Users Tax (TUT) modernization ballot measure to reflect current
+telecommunications technology, changes in Federal law and to strengthen the
+ordinance's enforceability.
+
+Bryan Godbe, President—Godbe Research, spoke briefly and introduced his
+colleague, Dr. Davidson.
+
+Dr. Amelia Davidson, Senior Research Manager—Godbe Research, explained
+that Godbe Research was commissioned to conduct a telephone survey to
+assess potential voter support for the aforementioned ordinance. This survey
+was designed to prioritize a list of City services and facilities that voters
+perceive are important to maintain with the funds generated by the TUT; test
+the influence of supporting and opposing messages on potential voter
+support; and identify any differences in voter support due to demographic
+and/or voter behavioral characteristics. She explained that data collection
+was done via 15-minute telephone interviews conducted from March 29
+through April 2,2010, of 400 voters out of approximately 19,804 registered
+voters in the City of Mountain View who are likely to vote in the
+November 2010 election. She then reviewed in detail the results of the
+telephone survey.
+
+Councilmember Inks asked what kind of updated technology language will
+be in the ordinance and the Assistant to the City Manager responded that the
+older, common language only referenced telephones and modernization
+language mentions newer technologies, such as cell phones, wireless. Voice
+over Internet, etc.
+
+Councilmember Inks asked how they treat certain language to ensure equal
+treatment of taxpayers and Mr. Godbe responded that there could be an
+unequal treatment of taxpayers and that is the reason for the modernization.
+He explained that they are trying to solve an inequity amongst all of those
+different technologies.
+
+The Assistant to the City Manager clarified to Councilmember Macias that the
+current ordinance includes intrastate and wireless.
+
+Regular Meeting - April 27,2010
+
+Page 2
+
+Councilmember Macias stated that they need to make very clear in the
+language that wireless providers and land-line providers pay a TUT, but that
+all other providers, such as voice, cable or private networks, do not.
+
+Mayor Bryant asked whether there is a template they will be working off of or
+if they are expecting to build whatever tax on their own, compared to what
+other cities are doing, and staff explained that they do have a template, noting
+that other cities have tax modernization ordinances.
+
+The City Manager clarified that the City just wants to make sure that they can
+continue to collect what they are already collecting and they are really just
+expanding the potential universe to interstate and international. He noted
+that they are already collecting the tax on cell phone providers via bundling,
+but the old ordinance is not explicit and they just want to include the newer
+technologies in the ordinance so that if there are any questions regarding
+what people are being taxed on, it will be covered.
+
+The Assistant to the City Manager stated that there are a number of next steps
+regarding communication with businesses and the community at-large and
+the City Manager asked for a general sense from the Council regarding
+proceeding and that any comments or suggestions on general structure
+would be helpful.
+
+Councilmember Macias stated that consumers have a choice of what long-
+distance providers they use and suggested that staff identify all of the
+different sources of whom they should be taxing.
+
+Councilmember Kasperzak clarified that they think of the big five telecom
+companies, but there are hundreds of companies and, to some degree, they
+are already collecting from many of those companies.
+
+Councilmember Means expressed concern that, at some point, people are
+going to ask what they are getting in return for the taxes they are paying.
+
+Responding to a question from Vice Mayor Siegel, the Assistant to the City
+Manager stated that based on how different services are billed to their
+customers as well as on their previous audit and work in other cities, a very
+rough estimate of how much they could raise from this could be several
+hundred thousand dollars.
+
+The public input period was opened and seeing no one wishing to speak, the
+public input period was closed.
+
+Regular Meeting - April 27,2010
+
+Page 3
+
+Vice Mayor Siegel commented that he is pleased with the survey and given
+they do the right work, they should pass this ordinance. He also questioned
+how many other cities have done this expansion.
+
+The Assistant to the City Manager stated that four of the seven cities in Santa
+Clara County with TUTs do tax on interstate and international calls, but he is
+unsure how many cities State-wide do it and he can bring that information
+back to the Council.
+
+Mayor Bryant stated that updating the ordinance to cover services that were
+not around years ago makes sense and is fair and she expressed support to
+move forward carefully.
+
+Regular Meeting - April 27,2010
+
+Page 4
+
+ATTACHMENT 6
+
+DIVISION 1. - GENERAL PROVISIONS
+DIVISION 2. - TELEPHONE USERS TAX.
+
+DIVISION 3. - ELECTRICITY USERS TAX.
+
+DIVISION 4. - GAS USERS TAX.
+
+DIVISION 5. - COLLECTION OF TAX
+
+DIVISION 6. - DELINQUENT TAXES
+
+DIVISION 7. - FAILURE TO COLLECT AND REPORT TAX
+
+DIVISION 9. - RECORDS.
+
+DIVISION 10. - REFUNDS.
+
+DIVISION 1. - GENERAL PROVISIONS
+
+SEC. 29.10. - Title.
+
+SEC. 29.11. - Adoption: charter authority.
+SEC. 29.12. - Definitions.
+
+SEC. 29.13. - Exemptions.
+
+SEC. 29.14.-Conflicts.
+
+SEC. 29.15. - Tax: effective date.
+
+SEC. 29.10. - Title.
+
+This article shall be known as the "Utility Users Tax Ordinance of the City of Mountain
+
+View."
+
+SEC. 29.11. - Adoption; charter authority.
+
+This article is adopted pursuant to the powers of the City of Mountain View as a charter
+city as provided in Article II of the City Charter, and as authorized by Section 6 of Article XI of the
+Constitution of the State of California, and is adopted as a tax levy to meet the usual current
+expenses of the city.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.12. - Definitions.
+
+Except where the context otherwise requires, the definitions contained in this section shall
+govern the construction of this article. The word "may" is always directory and discretionary and not
+mandatory; the word "shall" is always mandatory and not directory or discretionary.
+
+"City" shall mean the City of Mountain View, California, including all of the territory and
+jurisdiction thereof as presently constituted, and any and all of the same which shall later come into
+existence by any manner or means whatsoever.
+
+"Collector" shall mean the revenue officer of the City of Mountain View.
+
+"Director" shall mean the director of finance of the City of Mountain View.
+
+"Electrical corporation," "gas corporation," and "telephone corporation" shall have the
+same meanings as defined in Sec. 218, 222 and 234, respectively, of the Public Utilities Code of
+the State of California.
+
+'Month" shall mean a calendar month.
+
+"Person" shall mean any natural person, firm, all domestic and foreign corporations,
+associations, syndicates, joint ventures, partnerships of every kind, clubs, Massachusetts business
+or common law trusts, societies, and any officer or agent thereof.
+
+"Service supplier" shall mean any person required to collect a tax imposed under the
+provisions of this article.
+
+"Service user" shall mean a person required to pay a tax imposed under the provisions of
+this article.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.13. - Exemptions.
+
+Nothing contained in this article shall be construed as imposing a tax upon the city, or any
+person when imposition of such tax upon that person would be in violation of the Constitution of the
+United States or that of the State of California.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.14. - Conflicts.
+
+Nothing contained in this article is intended to conflict with applicable rules, regulations
+and tariffs of any service supplier subject to the jurisdiction of the California Public Utilities
+Commission. In the event of any conflict, the provisions of said rules, regulations and tariffs shall
+control.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.15. - Tax; effective date.
+
+The taxes imposed by this article shall become operative as of October 1,1970.
+
+(Ord. No. 29.70, 8/10/70.)
+
+DIVISION 2. - TELEPHONE USERS TAX.
+
+SEC. 29.16. - Tax imposed.
+
+SEC. 29.17. - Exemptions.
+
+SEC. 29.18. - Segregation of nontaxable charges.
+SEC. 29.19. - Tax, collection.
+
+SEC. 29.16. - Tax imposed.
+
+There is hereby imposed a tax upon every person in the city, other than a telephone
+corporation, using intrastate telephone communication services in the city. The tax imposed by this
+article shall be at the rate of three (3) percent of the charges made for such services, and shall be
+paid by the person paying for such services.
+
+(Ord. No. 29.70, 8/10/70; Ord. No. 2.71, 1/11/71.)
+
+SEC. 29.17. - Exemptions.
+
+Notwithstanding the provisions of Sec. 29.16, the tax imposed under this article shall not
+be imposed upon any person for using intrastate telephone communication services to the extent
+that the amounts paid for such services are exempt from or not subject to the tax as set forth in
+Council Policy B-7.
+
+(Ord. No. 29.70, 8/10/70; Ord. No. 12.06, 12/12/06.)
+
+SEC. 29.18. - Segregation of nontaxable charges.
+
+As used in this article, the term "charges" shall include the value of all services, credits,
+property of any kind or nature, or other consideration provided by a service user in exchange for
+utility services. If a nontaxable service and a taxable service are billed together under a single
+charge, sometimes referred to as "bundling," the entire charge shall be deemed taxable unless the
+service supplier identifies, by verifiable data, based upon its books and records that are kept in the
+regular course of business, in a manner that is consistent with generally accepted accounting
+principles, the nontaxable component of the charge. A service supplier has the burden to prove the
+proper apportionment of taxable and nontaxable charges.
+
+(Ord. No. 29.70, 8/10/70; Ord. No. 12.06, 12/12/06.)
+
+SEC. 29.19. - Tax, collection.
+
+The tax imposed in this division shall be collected from the service user by the person
+providing the intrastate telephone communication services. The amount of tax collected in one (1)
+month shall be remitted to the collector on or before the last day of the following month.
+
+(Ord. No. 29.70, 8/10/70.)
+
+DIVISION 5. - COLLECTION OF TAX
+
+SEC. 29.26. - Suit bv city.
+
+SEC. 29.27. - Duty to collect: procedures.
+SEC. 29.28. - Administrative agreements.
+
+SEC. 29.26. - Suit by city.
+
+Any tax required to be paid by a service user under the provisions of this article shall be
+deemed a debt owed by the service user to the city. Any such tax collected from a service user
+which has not been remitted to the collector shall be deemed a debt owed to the city by the person
+required to collect and remit. Any person owing money to the city under the provisions of this article
+shall be liable to an action brought in the name of the city for the recovery of such amount.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.27. - Duty to collect; procedures.
+
+The duty to collect and remit the taxes imposed by this article shall be performed as
+
+follows:
+
+The tax shall be collected insofar as practicable at the same time as and along
+with the charges made in accordance with regular billing practice of the service
+supplier. Except in those cases where a service user pays the full amount of said
+charges but does not pay any portion of a tax imposed by this article, or where a
+service user has notified a service supplier that he is refusing to pay a tax
+
+imposed by this article which said supplier is required to collect, if the amount
+paid by a service user is less than the full amount of the charge and tax which
+has accrued for the billing period, a proportionate share of both the charge and
+the tax shall be deemed to have been paid.
+
+(2)
+
+The duty to collect tax from a service user shall commence with the beginning of
+the first regular billing period applicable to that person which starts on or after the
+operative date of this article. Where a person receives more than one (1) billing,
+one or more being for different periods than another, the duty to collect shall
+arise separately for each billing period.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.28. - Administrative agreements.
+
+The director may make administrative agreements to vary the strict requirements of this
+article so that collection of any tax imposed herein may be made in conformance with the billing
+procedures of a particular service supplier so long as the overall result of said agreements results
+in collection of tax in conformance with the general purpose and scope of this article. A copy of
+each such agreement shall be on file and available for public examination in the director's office.
+
+(Ord. No. 29.70, 8/10/70.)
+
+DIVISION 6. - DELINQUENT TAXES
+
+SEC. 29.29. - Taxes: when delinquent.
+
+SEC. 29.30. - Service supplier: penalty.
+
+SEC. 29.31. ■ Service supplier: fraud: penalty.
+
+SEC. 29.32. - Service supplier: interest.
+
+SEC. 29.33. - Service supplier: penalty and interest part of tax.
+SEC. 29.34. - Service user: penalty.
+
+SEC. 29.35. - Service user: fraud: penalty.
+
+SEC. 29.36. - Service user: interest.
+
+SEC. 29.37. - Service user: penalty and interest part of tax.
+
+SEC. 29.38. - Service user: penalties and interest collected bv city.
+
+SEC. 29.29. - Taxes; when delinquent.
+
+Taxes collected from a service user which are not remitted to the collector on or before the
+due date provided in this article are delinquent. Any tax billed to a service user but not paid to the
+service supplier shall not be deemed an obligation of the service supplier unless such tax is
+thereafter paid to the service supplier.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.30. - Service supplier; penalty.
+
+In addition to remitting the amount of the tax, any service supplier who fails to remit any
+tax imposed by this article within the time required and upon five (5) days written notice to the
+service supplier of its failure to remit, shall pay a penalty of ten (10) percent of the amount of the
+tax or five (5) dollars, whichever is larger, which shall be added on the last day of each month
+following the date on which remittance was due until the tax and penalties are remitted.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.31. - Service supplier; fraud; penalty.
+
+If the collector determines that the non-payment by any service supplier of any remittance
+due under this article is due to fraud, a penalty of twenty-five (25) percent of the amount of the tax
+shall be added thereto in addition to the penalties stated in Sec. 29.30.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.32. - Service supplier; interest.
+
+In addition to the penalties imposed by Sec. 29.30 and 29.31, any service supplier who
+fails to remit any tax imposed by this article shall pay interest at the rate of one (1) percent per
+month, or fraction thereof, on the amount of the tax, exclusive of penalties, from the date on which
+the remittance first became delinquent until paid.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.33. - Service supplier; penalty and interest part of tax.
+
+Every penalty imposed upon a service supplier and such interest as accrues under the
+provisions of Sec. 29.30 to 29.32 inclusive shall become part of the tax required to be remitted.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.34. - Service user; penalty.
+
+In addition to paying the amount of the tax, any service user who fails to pay any tax
+imposed by this article within thirty (30) days of the date of the receipt of notice of the amount of tax
+due from the service supplier shall pay a penalty of ten (10) percent of the amount of the tax, or five
+(5) dollars, whichever is larger, which shall be added on the last day of each month following the
+date on which payment was due until the tax and penalties are paid.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.35. - Service user; fraud; penalty.
+
+If the collector determines that the nonpayment by any service user of any tax imposed by
+this article is due to fraud, a penalty of twenty-five (25) percent of the amount of the tax shall be
+added thereto in addition to the penalties stated in Sec. 29.34.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.36. - Service user; interest.
+
+In addition to the penalties imposed by Sec. 29.34 and 29.35, any service user who fails to
+pay any tax imposed by this article shall pay interest at the rate of one (1) percent per month or
+fraction thereof, exclusive of penalties, from the date on which the remittance first became
+delinquent until paid, and a collection charge often (10) dollars for each delinquent account.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.37. - Service user; penalty and interest part of tax.
+
+Every penalty imposed, and such interest as accrues upon a service user, under the
+provisions of Sec. 29.34 to 29.36, inclusive, shall become a part of the tax required to be paid.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.38. - Service user; penalties and interest collected by city.
+
+The penalties, interest, and collection charges imposed in Sec. 29.34 to 29.36, inclusive,
+shall not be collected by the service supplier, but by the city.
+
+(Ord. No. 29.70, 8/10/70.)
+
+DIVISION 7. - FAILURE TO COLLECT AND REPORT TAX
+
+SEC. 29.39. - Determination of tax bv collector: notice.
+
+SEC. 29.40. - Hearing on determination of tax: application.
+
+SEC. 29.41. - Determination of tax following hearing: notice: when due.
+
+SEC. 29.42. - Collection of taxes from service user bv citv: conditions: notice.
+SEC. 29.43. - Who may appeal.
+
+SEC. 29.44. ■ Hearing: notice.
+
+SEC. 29.45. - Hearing: determination.
+
+SEC. 29.46. - Hearing: penalties suspended.
+
+SEC. 29.39. - Determination of tax by collector; notice.
+
+If any service supplier shall fail to make, within the time provided in this article, any report
+and remittance of said tax or any portion thereof required by this article, the collector shall proceed
+in such manner as he may deem best to obtain facts and information on which to base his estimate
+of the tax due. As soon as the collector shall procure such facts and information as he is able to
+obtain upon which to base the assessment of any tax imposed by this chapter and payable by any
+service supplier who has failed or refused to make such report and remittance, he shall proceed to
+determine and assess against such service supplier the tax, interest and penalties provided for by
+this article. In case such determination is made, the collector shall give a notice of the amount so
+assessed by serving it personally or by depositing it in the United States mail, postage prepaid,
+addressed to the service supplier so assessed at his last known place of address.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.40. - Hearing on determination of tax; application.
+
+The service supplier may within ten (10) days after the serving or mailing of the notice
+referred to in Sec. 29.39 make application in writing to the collector for a hearing on the amount
+assessed. If application by the service supplier for a hearing is not made within the time prescribed,
+the tax, interest and penalties, if any, determined by the collector shall become final and conclusive
+and immediately due and payable. If such application is made, the collector shall give not less than
+five (5) days' written notice in the manner prescribed herein to the service supplier to show cause at
+a time and place fixed in said notice why said amount specified therein should not be fixed for such
+tax, interest and penalties. At such hearing, the service supplier may appear and offer evidence
+why such specified tax, interest and penalties should not be so fixed.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.41. - Determination of tax following hearing; notice; when due.
+
+After a hearing on the amount of tax assessed, the collector shall determine the proper tax
+to be remitted and shall thereafter give written notice to the service supplier in the manner
+prescribed above of such determination and amount of such tax, interest and penalties. The
+amount determined to be due shall be payable after fifteen (15) days unless an appeal is taken as
+provided in this article.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.42. - Collection of taxes from service user by city; conditions; notice.
+
+Whenever the collector determines that a service user has deliberately withheld the
+amount of any tax imposed on him by the provisions of this article from the amounts remitted to a
+service supplier required to collect the tax. or that a service user has failed to pay the amount of the
+tax to such service supplier for a period of four (4) or more billing periods, or whenever the collector
+deems it in the best interest of the city, he shall relieve such service supplier of the obligation to
+collect taxes due under this article from certain named service users for specified billing periods.
+The collector shall notify the service user that he has assumed responsibility to collect the taxes
+due for the stated periods and demand payment of such taxes, plus any penalty imposed and such
+interest as may be due pursuant to the provisions of Division 6 of this article. The notice shall be
+served on the service user by handing it to him personally or by deposit of the notice in the United
+States mail, postage prepaid thereon, addressed to the service user, at the address to which billing
+was made by the service supplier required to collect the tax; or, should the service user have
+changed his address, to his last known address.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.43. - Who may appeal.
+
+Any person aggrieved by any decision of the collector pursuant to this article may appeal
+to the director by filing a notice of appeal with the director within fifteen (15) days of the serving or
+mailing of the decision.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.44. - Hearing; notice.
+
+The director shall fix a time and place for hearing such appeal. The director shall give
+notice thereof in writing to such person by serving it personally or by depositing it in the United
+States mail, postage prepaid, addressed to such person at his last known address.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.45. - Hearing; determination.
+
+The director shall have authority to determine all questions raised on such appeal at the
+time of the hearing. No determination so made by the director shall conflict with any substantive
+provision of this article.
+
+(Ord. No. 29.70, 8/10/70.)
+
+SEC. 29.46. - Hearing; penalties suspended.
+
+No penalty provided for in this article shall be imposed after the filing of an appeal or prior
+to the completion of the hearing on the appeal and the making of a determination on the subject of
+the appeal by the director.
+
+(Ord. No. 29.70, 8/10/70.)
+
+DIVISION 9. - RECORDS.
+
+SEC 29 47. - Retention period: access
+
+SEC. 29.47. - Retention period; access.
+
+It shall be the duty of every service supplier required to collect and remit to the city any tax
+imposed by this article to keep and preserve, for a period of three (3) years, all records as may be
+necessary to determine the amount of such tax as such service supplier may have been required to
+collect and remit to the city, which records the collector shall have the right to inspect at all
+reasonable times.
+
+(OrdNo. 29.70, 8/10/70.)
+
+DIVISION 10.-REFUNDS.
+
+SEC. 29.48. - Refunds.
+
+SEC. 29.49 to 29.51. - Repealed bv Ord. No. 12.06. 12/12/06
+
+SEC. 29.48. - Refunds.
+
+a.
+
+Whenever the amount of any tax has been overpaid or paid more than once or has been
+erroneously or illegally collected or received by the collector under this article, it may be
+refunded as provided in this section.
+
+b.
+
+A service supplier may claim a refund or take as credit against taxes collected and
+remitted the amount overpaid, paid more than once, or erroneously or illegally collected or
+received when it is established in a manner prescribed by the collector that the service
+user from whom the tax has been collected did not owe the tax, provided, however, that
+neither a refund nor a credit shall be allowed unless the amount of the tax so collected has
+either been refunded to the service user or credited to charges subsequently payable by
+the service user to the person required to collect and remit.
+
+c.
+
+A service user may claim a refund, or take as credit against taxes collected and remitted,
+the amount overpaid, paid more than once, or erroneously or illegally collected or received
+when it is established to the satisfaction of the collector and in a manner prescribed by the
+collector that the service user from whom the tax has been collected did not owe the tax,
+provided, however, that neither a refund nor a credit shall be allowed if the amount of the
+tax so collected has either been refunded to the service user or credited to charges
+subsequently payable by the service user to the person required to collect and remit, and
+provided further that the service user has been unable to obtain a refund from the service
+supplier who collected the tax.
+
+d.
+
+No refund shall be paid under the provisions of this section unless the claimant
+established his right thereto by written records showing entitlement thereto.
+
+e.
+
+No refund shall be paid under the provisions of this section unless the claimant has
+submitted a claim pursuant to Sec. 1.35, "Claims," of Article 111, "Claims," of Chapter 1,
+"General Provisions," of the Mountain View City Code.
+
+(OrdNo. 29.70, 8/10/70; Ord. No. 12.06, 12/12/06.)
+
+SEC. 29.49 to 29.51. - Repealed by Ord. No. 12.06,12/12/06.
+
+TUT Modernization Impact Estimates
+
+ATTACHMENT 7
+
+The following analysis provides an order of magnitude assessment of how the proposed
+Telecommunications Users Tax modernization ordinance might potentially impact
+telecommunications users. This assessment serves as examples only, based on staffs
+review of residential users’ bills that were volunteered confidentially for review, and
+based on estimates confidentially provided by some businesses by the time of the release
+of this report. The City’s ability to gather detailed billing data is limited because the City
+does not have access to customers’ bills and telecommunications plans and services can
+vary widely from resident to resident and business to business. Telecommunications
+service users will need to review the specifics of their own billing plans and/or ask their
+service provider in order to determine the specific impact of this measure.
+
+Residential Telecommunications Users
+
+A.	Land-line local service: A flat rate plan, commonly approximately $30/month,
+currently pays approximately $0.90/month in TUT. Estimated Impact: no impact.
+
+B.	Land-line long-distance service: A flat rate plan, commonly approximately
+$20/month, might currently pay $0.35/month in TUT where intrastate calls comprise
+approximately 80-90% of the long-distance minutes and interstate calls the rest.
+Under the proposed modernization, interstate calls would be subject to the tax in
+addition to intrastate, so the TUT would apply to the flat rate of $20 instead of an
+intrastate fraction thereof. Estimated Impact: Increase from $0.35/month to
+
+$0.60/month.
+
+C.	Land-line international calling: Many services are fixed per minute charges, often as
+low as $0.02/minute with a connection charge of $0.50. For example, a 15 minute
+international call may cost $0.80. International calls are currently exempt from the
+TUT. Estimated Impact: Increase from $0.00 to $0.024for a 15 minute
+international call.
+
+D.	Digital Voice/Voice over Internet Protocol (VOIP): The TUT currently applies to
+these types of services, but compliance varies from provider to provider, including
+whether interstate or international calls are distinguishable in the service provider’s
+accounting system and thus whether they are taxed or not. For example, one provider
+that bundles voice, internet, and video services together at a charge of $165/month is
+able to account for the voice service portion of that bundle and the TUT currently
+charged is $0.77/month. Another provider that sells a stand-alone VoIP service for
+$9.99/month charges $0.30 for the TUT. Staff is also aware of VoIP providers that
+do not charge the TUT. Estimated Impact: Not Available (depends on whether your
+VoIP provider currently charges the TUT and whether they account for a difference
+between local and long-distance calls).
+
+Mobile Telecommunications Users
+
+The TUT currently applies to mobile phone services. For example, a cell phone plan that
+costs $35 for 300 “anytime” minutes pays approximately $l/month in TUT, regardless of
+whether calls are intrastate or interstate. A second mobile phone on that plan, commonly
+at a cost of approximately $10, is charged $0.30 in TUT. A mobile phone with a data
+plan at a cost range of $60 to $80/month currently is charged approximately $1.80 to
+$2.40/month in TUT. Digital downloads from mobile devices, such as games, ringtones,
+applications, etc. are not charged the TUT. Estimated Impact: no impact.
+
+Business Telecommunications Users
+
+A.	Similar to residential land-line users, businesses that use land-line services for
+intrastate, interstate, and international calling will only be affected based on the
+difference of cost between their current TUT charge for intrastate calling and three
+percent of their interstate and international long-distance plan charges.
+
+B.	All telecommunications lines, whether transmitting voice data or other data, will be
+charged the TUT. As the report discusses, there is a prevalence of transitions to VoIP
+services, and digital voice data is indistinguishable from other data. Due to this
+modernization, one medium size business estimates that its TUT charge will increase
+from under $100/month to approximately $600/month. In general, if a business’s
+Internet service line from a service provider costs $2,000/month, and the Internet
+Access allocation of this charge is 50% (Internet service providers must show a
+documented allocation formula for Internet Access versus other charges upon
+customer request), then $l,000/month will be charged the TUT, or an increase of
+$30/month. Estimated Impact: $30/month increase per every $l,000/month of
+Internet service provision, excluding Internet Access allocation by service provider.
+
+C.	At the time of the release of this report, staff had not received other specific estimates
+from Mountain View businesses about the impact of the TUT modernization, despite
+extensive communications and cooperation with numerous large businesses to receive
+such estimates. Staff will continue to communicate with these large businesses and
+any others that may be interested regarding the TUT modernization.
+
+This space for filing stamp only
+
+SAN JOSE POST-RECORD
+
+95 S. Market St., Ste. 535, SAN JOSE, CA 95113
+Telephone (408) 287-4866 / Fax (408) 287-2544
+
+PATTY JUANES
+MOUNTAIN VIEW, CITY OF
+P.O. BOX 7540
+
+MOUNTAIN VIEW, CA - 94039
+
+PROOF OF PUBLICATION
+
+(2015.5 C.C.P.)
+
+State of California	)
+
+County of SANTA CLARA	) ss
+
+Notice Type:	GMV - MOUNTAIN VIEW
+
+Ad Description: TELECOMMUNICATIONS USERS TAX
+
+SJ#: 1905759
+
+COTOFMOUMTMNVEW
+NOTICE OF PUBLIC HEAfUNG
+CfTYCOUNOL
+
+NOTICE IS HB1EBY GIVEN MTuMdw,
+f»27l)(lwafJl^910.N(i*liowcf$;
+
+l ot «■ toon I_____________
+
+can M bMrd to «w &>und) Chambcra
+at Cty Hal, 9tX) Caaba Sbaat Mountain
+\4mx haa baan aat aa to# torn andntoco
+far pMcImriraontefoaowtoi torn:
+
+A RaaoMlori oraa Cby Coundl of Aa &&
+of Mountota Mkm, SitonMno to toa \Mara,
+at ka Nowondar 2,21)10 Ginaol Mudcfcal
+
+29 of tho UouMato Vtow Cly Coda,
+mpni^ MMiniviiiKHini umi w
+
+Intonated parttet may appear and
+be heard. Wrttten statements may be
+submitted to die City Clerk, P.O. Box
+7540, Mountain Vtow, CaMbmta. 94039.
+LmhI dtotoidt® imw to Mad Id thoaa
+Imm orottosJfatefitoid it (to puMfc
+tearing onftfor biMHM consipondanca
+datoamdtomeC|yCtoifcaLwpriarto,die
+
+—-o-m- a. -
+
+pupae iMmp.
+
+I am a citizen of the United States and a resident of the State of California; I am
+over the age of eighteen years, and not a party to or interested in the above
+entitled matter. I am the principal clerk of the printer and publisher of the SAN
+JOSE POST-RECORD, a newspaper published in the English language in the
+city of SAN JOSE, county of SANTA CLARA, and adjudged a newspaper of
+general circulation as defined by the laws of the State of California by the
+Superior Court of the County of SANTA CLARA, State of California, under date
+02/03/1922, Case No. 27844. That the notice, of which the annexed is a
+printed copy, has been published in each regular and entire issue of said
+newspaper and not in any supplement thereof on the following dates, to-wit:
+
+Dated ftklOfi day of Ju*. 2010.
+
+WhndaWbng
+
+Acton CtyCwfc
+
+7/18/10
+
+SJ-19987899
+
+I
+
+07/16/2010
+
+Executed on: 07/16/2010
+At Los Angeles, California
+
+A000001769855
